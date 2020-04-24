@@ -35,8 +35,11 @@ urls = [
     ('artikelkoppen_nl.txt', 'https://news.google.com/topstories?hl=nl&gl=NL&ceid=NL:nl')
 ]
 
+if not os.path.exists("news"):
+    os.mkdir("news")
 
 for (filename, url) in urls:
+    filename = os.path.join("news", filename)
     if os.path.exists(filename):
         with open(filename, "r") as f:
             lines_already_in_file = f.read()
