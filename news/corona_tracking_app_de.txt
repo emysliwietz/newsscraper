@@ -29,3 +29,6 @@ Corona-Tracking-App: Wann wacht Datenschutz-Deutschland endlich auf? | appgefahr
 Pro und Kontra: Eine Corona-App - Segen oder Fluch? | Luxemburger Wort | 2020-04-24T13:09:26Z
 Corona-Tracing: Bundesregierung denkt bei App um | tagesschau.de | 2020-04-25T22:00:00Z
 Corona-App mit Speicherung:Spahn bringt Datenschützer gegen sich auf | n-tv NACHRICHTEN | 2020-04-23T09:00:28Z
+Covid-19 - Keine zentrale Datenspeicherung mehr bei Corona-Tracking-App | Deutschlandfunk | 2020-04-26T07:42:50Z
+Corona-Tracking: Wie Contact-Tracing-Apps funktionieren, was davon zu halten ist | heise online | 2020-04-26T07:00:00Z
+Corona-App: Bundesregierung doch fÃ¼r dezentrale Datenspeicherung | BR24 | 2020-04-26T05:21:00Z

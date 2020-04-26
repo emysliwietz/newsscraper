@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/news/corona_maatregelen_nl.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/news/corona_maßnahmen_de.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/news/corona_measures_en.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/news/schlagzeilen_de.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/news/who_de.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/news/who_en.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/news/who_nl.txt" charset="ISO-8859-1" />
+  </component>
+</project>

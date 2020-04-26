@@ -65,7 +65,7 @@ for (filename, url) in urls:
         if i > 24:
             break
 
-    with open(filename, write_mode) as f:
+    with open(filename, write_mode, encoding='utf-8') as f:
         f.write(lines_to_append)
     print("Finished updating {}".format(filename))
 
