@@ -41,7 +41,7 @@ if not os.path.exists("news"):
 for (filename, url) in urls:
     filename = os.path.join("news", filename)
     if os.path.exists(filename):
-        with open(filename, "r") as f:
+        with open(filename, "r", encoding='utf-8') as f:
             lines_already_in_file = f.read()
         write_mode = "a" # Append if file exists
     else:
