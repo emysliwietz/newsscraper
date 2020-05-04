@@ -28,3 +28,88 @@ Coronavirus in NRW: Essener (26) stirbt – ohne Vorerkrankungen | Der Westen | 
 Warum wir die Corona-Tracking-App nun dringend brauchen | NRZ | 2020-04-01T07:00:00Z
 Coronavirus - Corona-Tracking & Datenschutz: kein notwendiger Widerspruch | Netzpolitik.org | 2020-03-29T07:00:00Z
 Mit diesen Apps kämpft die Welt gegen das Coronavirus | Süddeutsche Zeitung | 2020-04-06T17:55:40Z
+Corona-App: Bundesregierung favorisiert dezentralen Ansatz | WELT | 2020-04-25T22:08:39Z
+Nach Protesten: Geplante Corona-App soll doch dezentral funktionieren | WinFuture | 2020-04-26T08:31:00Z
+Bundesregierung will nun doch dezentrale Speicherung bei Corona-App | BR24 | 2020-04-25T19:00:00Z
+Streit um Corona-Tracing-App: Kräftemessen mit Apple und Google | tagesschau.de | 2020-04-25T04:11:00Z
+Dezentrale Lösung: Apples machtvolle Position im Streit um die Corona-App | Tagesspiegel | 2020-04-26T15:27:22Z
+Corona: Regierung einigt sich auf Tracing-App | Süddeutsche Zeitung | 2020-04-26T17:29:06Z
+Corona-App: Apple und Google wollen Regierungswünschen nachkommen | heise Security | 2020-04-24T17:31:00Z
+Corona-Apps: Tracking in der EU nicht erlaubt | COMPUTER BILD | 2020-04-27T08:56:00Z
+Apple demonstriert Machtposition: Bundesregierung muss bei Konzeption der Corona-App umschwenken | Tagesspiegel | 2020-04-27T09:28:14Z
+Corona-App: Apple und Google wollen Regierungswünschen nachkommen | Mac & i | 2020-04-24T17:31:00Z
+PEPP-PT: So funktioniert die Corona-App | inside digital | 2020-04-27T10:26:03Z
+Corona Tracking App CoChain: Mit iBeacons anonym tracken | Netzpiloten | 2020-04-27T09:50:21Z
+UN pochen bei Corona-App auf Privatsphäre | DW (Deutsch) | 2020-04-27T12:20:57Z
+Corona-Tracing: Chaos Computer Club und andere Vereine fordern Regierung zum Umdenken auf | t3n Magazin | 2020-04-24T10:24:12Z
+China, Tracing-Apps und Big Data:Ist Corona Pekings Einfallstor nach Europa? | n-tv NACHRICHTEN | 2020-04-26T14:22:33Z
+Kampf gegen Coronavirus-Ausbreitung - Wie eine Corona-Tracing-App funktioniert | Deutschlandfunk | 2020-04-27T12:51:06Z
+Chaos bei der technischen Umsetzung: Warum noch Monate vergehen werden, bis die Corona-App kommt | Tagesspiegel | 2020-04-27T10:52:51Z
+Stopp-Corona-App: Erst das Tracking, dann die Moral | Die Presse | 2020-04-27T15:19:05Z
+Konzept für Corona-App steht: Das sollten Sie jetzt über das Infektions-Tracking wissen | RTL Online | 2020-04-27T15:26:14Z
+Stopp-Corona-App: Erst das Tracking, dann die Moral | Die Presse | 2020-04-27T16:28:52Z
+Richtungswechsel: Corona-Tracking-App nun doch dezentralisiert nach Weigerung durch Apple | Notebookcheck | 2020-04-27T10:31:15Z
+Stopp-Corona-App: Erst das Tracking, dann die Moral | Die Presse | 2020-04-27T18:19:11Z
+Stopp-Corona-App: Erst das Tracking, dann die Moral | Die Presse | 2020-04-27T19:30:23Z
+Corona-Tracking in Deutschland: Nur ein Baustein | taz.de | 2020-04-28T06:31:32Z
+Corona-Apps: Tracking in der EU nicht erlaubt | COMPUTER BILD | 2020-04-28T04:00:00Z
+Corona-App in Österreich: Push-Nachrichten gegen Corona | taz.de | 2020-04-28T09:17:03Z
+SAP und Telekom sollen Corona-Tracking-App im Auftrag der Bundesregierung entwickeln | Business Insider Deutschland | 2020-04-28T15:00:34Z
+Tracking-App: Telekom und SAP bauen Corona-App | Handelsblatt | 2020-04-28T15:06:00Z
+Corona-App: Europaweiter Start soll schon bald erfolgen | CHIP Online Deutschland | 2020-04-08T09:05:54Z
+Corona-Apps: Welche es schon gibt und worauf wir warten - CHIP | CHIP Online | 2020-04-24T07:00:00Z
+Kampf gegen Coronavirus-Ausbreitung - Wie eine Corona-Tracing-App funktioniert | Deutschlandfunk | 2020-04-27T12:45:00Z
+Corona-Apps und Tracking in Israel | BR24 | 2020-04-13T07:00:00Z
+Corona-App: Tracing statt Tracking | zm online | 2020-04-28T10:06:59Z
+SAP und Telekom sollen Corona-Tracking-App im Auftrag der Bundesregierung entwickeln | Business Insider Deutschland | 2020-04-28T19:48:54Z
+Corona-Tracking-Apps - Was ist geplant, was könnte noch kommen - und was bringt das Ganze? | connect.de | 2020-04-06T07:00:00Z
+Corona-App - Wie eine Corona-Tracing-App funktioniert | Deutschlandfunk | 2020-04-29T12:45:00Z
+Datenschutz: Corona-Tracking mit Tracing-App – So funktioniert's | Wissen | SWR2 | SWR | 2020-04-29T14:11:39Z
+Corona-Tracking: Helmholtz-Zentrum erwartet Start der Corona-App in den nächsten Wochen | Handelsblatt | 2020-04-29T17:00:00Z
+iOS und Android: Corona-Tracking-Schnittstelle als Beta | Mac & i | 2020-04-30T04:55:00Z
+Corona-Tracking: App könnte bald an den Start gehen | it-daily.net | 2020-04-01T07:00:00Z
+Covid-19 - Telekom und SAP sollen Corona-App entwickeln | Deutschlandfunk | 2020-04-30T05:20:34Z
+Coronavirus-News: Neue Corona-App - DAS kann die Tracking-Software von Apple und Google | news.de | 2020-04-28T07:27:13Z
+Corona-Warn-App: SAP und Telekom sollen es richten | InfoDigital / INFOSAT | 2020-04-30T06:38:33Z
+Corona-Apps - Übersicht & FAQ: Wann, wie, warum? | connect.de | 2020-04-28T09:32:17Z
+Coronavirus-News aktuell: Neue Corona-App - DAS kann die Tracking-Software von Apple und Google | news.de | 2020-04-29T07:27:00Z
+Telekom und SAP arbeiten an der Corona-App. | turi2 | 2020-04-28T09:52:00Z
+Corona-Apps: Einen Schritt näher zum automatischen Tracking | Die Presse | 2020-04-30T09:31:44Z
+Digitalausschuss-Vorsitzender beklagt Verzögerung bei Corona-App | InfoDigital / INFOSAT | 2020-04-29T07:36:00Z
+Coronavirus: Wie die Corona-App gegen die Pandemie helfen soll | Berliner Morgenpost | 2020-04-30T12:59:00Z
+Coronavirus: Wie die Corona-App gegen die Pandemie helfen soll | Berliner Morgenpost | 2020-04-30T16:59:16Z
+Vorstoß von Apple und Google: Corona-Apps könnten auch ungefähres Infektionsrisiko berechnen | DER SPIEGEL | 2020-04-30T10:31:03Z
+App soll beim Corona-Exit helfen - aber was ist mit Datenschutz? | hessenschau.de | 2020-04-23T09:31:00Z
+iOS und Android: Corona-Tracking-Schnittstelle als Beta | heise online | 2020-04-30T04:55:00Z
+iOS 13.5 – Apple reagiert mit iPhone-Update auf Corona-Krise | TECHBOOK | 2020-05-01T06:19:58Z
+Coronavirus: Scheitert die Tracking-App am Datenschutz? | Westdeutsche Allgemeine Zeitung | 2020-04-22T07:00:00Z
+Covid-19 - Telekom und SAP sollen Corona-App entwickeln | Deutschlandfunk | 2020-05-01T07:31:15Z
+Tracking zur Pandemie-Eindämmung: Wie Corona-Apps funktionieren | taz.de | 2020-04-17T07:00:00Z
+App soll beim Corona-Exit helfen - aber was ist mit Datenschutz? | hessenschau.de | 2020-04-23T07:00:00Z
+Tracking für die Freiheit - Per App aus der Corona-Krise | SWR | 2020-05-01T10:19:00Z
+Corona-Tracking in Deutschland: Nur ein Baustein | taz.de | 2020-04-28T06:11:00Z
+Südkorea: Tracking-App gegen Corona | inFranken.de | 2020-04-23T07:00:00Z
+Corona-App PEPP-PT: Neuer Zeitplan und ein weiteres Problem | inside digital | 2020-04-18T10:18:44Z
+Covid-19 - Telekom und SAP sollen Corona-App entwickeln | Deutschlandfunk | 2020-05-01T07:35:42Z
+Corona-App: Nun doch mit Zwang und ohne Datenschutz? | BR24 | 2020-04-15T07:00:00Z
+Corona-App - Wie eine Corona-Tracing-App funktioniert | Deutschlandfunk | 2020-04-29T07:00:00Z
+Datenschutz: Corona-Tracking mit Tracing-App – So funktioniert's | Wissen | SWR2 | SWR | 2020-04-29T14:07:00Z
+Corona-Tracking: Helmholtz-Zentrum erwartet Start der Corona-App in den nÃ¤chsten Wochen | Handelsblatt | 2020-04-29T17:00:00Z
+Corona-Tracking-Apps - Was ist geplant, was kÃ¶nnte noch kommen - und was bringt das Ganze? | connect.de | 2020-04-06T07:00:00Z
+Pandemie-BekÃ¤mpfung per Smartphone: So funktioniert die geplante "Corona-App" | rbb|24 | 2020-04-02T07:00:00Z
+SÃ¼dkorea: Tracking-App gegen Corona | inFranken.de | 2020-04-23T07:00:00Z
+Berlins Justizsenator Behrendt hÃ¤lt Tracking-App zur Corona-EindÃ¤mmung fÃ¼r sinnvoll | rbb|24 | 2020-04-14T07:00:00Z
+Tracing App erklÃ¤rt: Was Sie zur Stopp-Corona-App wissen sollten | CHIP Online | 2020-04-05T07:00:00Z
+Corona-Apps: 2 Milliarden GerÃ¤te kÃ¶nnen Tracking nicht nutzen | connect.de | 2020-04-21T07:00:00Z
+iOS 13.5 â€“ Apple reagiert mit iPhone-Update auf Corona-Krise | TECHBOOK | 2020-05-01T06:19:58Z
+Digitalisierung in der Corona-Falle - Warum freiwilliges Handy-Tracking nicht funktioniert | Netzpolitik.org | 2020-04-03T07:00:00Z
+Corona-Apps: 2 Milliarden Geräte können Tracking nicht nutzen | connect.de | 2020-04-21T07:00:00Z
+Covid-19 - Robert Koch-Institut & Co: mit Apps gegen das Coronavirus | Deutschlandfunk | 2020-05-01T22:44:40Z
+Umstrittene Tracking-App: Autonome bekennen sich zu Brandanschlag in Berlin | DER SPIEGEL | 2020-04-15T16:10:37Z
+Corona-App soll Pandemie stoppen – doch wie funktioniert sie? | Region | mannheim24.de | 2020-04-20T07:00:00Z
+Corona-App: Bundesregierung verhandelt mit Apple | WELT | 2020-04-24T14:55:51Z
+Corona-App soll Pandemie stoppen â€“ doch wie funktioniert sie? | Region | mannheim24.de | 2020-04-20T07:00:00Z
+Mit diesen Apps kÃ¤mpft die Welt gegen das Coronavirus | SÃ¼ddeutsche Zeitung | 2020-04-06T17:55:40Z
+Erste Versuche digitaler Epidemiologie - Die Vorläufer der Corona-Apps | Deutschlandfunk | 2020-05-03T15:55:06Z
+Corona-App vom Max-Planck-Institut: Kostenlos auf Android & iOS laden | CHIP Online Deutschland | 2020-05-01T05:32:36Z
+Covid-19 - Telekom und SAP sollen Corona-App entwickeln | Deutschlandfunk | 2020-05-02T05:50:41Z

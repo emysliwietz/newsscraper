@@ -33,3 +33,150 @@ Apple and Google pledge to shut down coronavirus tracker when pandemic ends | Th
 The biggest questions about Apple and Google’s new coronavirus tracker | The Verge | 2020-04-11T15:13:52Z
 Research: How location-tracking apps could stop the spread of coronavirus | The Next Web | 2020-04-09T09:43:47Z
 UK app to track coronavirus spread to be launched | The Guardian | 2020-04-12T19:13:40Z
+Privacy concerns persist over Australia's coronavirus tracing app | The Guardian | 2020-04-20T05:43:50Z
+Scientists urgently call for a coronavirus app to track who coronavirus patients | Daily Mail | 2020-03-31T16:00:04Z
+Coronavirus tracking app to be rolled out in Australia only with privacy safeguards – minister | The Guardian | 2020-04-15T07:00:00Z
+Covidsafe app: how to download Australia's coronavirus contact tracing app and how it works | The Guardian | 2020-04-27T04:00:00Z
+Panic as Australians are told they have coronavirus by new government app | Daily Mail | 2020-04-26T23:05:17Z
+Australia's new coronavirus tracking app was downloaded a million times in just 5 hours | Mashable | 2020-04-27T04:10:00Z
+Australian Government's coronavirus tracing app COVIDSafe downloaded 1 million times | ABC News | 2020-04-26T21:49:00Z
+Tracking app shows coronavirus was 'silently spreading through UK in January' | Mirror Online | 2020-04-27T00:14:39Z
+Coronavirus tracking app suggests bug was spreading through UK in January – weeks before first confirmed c | The Sun | 2020-04-26T20:39:04Z
+Coronavirus: People with COVID-19 symptoms more than double number who tested positive, app shows | Sky News | 2020-04-25T17:41:03Z
+Coronavirus crisis: States split on easing virus restrictions | The West Australian | 2020-04-26T23:05:54Z
+NHS coronavirus tracking app could prevent one case for every two people that download it | The Sun | 2020-04-27T05:09:43Z
+Coronavirus updates :Plan to test people with no virus symptoms | 9News | 2020-04-27T06:34:17Z
+Apple, Google address privacy concerns with coronavirus tracking tech | CNET | 2020-04-26T18:26:48Z
+Hanson ‘doesn’t trust the government’, won’t download virus tracking app | The New Daily | 2020-04-27T02:17:27Z
+Will the Government's coronavirus app COVIDSafe keep your data secure? Here's what the experts say | ABC News | 2020-04-27T06:14:35Z
+Tracking app shows coronavirus was 'silently spreading through UK in January' | Mirror Online | 2020-04-27T08:39:39Z
+NHS coronavirus tracking app could prevent one case for every two people that download it | The Sun | 2020-04-27T09:16:59Z
+UK Prime Minister calls virus 'a mugger' as he returns to work | 9News | 2020-04-27T09:17:00Z
+Coronavirus tracker app: How to keep track of COVID-19 on your phone | Express.co.uk | 2020-03-31T07:00:00Z
+Coronavirus tracking apps: How are countries monitoring infections? | DW (English) | 2020-04-27T03:02:51Z
+Australian Government's coronavirus tracing app COVIDSafe downloaded 1 million times | ABC News | 2020-04-27T08:30:36Z
+Coronavirus entered UK in early January, symptom tracker app suggests | Metro.co.uk | 2020-04-27T10:34:50Z
+UK Prime Minister calls virus 'a mugger' as he returns to work | 9News | 2020-04-27T10:28:10Z
+Coronavirus tracking app suggests bug was spreading through UK in January – weeks before first confirmed c | The Sun | 2020-04-27T10:00:32Z
+UK Prime Minister calls virus 'a mugger' as he returns to work | 9News | 2020-04-27T12:38:00Z
+German U-turn over coronavirus tracking app sparks backlash | Financial Times | 2020-04-27T13:11:58Z
+Coronavirus updates LIVE: COVIDSafe app goes live as global COVID-19 cases near 3 million, Australian death toll stands at 83 | The Sydney Morning Herald | 2020-04-27T06:48:00Z
+As the day unfolded: COVIDSafe app goes live as global COVID-19 cases near 3 million, Australian death toll stands at 83 | Brisbane Times | 2020-04-27T12:01:00Z
+Coronavirus tracking apps: How are countries monitoring infections? | DW (English) | 2020-04-27T14:40:20Z
+UK Prime Minister calls virus 'a mugger' as he returns to work | 9News | 2020-04-27T14:38:00Z
+Analysis | The Cybersecurity 202: Companies join governments in rush to launch coronavirus tracking apps | The Washington Post | 2020-04-27T14:42:22Z
+Apple, Google address privacy concerns with coronavirus tracking tech | CNET | 2020-04-27T13:34:32Z
+Apple and Google reveal plans to let phones track whether you might have been exposed to coronavirus | The Independent | 2020-04-27T12:36:47Z
+Apple and Google will shut down contact-tracing system once pandemic ends | IT PRO | 2020-04-27T10:12:24Z
+UK Prime Minister calls virus 'a mugger' as he returns to work | 9News | 2020-04-27T15:45:00Z
+Analysis | The Cybersecurity 202: Companies join governments in rush to launch coronavirus tracking apps | The Washington Post | 2020-04-27T16:43:51Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-27T15:01:54Z
+UK Pursues Centralized Coronavirus Contact Tracking App, Rejects Apple-Google Solution | MacRumors | 2020-04-27T18:02:40Z
+Covidsafe app: how to download Australia's coronavirus contact tracing app and how it works | The Guardian | 2020-04-27T23:45:37Z
+Australia has COVIDSafe. Here is how other countries are using contact tracing apps in the fight against coronavirus | ABC News | 2020-04-28T02:19:49Z
+COVIDSafe's effectiveness on iPhone in question as Government releases coronavirus contact tracing app | ABC News | 2020-04-26T20:19:26Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-27T16:23:43Z
+Apps UK National Health Service Coronavirus Contact Tracking App Will Not Use Apple-Google APIs | Mactrast | 2020-04-27T23:45:22Z
+So how do the coronavirus smartphone tracking apps actually work and should you download one to help? | The Register | 2020-04-14T07:00:00Z
+Covidsafe app: how to download Australia's coronavirus contact tracing app and how it works | The Guardian | 2020-04-27T23:44:00Z
+Australia has COVIDSafe. Here is how other countries are using contact tracing apps in the fight against coronavirus | ABC News | 2020-04-28T07:37:15Z
+Coronavirus: Australians download COVIDSafe contact tracing app | BBC News | 2020-04-26T16:26:58Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-27T18:19:11Z
+Users of COVIDsafe tracking app are receiving hoax text messages amid coronavirus | Daily Mail | 2020-04-28T05:04:14Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-28T03:55:57Z
+Two Million Australians Download Coronavirus Contact-Tracing App | Bloomberg | 2020-04-27T12:30:51Z
+Covid-19: Nearly two million Australians download coronavirus tracker app | The Star Online | 2020-04-27T08:38:42Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-28T05:02:31Z
+Virus-notifying smartphone apps are gaining momentum around the world | NBC News | 2020-04-28T13:03:48Z
+Apple, Google rework coronavirus tracking tech to address privacy concerns | CNET | 2020-04-27T13:34:32Z
+2 million Australians have downloaded a coronavirus contact tracing app | CNN | 2020-04-28T13:24:58Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-28T07:02:33Z
+UK Pursues Centralized Coronavirus Contact Tracing App, Rejects Apple-Google Solution | MacRumors | 2020-04-27T18:02:40Z
+Software developers warns Australia against releasing coronavirus tracking app | SBS News | 2020-04-22T22:28:16Z
+Coronavirus tracking app being developed in Latvia - Xinhua | English.news.cn | Xinhua | 2020-04-28T12:14:54Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-28T11:17:59Z
+NHS contact-tracing app ready for use in three weeks, MPs told | The Guardian | 2020-04-28T15:41:45Z
+Will Americans Be Willing to Install COVID-19 Tracking Apps? | Scientific American | 2020-04-28T16:00:12Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-28T13:30:33Z
+Covidsafe app: how to download Australia's coronavirus contact tracing app and how it works | The Guardian | 2020-04-28T23:59:00Z
+NHS app, testing and contact-tracing: how will the UK's coronavirus plan work? | The Guardian | 2020-04-28T18:09:38Z
+Australia urges use of coronavirus-tracking phone app, but says it’s not mandatory | Global News | 2020-04-18T07:00:00Z
+Coronavirus app will not be forced upon Australians, Scott Morrison says | ABC News | 2020-04-18T07:00:00Z
+Australians urged to adopt phone tracking app in coronavirus fight | Reuters | 2020-04-17T08:50:31Z
+Coronavirus mobile tracking app may be mandatory if not enough people sign up, Scott Morrison says | SBS News | 2020-04-17T07:55:48Z
+Coronavirus: Mobile tracking app could be compulsory, Morrison says | 9News | 2020-04-17T07:00:00Z
+Coronavirus Mobile Tracking App Could Become Compulsory For Australians | 10 daily | 2020-04-17T03:48:39Z
+Apps to Track the New Coronavirus Have an Old Problem: Getting the Downloads | The Wall Street Journal | 2020-04-28T23:21:58Z
+Covidsafe app: how to download Australia's coronavirus contact tracing app and how it works | The Guardian | 2020-04-29T12:00:18Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-27T15:03:00Z
+Coronavirus contact tracing: App could warn you of COVID-19 exposure | USA TODAY | 2020-04-28T14:39:00Z
+UK rejects Google and Apple's Coronavirus tracking app framework | Business Insider India | 2020-04-29T07:30:00Z
+Most Americans are not willing or able to use an app tracking coronavirus infections. That’s a problem for Big Tech’s plan to slow the pandemic. | The Washington Post | 2020-04-29T11:09:17Z
+Privacy concerns persist over Australia's coronavirus tracing app | The Guardian | 2020-04-20T07:00:00Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-27T15:01:43Z
+Claims that GCHQ-advised coronavirus track and trace app has security and privacy flaws | The Canary | 2020-04-29T11:52:04Z
+Most Americans are not willing or able to use an app tracking coronavirus infections. That’s a problem for Big Tech’s plan to slow the pandemic. | The Washington Post | 2020-04-29T16:10:02Z
+Most Americans are not willing or able to use an app tracking coronavirus infections. That’s a problem for Big Tech’s plan to slow the pandemic. | The Washington Post | 2020-04-29T17:07:15Z
+Trudeau open to ‘voluntary’ coronavirus tracking app but says privacy paramount | Global News | 2020-04-29T16:51:59Z
+NHS app, testing and contact-tracing: how will the UK's coronavirus plan work? | The Guardian | 2020-04-29T09:32:38Z
+Covid safe: Australian government launches coronavirus tracing app amid lingering privacy concerns | The Guardian | 2020-04-27T04:40:39Z
+Trudeau open to ‘voluntary’ coronavirus tracking app but says privacy paramount | Global News | 2020-04-29T22:16:15Z
+Israelis visiting malls, markets will have to download mandatory coronavirus tracking app | Haaretz | 2020-04-29T19:04:11Z
+Analysis | The Cybersecurity 202: Americans are wary of the coronavirus tracking apps being produced by big tech | The Washington Post | 2020-04-30T07:02:48Z
+App launched in Sweden to help track spread of the coronavirus | The Local Sweden | 2020-04-30T06:52:34Z
+Indian government officially launches its coronavirus tracking app | The Next Web | 2020-04-03T10:03:33Z
+NHS rejects Apple-Google coronavirus app plan | BBC News | 2020-04-27T15:01:52Z
+Coronavirus Tracking Apps Raise Questions About Bluetooth Security | The Wall Street Journal | 2020-04-30T09:43:02Z
+Covidsafe app: how to download Australia's coronavirus contact tracing app and how it works | The Guardian | 2020-04-17T07:00:00Z
+Karl Stefanovic says all Australians should take up the coronavirus tracking app | Daily Mail | 2020-04-21T07:50:11Z
+Coronavirus contact tracing apps were meant to save us. They won't | Wired.co.uk | 2020-04-30T05:26:40Z
+Opinion | Corona apps: South Korea and the dark side of digital tracking | The Brussels Times | 2020-04-30T11:27:29Z
+Australians urged to sign up to tracking app | BBC News | 2020-04-30T01:47:20Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-04-30T06:54:48Z
+Australians urged to sign up to tracking app | BBC News | 2020-04-30T05:45:08Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-04-30T08:07:42Z
+Covidsafe app: how to download Australia's coronavirus contact tracing app and how it works | The Guardian | 2020-04-29T21:01:26Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-04-30T11:08:33Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-04-30T12:48:03Z
+UK coronavirus app 'ready in two to three weeks' | BBC News | 2020-04-28T16:42:41Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-04-29T23:50:19Z
+COVIDSafe: Is the government's coronavirus tracking app as safe as they say? | SmartCompany.com.au | 2020-04-30T00:55:55Z
+Majority of Dutch willing to use safe coronavirus tracking app: study | NL Times | 2020-04-30T13:40:13Z
+Australian coronavirus contact tracing app voluntary and with 'no hidden agenda', minister says | The Guardian | 2020-04-18T07:00:00Z
+Tracking apps could help stop coronavirus spreading. But will people buy in? | Inkstone | 2020-05-01T10:21:14Z
+Coronavirus Tracking Apps Raise Questions About Bluetooth Security | The Wall Street Journal | 2020-05-01T07:13:32Z
+Tracking apps could help stop coronavirus spreading. But will people buy in? | Inkstone | 2020-05-01T12:23:33Z
+Tracking apps could help stop coronavirus spreading. But will people buy in? | Inkstone | 2020-05-01T15:38:16Z
+Tracking apps could help stop coronavirus spreading. But will people buy in? | Inkstone | 2020-05-01T18:40:51Z
+Covidsafe app: how to download Australia's coronavirus contact tracing app and how it works | The Guardian | 2020-04-29T23:53:00Z
+Australians urged to sign up to tracking app | BBC News | 2020-04-29T16:41:16Z
+Coronavirus: location-tracking apps could stop the disease – here's how | The Next Web | 2020-04-09T09:43:47Z
+Can you use apps to track coronavirus and protect privacy? Europe's going to try | CNN | 2020-04-03T13:55:01Z
+NHS coronavirus app: memo discussed giving ministers power to 'de-anonymise' users | The Guardian | 2020-04-14T07:31:47Z
+Coronavirus: Dutch Covid-19 tracking app stirs national debate | ComputerWeekly.com | 2020-04-24T07:00:00Z
+Privacy watchdogs raise concern over apps tracking Canadian coronavirus patients | Global News | 2020-05-02T13:36:29Z
+Coronavirus: Cyprus launches voluntary tracking app to halt spread | Euronews | 2020-05-02T16:48:41Z
+Coronavirus latest: Italy's daily death rate jumps to 11-day high | Financial Times | 2020-05-02T18:32:37Z
+Coronavirus: Call for single EU tracking app with data protection | BBC News | 2020-04-06T07:00:00Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-05-02T19:35:32Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-05-03T01:49:51Z
+At least 80 per cent of Brits must download new coronavirus tracking app for it to work | The Sun | 2020-05-03T03:04:45Z
+Coronavirus crisis: WA records new death as woman succumbs to virus | The West Australian | 2020-05-03T05:37:58Z
+Coronavirus apps: how Australia's Covidsafe compares to other countries' contact tracing technology | The Guardian | 2020-05-03T07:13:00Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-05-03T08:50:21Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-05-03T06:53:18Z
+Could coronavirus tracking apps risk our privacy? | Coronavirus pandemic | Aljazeera.com | 2020-05-02T19:39:00Z
+Coronavirus: Isle of Wight residents to find out if they've interacted with a COVID-19 sufferer | Sky News | 2020-05-03T09:37:16Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-05-03T07:55:43Z
+Coronavirus: Contact tracing app to be trialled on Isle of Wight | BBC News | 2020-05-03T11:43:03Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-05-03T10:27:56Z
+Minister confirms Isle of Wight is Coronavirus Contact Tracing and Tracking App pilot area for UK | On The Wight | 2020-05-03T09:12:49Z
+Coronavirus: How does contact tracing work and is my data safe? | BBC News | 2020-04-30T07:06:21Z
+Cellphone monitoring is spreading with the coronavirus. So is an uneasy tolerance of surveillance. | The Washington Post | 2020-05-03T10:27:54Z
+Coronavirus: Contact tracing app to be trialled on Isle of Wight | BBC News | 2020-05-03T11:43:29Z
+Coronavirus tracking phone app to be trialled on the Isle of Wight | Isle of Wight County Press | 2020-05-04T06:33:00Z
+Coronavirus: Trial of NHS contact tracing app to begin on Isle of Wight - but how does it work? | Sky News | 2020-05-04T00:56:10Z
+Coronavirus: Virtual city built in an Oxford University lab shows how the tracing app could work | The Times | 2020-05-02T17:00:00Z
+Coronavirus apps: how Australia's Covidsafe compares to other countries' contact tracing technology | The Guardian | 2020-05-02T20:00:00Z
+I'm a privacy expert - and I've downloaded the COVIDSafe app | Sydney Morning Herald | 2020-05-03T22:49:05Z
+Coronavirus tracing app: Delays for data being available to contact tracers | 7NEWS.com.au | 2020-05-03T04:48:31Z
