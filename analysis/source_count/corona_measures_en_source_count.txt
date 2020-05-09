@@ -1,63 +1,62 @@
-The Berlin Spectator: 7
-Metro.co.uk: 24
+Financial Times: 143
 BBC News: 67
-Financial Times: 142
-BBC South East Wales: 12
-The Sun: 13
-EUobserver: 1
-Daily Mail: 9
-CNBC: 7
+Metro.co.uk: 24
 The Guardian: 24
-The Local Sweden: 3
-GOV.UK: 1
-ITV News: 3
+Telegraph.co.uk: 21
+CNN: 20
+Al Jazeera English: 20
+The New York Times: 18
+The Washington Post: 14
+The Sun: 13
+BBC South East Wales: 12
+CNN International: 11
+Sky News: 11
+Daily Mail: 9
+The Berlin Spectator: 7
+CNBC: 7
 The Telegraph: 7
 ABC News: 7
-CNN International: 11
+The Local Germany: 7
+NPR: 5
+The Local Sweden: 3
+ITV News: 3
+AS.com Móvil: 3
+The Loppy: 3
+The Conversation UK: 2
+Wales Online: 2
+The News International: 2
+The Scottish Sun: 2
+talkSPORT.com: 2
+Eindhoven News: 2
+Liverpool Echo: 2
+PoliticsHome.com: 2
+Times of India: 2
+EUobserver: 1
+GOV.UK: 1
 Imperial College London: 1
 expressandstar.com: 1
-NPR: 5
-CNN: 20
 The Slovak Spectator: 1
 Daily Monitor: 1
 Hurriyet Daily News: 1
-The New York Times: 18
 India Gone Viral: 1
 The Nation: 1
-The Local Germany: 7
-Telegraph.co.uk: 21
-AS.com Móvil: 3
 Scottish Government News: 1
 EU News: 1
 Coventry Observer: 1
-The Conversation UK: 2
 theloadstar.com: 1
 The Verge: 1
 Dublin Live: 1
 EURACTIV: 1
-Al Jazeera English: 20
 Science Magazine: 1
-Wales Online: 2
 Retail Detail Europe: 1
 Wired.co.uk: 1
-Sky News: 11
-The Loppy: 3
-The News International: 2
-The Washington Post: 14
 Gulf News: 1
-The Scottish Sun: 2
 World Socialist Web Site: 1
 THE CITY: 1
 DW (English): 1
 ReliefWeb: 1
 NewsEverything: 1
-talkSPORT.com: 2
-Eindhoven News: 2
 Africanews English: 1
 Jakarta Post: 1
-Liverpool Echo: 2
 MyLondon: 1
 The Times: 1
-PoliticsHome.com: 2
-Kent Online: 1
-Times of India: 2

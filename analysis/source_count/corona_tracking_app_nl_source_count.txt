@@ -1,0 +1,40 @@
+ICT&health.nl: 17
+Telecompaper: 14
+Datanews: 11
+Security.nl: 9
+RTL Nieuws: 8
+Bright.nl: 8
+AG Connect: 6
+Tweakers: 5
+Het Financieele Dagblad: 4
+Androidworld: 4
+Volkskrant: 3
+Emerce: 3
+AD.nl: 3
+iCulture: 3
+Dutch IT-channel: 2
+One More Thing: 2
+TechPulse: 2
+Marketingfacts: 2
+Parool.nl: 2
+Binnenlandsbestuur: 2
+Medisch Contact: 2
+Plusonline: 1
+XGN.nl: 1
+Want: 1
+Techzine.nl: 1
+NOS: 1
+De Tijd: 1
+Nationale Zorggids: 1
+wnl.tv: 1
+LekkerCryptisch: 1
+NRC: 1
+iPhoned.nl: 1
+Geenstijl.nl: 1
+Innovation Origins NL: 1
+Computable: 1
+RTV Oost: 1
+VRT NWS: 1
+AGF.nl: 1
+Mr. Online: 1
+EenVandaag: 1

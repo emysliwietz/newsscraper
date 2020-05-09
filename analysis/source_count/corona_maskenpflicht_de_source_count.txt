@@ -1,0 +1,84 @@
+merkur.de: 65
+NDR.de: 30
+Berliner Morgenpost: 20
+Merkur.de: 19
+SWP: 18
+hna.de: 16
+WELT: 15
+tz.de: 14
+RTL Online: 12
+DER SPIEGEL: 12
+RP ONLINE: 10
+BILD: 7
+tagesschau.de: 7
+rbb|24: 7
+ruhr24.de: 7
+buten un binnen: 7
+HNA.de: 7
+t-online.de: 6
+kreiszeitung.de: 6
+watson: 6
+heidelberg24.de: 5
+fnp.de: 5
+RND: 5
+STERN.de: 5
+inFranken.de: 5
+Tagesspiegel: 5
+MDR: 5
+BNN - Badische Neueste Nachrichten: 4
+Frankfurter Rundschau: 4
+owl24.de: 4
+ZDFheute: 3
+Süddeutsche Zeitung: 3
+Westfälischer Anzeiger: 3
+Westfalenpost: 3
+SWR: 3
+taz.de: 3
+FAZ - Frankfurter Allgemeine Zeitung: 3
+Hamburger Abendblatt: 3
+Meinerzhagener Zeitung: 2
+Gießener Allgemeine: 2
+Panorama: 2
+mannheim24.de: 2
+Heilpraxisnet.de: 2
+extratipp.com: 2
+wa.de: 2
+Stuttgarter Zeitung: 2
+DIE WELT: 2
+Wolfsburger Allgemeine: 2
+SÜDKURIER Online: 2
+FOCUS Online: 2
+Heilbronner Stimme: 2
+Lübecker Nachrichten: 2
+General-Anzeiger: 1
+Tichys Einblick: 1
+Der Westen: 1
+hamburg.de: 1
+ZEIT ONLINE: 1
+WP News: 1
+hallo-muenchen.de: 1
+Saarbrücker Zeitung: 1
+op-online.de: 1
+WDR Nachrichten: 1
+Haufe - News & Fachwissen: 1
+B.Z. Berlin: 1
+Berliner Zeitung: 1
+shz.de: 1
+WESER-KURIER: 1
+Derwesten.de: 1
+az-online.de: 1
+Sächsische Zeitung: 1
+Kreisbote: 1
+n-tv NACHRICHTEN: 1
+ludwigshafen24.de: 1
+Deutschlandfunk: 1
+rbb-online.de: 1
+Märkische Allgemeine: 1
+nordbuzz.de: 1
+BR24: 1
+Göttinger Tageblatt: 1
+Braunschweiger Zeitung: 1
+Westdeutsche Allgemeine Zeitung: 1
+NRZ: 1
+Volksstimme: 1
+hessenschau.de: 1

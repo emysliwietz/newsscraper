@@ -1,79 +1,78 @@
+The New York Times: 19
+Financial Times: 12
 The Guardian: 9
+USA TODAY: 7
+The Washington Post: 5
+KGO-TV: 5
 CNBC: 4
-Vox.com: 2
-STAT: 1
 MarketWatch: 4
+Los Angeles Times: 4
+NBC10 Boston: 4
+Al Jazeera English: 4
+The Philadelphia Inquirer: 3
+The Local Germany: 3
+CNN International: 3
+The Sun: 3
+WLS-TV: 3
+Austin American-Statesman: 3
+nbcboston.com: 3
+NBC Chicago: 3
+Press-Enterprise: 3
+WBUR: 3
+Las Cruces Sun-News: 3
+Chicago Sun-Times: 3
+Vox.com: 2
+Business Insider: 2
+Colorado Public Radio: 2
+Global News: 2
+Courier Journal: 2
+NPR: 2
+BBC News: 2
+The Hill: 2
+ABC News: 2
+CBS Pittsburgh: 2
+Fox News: 2
+KOMO News: 2
+STAT: 1
 Crosscut: 1
 Spectrum News: 1
 GoodHousekeeping.com: 1
-Business Insider: 2
 CNN: 1
-USA TODAY: 7
-The New York Times: 19
 The National Interest : 1
 MassLive.com: 1
 BuzzFeed News: 1
-Los Angeles Times: 4
 DW (English): 1
 Euronews: 1
-The Philadelphia Inquirer: 3
 The Local Europe: 1
 The Independent: 1
-The Local Germany: 3
-The Washington Post: 5
-CNN International: 3
 Rivard Report: 1
-The Sun: 3
-Colorado Public Radio: 2
-Financial Times: 12
 Reuters: 1
-WLS-TV: 3
 The Dallas Morning News: 1
 FactCheck.org: 1
 CALmatters: 1
-Austin American-Statesman: 3
 Durham Herald Sun: 1
 WKMG News 6 & ClickOrlando: 1
 Daily Mail: 1
 The Straits Times: 1
-NBC10 Boston: 4
 New York Magazine: 1
-Global News: 2
 CBS News 8: 1
-nbcboston.com: 3
-Courier Journal: 2
-NPR: 2
 lehighvalleylive.com: 1
-BBC News: 2
 The-Latest News: 1
 Patch.com: 1
 CBS Los Angeles: 1
-NBC Chicago: 3
 The Mercury News: 1
-KGO-TV: 5
-Press-Enterprise: 3
 KOKH FOX25: 1
-Al Jazeera English: 4
 The Verge: 1
-The Hill: 2
-ABC News: 2
 NJ.com: 1
-CBS Pittsburgh: 2
 NBC Connecticut: 1
-WBUR: 3
 International Law Lawyer News: 1
-Fox News: 2
 The Atlantic: 1
-KOMO News: 2
 RailFreight.com: 1
 Livemint: 1
-Las Cruces Sun-News: 3
 The Columbus Dispatch: 1
-Chicago Sun-Times: 3
 WGN TV Chicago: 1
 Forbes: 1
 Express: 1
 KIRO Seattle: 1
 The Boston Globe: 1
 Boston 25 News: 1
-WAMU 88.5: 1

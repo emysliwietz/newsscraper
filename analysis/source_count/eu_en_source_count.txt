@@ -1,100 +1,104 @@
-Financial Times: 48
-Vox.com: 1
-The Hill: 2
-Politico: 4
-Daily Mail: 11
 EU News: 57
-The Guardian: 33
-Bloomberg: 13
-The-Latest News: 1
-Al Jazeera English: 3
-Telegraph.co.uk: 11
+Financial Times: 48
 Express.co.uk: 41
-SchengenVisaInfo.com: 5
+The Guardian: 33
+BBC News: 28
+The New York Times: 27
+EURACTIV: 22
+EUobserver: 20
+Reuters: 17
+Express: 15
+The Irish Times: 15
+Bloomberg: 13
+Reuters UK: 13
+DW (English): 13
+Daily Mail: 11
+Telegraph.co.uk: 11
+Euronews: 11
+The Sun: 9
+Anadolu Agency: 9
+CNBC: 7
+The New European: 7
 The Brussels Times: 6
+EU Reporter: 6
+SchengenVisaInfo.com: 5
+The Independent: 5
+European Western Balkans: 5
+The Parliament Magazine: 5
+Politico: 4
+RTE.ie: 4
+DefenseNews.com: 4
+Jakarta Post: 4
+VOA News: 4
+Forbes: 4
+Aljazeera.com: 4
+Al Jazeera English: 3
+edie.net: 3
+Carnegie Europe: 3
+Mondaq News Alerts: 3
+The Indian Express: 3
+The Hill: 2
+The Straits Times: 2
+中国日报: 2
+IPS Journal: 2
+expressandstar.com: 2
+ShareCast: 2
+Mirror Online: 2
+JURIST: 2
+Science Business: 2
+Emerging Europe: 2
+CNN: 2
+FRANCE 24: 2
+Deutsche Welle: 2
+Xinhua: 2
+CGTN: 2
+Reuters India: 2
+The Wall Street Journal: 2
+EUROPP - European Politics and Policy: 2
+NPR: 2
+Vox.com: 1
+The-Latest News: 1
 City A.M.: 1
 The Times: 1
 Chinadaily USA: 1
-EURACTIV: 22
-The New York Times: 27
-The Straits Times: 2
-EUobserver: 20
-Reuters UK: 12
 Republic World: 1
 POLITICO.eu: 1
-中国日报: 2
 World Socialist Web Site: 1
-The Sun: 9
-IPS Journal: 2
-CNBC: 7
-expressandstar.com: 2
-Express: 15
-The Independent: 5
 Sky News: 1
 Gulf News: 1
 New York Post : 1
-Reuters: 17
-BBC News: 27
 Axios: 1
 India Gone Viral: 1
 Business Insider: 1
-RTE.ie: 4
-DefenseNews.com: 4
-edie.net: 3
-Euronews: 10
-The New European: 7
 Human Rights Watch: 1
-DW (English): 13
-The Irish Times: 15
-Jakarta Post: 4
 TTG: 1
-ShareCast: 2
-European Western Balkans: 5
 National Review: 1
-VOA News: 4
 Livemint: 1
-Anadolu Agency: 8
-Carnegie Europe: 3
-Forbes: 4
 New Statesman: 1
 voxeu.org: 1
-The Parliament Magazine: 5
 Automotive News Europe: 1
-Mirror Online: 2
 Responsible-Investor.com: 1
 The Conversation UK: 1
-JURIST: 2
-Science Business: 2
 Cordis News: 1
 Reason: 1
-Emerging Europe: 2
 Deccan Herald: 1
 Olive Oil Times: 1
 Full Fact: 1
-CNN: 2
 Tech.eu: 1
-Aljazeera.com: 4
 Middle East Monitor: 1
 This is Local London: 1
 Fortune: 1
 PoliticsHome.com: 1
 CNA: 1
 Farming Life: 1
-FRANCE 24: 2
 Anadolu Ajansı: 1
 Belfast Telegraph: 1
 RFI: 1
 Risk.net: 1
-Deutsche Welle: 2
 ING Think: 1
 Fitch Ratings: 1
-Xinhua: 2
 The Star Online: 1
-CGTN: 2
-Mondaq News Alerts: 3
 South China Morning Post: 1
-EU Reporter: 6
-Reuters India: 2
 Yahoo Finance UK: 1
 Reuters.com: 1
 WHTC News: 1
@@ -103,11 +107,8 @@ European Council on Foreign Relations: 1
 The Asian Age: 1
 Deccan Chronicle: 1
 Midwest Communication: 1
-The Wall Street Journal: 2
-EUROPP - European Politics and Policy: 2
 Al Jazeera America: 1
 Economic Times: 1
-NPR: 2
 www.ekathimerini.com: 1
 Successful Farming: 1
 FoodManufacture.co.uk: 1
@@ -134,7 +135,5 @@ The European Sting: 1
 World Politics Review: 1
 Medical Xpress: 1
 Infosecurity Magazine: 1
-The Indian Express: 3
 TRT World: 1
 Metro.co.uk: 1
-thejournal.ie: 1

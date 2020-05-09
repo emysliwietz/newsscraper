@@ -1,0 +1,109 @@
+AD.nl: 217
+NU.nl: 190
+Telegraaf.nl: 156
+NOS: 147
+RTL Nieuws: 72
+De Stentor: 57
+Parool.nl: 57
+Volkskrant: 47
+Omroep Brabant: 44
+De Gelderlander: 31
+BD.nl: 28
+Omroep Gelderland: 26
+NRC: 26
+Hartvannederland.nl: 23
+Eindhovens Dagblad: 20
+ThePostOnline: 18
+Trouw: 17
+Dagblad van het Noorden: 16
+De Limburger: 16
+Nieuws en sport uit Limburg: 15
+RTV Noord: 15
+De Dagelijkse Standaard: 15
+AT5: 14
+Omroep West: 13
+Het Laatste Nieuws: 13
+Zeelandnet Nieuws: 12
+Welingelichte Kringen: 12
+RTV Oost: 11
+BN DeStem: 11
+Metronieuws.nl: 10
+Geenstijl.nl: 9
+112 Groningen: 9
+wnl.tv: 8
+RTV Rijnmond: 8
+Joop: 8
+NH Nieuws: 7
+RTV Drenthe: 6
+Omroep Zeeland: 6
+Crimesite: 6
+Reformatorisch Dagblad: 6
+NPO Radio 1: 5
+De Morgen: 5
+Politie: 5
+De Telegraaf: 4
+BNR Nieuwsradio: 4
+LINDA.: 4
+VRT NWS: 4
+GelreNieuws: 3
+Nederlands Dagblad: 3
+De Kaap: 3
+RTL Boulevard: 3
+WNL: 3
+Het Financieele Dagblad: 3
+Alphens.nl: 3
+Tubantia: 3
+De Standaard: 3
+quotenet.nl: 3
+Het Nieuwsblad: 3
+De Utrechtse Internet Courant: 2
+ZwolleNu: 2
+Noordhollands Dagblad: 2
+Oog TV: 2
+HVZeeland.nl: 2
+Omroep Flevoland: 2
+DeDrontenaar.nl: 2
+Blauw Bloed: 2
+De Tijd: 2
+Rijksoverheid.nl: 2
+Het Belang van Limburg: 2
+SIRIS.nl: 2
+Leeuwarder Courant: 2
+RTV Utrecht: 1
+Business Insider: 1
+Kijk op Castricum: 1
+RTV Focus Zwolle: 1
+DeStadAmersfoort.nl: 1
+SpanjeVandaag: 1
+InSpanje.nl: 1
+De Groene Amsterdammer: 1
+Breda nieuws: 1
+Gids.tv: 1
+SCEPTR: 1
+Waldnet: 1
+Barneveldse Krant: 1
+Transport Online: 1
+Kinderopvangtotaal: 1
+DeOndernemer.nl: 1
+FOK!: 1
+VTBL: 1
+Panorama: 1
+Opgelicht?!: 1
+112Arnhem: 1
+WOS.nl: 1
+EenVandaag: 1
+indebuurt: 1
+Groninger Internet Courant: 1
+Sittard-Geleen.nieuws.nl: 1
+Elsevier Weekblad: 1
+Historiek.net: 1
+telegraaf.nl: 1
+Amstelveenz.nl: 1
+nos.nl: 1
+Horses: 1
+RTV Purmerend: 1
+DenHaagTV: 1
+Alles over Katwijk: 1
+Metro België: 1
+Unity Nu: 1
+UMC Utrecht: 1

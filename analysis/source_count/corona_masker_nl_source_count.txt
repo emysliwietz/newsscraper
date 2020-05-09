@@ -1,28 +1,35 @@
-AD.nl: 17
-Dagblad van het Noorden: 3
-Eos Wetenschap: 2
-Het Laatste Nieuws: 8
-De Gelderlander: 10
-NOS: 11
-RTL Nieuws: 13
 VRT NWS: 22
-BN DeStem: 2
-Trouw: 4
-Volkskrant: 7
-Omroep Brabant: 3
+AD.nl: 17
+RTL Nieuws: 13
+NOS: 11
+De Gelderlander: 10
 Het Nieuwsblad: 9
+NRC: 9
+Het Laatste Nieuws: 8
+Volkskrant: 7
+Datanews: 5
+Trouw: 4
+Parool.nl: 4
+NU.nl: 4
+Dagblad van het Noorden: 3
+Omroep Brabant: 3
+Eos Wetenschap: 2
+BN DeStem: 2
 Nieuws en sport uit Limburg: 2
 RTV Rijnmond: 2
-De Limburger: 1
-NRC: 9
-Cobouw: 1
 Bright.nl: 2
-De Stentor: 1
 Telegraaf.nl: 2
-VoetbalPrimeur.be: 1
 De Tijd: 2
+Het Financieele Dagblad: 2
+Tubantia: 2
+Ditjes en Datjes: 2
+Gazet van Antwerpen: 2
+Hartvannederland.nl: 2
+De Limburger: 1
+Cobouw: 1
+De Stentor: 1
+VoetbalPrimeur.be: 1
 De Morgen: 1
-Parool.nl: 4
 Blik op nieuws: 1
 Arnhemse Koerier: 1
 NH Nieuws: 1
@@ -30,17 +37,11 @@ Reformatorisch Dagblad: 1
 WeesperNieuws: 1
 Test-Aankoop.be: 1
 Consultancy.nl: 1
-Datanews: 5
-Het Financieele Dagblad: 2
 De Groene Amsterdammer: 1
-NU.nl: 4
-Tubantia: 2
-Ditjes en Datjes: 2
 Nursing. Platform voor verpleegkundigen: 1
 RTV Oost: 1
 Joop: 1
 bright.nl: 1
-Gazet van Antwerpen: 2
 DeWereldMorgen.be: 1
 BD.nl: 1
 Mashable NL: 1
@@ -50,5 +51,3 @@ Consumentenbond: 1
 MAX Vandaag: 1
 Metronieuws.nl: 1
 Noordhollands Dagblad: 1
-Omroep West: 1
-Hartvannederland.nl: 2

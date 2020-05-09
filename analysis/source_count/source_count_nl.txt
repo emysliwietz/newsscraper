@@ -1,0 +1,255 @@
+AD.nl: 342
+NOS: 293
+NU.nl: 279
+Telegraaf.nl: 267
+RTL Nieuws: 196
+Volkskrant: 112
+Parool.nl: 93
+NRC: 85
+VRT NWS: 73
+De Stentor: 68
+Trouw: 67
+Omroep Brabant: 60
+Hartvannederland.nl: 56
+Het Laatste Nieuws: 56
+Dagblad van het Noorden: 48
+De Gelderlander: 47
+BD.nl: 38
+Nederlands Dagblad: 37
+Welingelichte Kringen: 35
+Leeuwarder Courant: 31
+De Limburger: 30
+Noordhollands Dagblad: 29
+Het Financieele Dagblad: 28
+Omroep Gelderland: 26
+Eindhovens Dagblad: 25
+De Dagelijkse Standaard: 25
+ThePostOnline: 24
+De Standaard: 23
+Het Nieuwsblad: 23
+De Tijd: 22
+Omroep West: 21
+ICT&health.nl: 21
+RTV Noord: 20
+Zeelandnet Nieuws: 20
+BN DeStem: 19
+Nieuws en sport uit Limburg: 19
+De Morgen: 18
+RTV Oost: 17
+NH Nieuws: 16
+Datanews: 16
+Transport Online: 15
+Boerderij: 15
+AT5: 15
+Rijksoverheid.nl: 14
+RTV Rijnmond: 14
+Metronieuws.nl: 14
+Telecompaper: 14
+Joop: 13
+Geenstijl.nl: 13
+wnl.tv: 13
+Reformatorisch Dagblad: 13
+Knack.be: 13
+BNR Nieuwsradio: 12
+Bright.nl: 12
+Elsevier Weekblad: 12
+NPO Radio 1: 11
+Security.nl: 11
+LINDA.: 10
+RTV Utrecht: 9
+Omroep Zeeland: 9
+Binnenlandsbestuur: 9
+ANWB: 9
+RTL Z: 9
+112 Groningen: 9
+Gazet van Antwerpen: 7
+Nieuwe Oogst: 7
+AG Connect: 7
+RTV Drenthe: 7
+Amstelveenz.nl: 6
+De Utrechtse Internet Courant: 6
+Emerce: 6
+DeOndernemer.nl: 6
+RTL Boulevard: 6
+Gids.tv: 6
+Tubantia: 6
+Crimesite: 6
+Plusonline: 5
+SpanjeVandaag: 5
+Blik op nieuws: 5
+Androidworld: 5
+InSpanje.nl: 5
+Business Insider: 5
+Bladna.nl: 5
+Tweakers: 5
+Politie: 5
+Omroep Flevoland: 4
+Oog TV: 4
+Dutch IT-channel: 4
+SCEPTR: 4
+Boerenbusiness.nl: 4
+Vakblad voor de Bloemisterij: 4
+VTBL: 4
+FCUpdate mobiel: 4
+EenVandaag: 4
+De Telegraaf: 4
+Panorama: 3
+Alkmaar Centraal: 3
+indebuurt: 3
+DIA-Duitslandweb: 3
+RTV Focus Zwolle: 3
+Friesch Dagblad: 3
+Medisch Contact: 3
+ZwolleNu: 3
+Want: 3
+Accountant.nl: 3
+AGF.nl: 3
+Het Belang van Limburg: 3
+Ajax Showtime: 3
+Dolcevia.com: 3
+Ditjes en Datjes: 3
+iCulture: 3
+Accountancy Vanmorgen: 3
+GelreNieuws: 3
+De Kaap: 3
+WNL: 3
+Alphens.nl: 3
+quotenet.nl: 3
+VoetbalPrimeur.nl: 2
+Barneveldse Krant: 2
+| SpanjeVandaag: 2
+Mashable NL: 2
+iGO.nl Nieuws Goeree Overflakkee: 2
+TaxiPro.nl: 2
+OVPro.nl: 2
+oosterhout.nieuws.nl: 2
+HCNieuws: 2
+Festileaks: 2
+Medical facts: 2
+DeWereldMorgen.be: 2
+Nationale Zorggids: 2
+Sittard-Geleen.nieuws.nl: 2
+Autoblog.nl: 2
+Melkvee: 2
+Financieel management: 2
+Automobiel Management: 2
+CIDI: 2
+Voetbal International: 2
+Sportnieuws.nl: 2
+Omrop Fryslan: 2
+MotorsportZ: 2
+Luchtvaartnieuws.nl: 2
+Eos Wetenschap: 2
+De Groene Amsterdammer: 2
+One More Thing: 2
+TechPulse: 2
+Marketingfacts: 2
+Computable: 2
+CMweb - Controllers Magazine: 2
+FOK!: 2
+TaxLive: 2
+Nieuws.nl: 2
+HVZeeland.nl: 2
+DeDrontenaar.nl: 2
+Blauw Bloed: 2
+SIRIS.nl: 2
+Sneeker Nieuwsblad: 1
+Scientias.nl: 1
+inct: 1
+TTM.nl: 1
+Sprout: 1
+Hollands Kroon Actueel: 1
+de Tielenaar: 1
+Medemblik Actueel: 1
+Gawalo: 1
+Regio Purmerend: 1
+Eemskrant: 1
+Zorgkrant: 1
+De Nieuwkoper: 1
+Suriname Herald: 1
+SerieTotaal: 1
+Oor: 1
+Skipr: 1
+VPNgids: 1
+Duurzaamnieuws.nl: 1
+NPO 3FM: 1
+Vakblad fondsenwerving: 1
+MarketingTribune: 1
+newsmonkey: 1
+CustomerFirst: 1
+Entertainment Business: 1
+DroidApp: 1
+Hrpraktijk: 1
+FilmTotaal: 1
+Vertigo: 1
+HP/De Tijd: 1
+Newsbit.nl: 1
+Pig Business: 1
+Twinkle: 1
+Nieuwsuur: 1
+Computable.be: 1
+NieuwsbladTransport.nl: 1
+Follow the Money: 1
+Nieuwsbureau Energeia: 1
+Horses.nl: 1
+H2O Waternetwerk: 1
+Circusweb: 1
+Buitenhof: 1
+Up in the Sky: 1
+Zakenreis: 1
+TravelPro: 1
+Landbouwleven: 1
+Independent Website Tilburg University: 1
+Villamedia: 1
+Advocatie: 1
+Zakelijk Dagblad: 1
+Vilt: 1
+Techzine.be: 1
+joods.nl: 1
+Sportgeschiedenis: 1
+Bestelauto.nl: 1
+GPfans: 1
+Racexpress: 1
+Koerdisch Nieuws: 1
+IJmuider Courant: 1
+CorsaItalia Magazine: 1
+Cobouw: 1
+VoetbalPrimeur.be: 1
+Arnhemse Koerier: 1
+WeesperNieuws: 1
+Test-Aankoop.be: 1
+Consultancy.nl: 1
+Nursing. Platform voor verpleegkundigen: 1
+bright.nl: 1
+DuurzaamBedrijfsleven.nl: 1
+Consumentenbond: 1
+MAX Vandaag: 1
+HetKompasHardinxveld-Giessendam.nl: 1
+XGN.nl: 1
+Techzine.nl: 1
+LekkerCryptisch: 1
+iPhoned.nl: 1
+Innovation Origins NL: 1
+Mr. Online: 1
+Vastgoedmarkt: 1
+Executive Finance: 1
+Service Management: 1
+TV Valkenburg: 1
+Kijk op Castricum: 1
+DeStadAmersfoort.nl: 1
+Breda nieuws: 1
+Waldnet: 1
+Kinderopvangtotaal: 1
+Opgelicht?!: 1
+112Arnhem: 1
+WOS.nl: 1
+Groninger Internet Courant: 1
+Historiek.net: 1
+telegraaf.nl: 1
+nos.nl: 1
+Horses: 1
+RTV Purmerend: 1
+DenHaagTV: 1
+Alles over Katwijk: 1
+Metro België: 1
+Unity Nu: 1

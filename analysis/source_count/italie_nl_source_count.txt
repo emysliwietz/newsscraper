@@ -1,0 +1,52 @@
+Telegraaf.nl: 32
+AD.nl: 18
+Noordhollands Dagblad: 17
+NOS: 17
+RTL Nieuws: 11
+Nederlands Dagblad: 10
+Welingelichte Kringen: 10
+Transport Online: 9
+NU.nl: 8
+NRC: 8
+Zeelandnet Nieuws: 8
+Volkskrant: 6
+De Stentor: 6
+Het Laatste Nieuws: 5
+Het Financieele Dagblad: 5
+Trouw: 4
+Parool.nl: 4
+Knack.be: 4
+FCUpdate mobiel: 4
+VTBL: 3
+Ajax Showtime: 3
+De Limburger: 3
+Dolcevia.com: 3
+De Morgen: 3
+Voetbal International: 2
+De Gelderlander: 2
+Elsevier Weekblad: 2
+Sportnieuws.nl: 2
+Vakblad voor de Bloemisterij: 2
+Bladna.nl: 2
+NPO Radio 1: 2
+Omrop Fryslan: 2
+MotorsportZ: 2
+Metronieuws.nl: 2
+Luchtvaartnieuws.nl: 2
+De Tijd: 1
+VRT NWS: 1
+ThePostOnline: 1
+Sportgeschiedenis: 1
+Bestelauto.nl: 1
+GPfans: 1
+BD.nl: 1
+De Dagelijkse Standaard: 1
+Racexpress: 1
+Tubantia: 1
+Gids.tv: 1
+Eindhovens Dagblad: 1
+Koerdisch Nieuws: 1
+BN DeStem: 1
+IJmuider Courant: 1
+RTV Noord: 1
+SCEPTR: 1

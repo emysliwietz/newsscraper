@@ -1,27 +1,27 @@
 AD.nl: 27
 VRT NWS: 19
-Volkskrant: 11
-RTL Nieuws: 7
-Het Nieuwsblad: 11
-Telegraaf.nl: 7
-Business Insider: 4
-Bladna.nl: 2
-Trouw: 9
-Joop: 3
-Het Laatste Nieuws: 8
-NU.nl: 6
-Welingelichte Kringen: 1
 De Standaard: 12
-Gazet van Antwerpen: 3
-De Dagelijkse Standaard: 2
-NRC: 7
-Want: 2
-Nederlands Dagblad: 3
-Autoblog.nl: 2
+Volkskrant: 11
+Het Nieuwsblad: 11
 De Tijd: 10
+Trouw: 9
+Het Laatste Nieuws: 8
+RTL Nieuws: 7
+Telegraaf.nl: 7
+NRC: 7
+NU.nl: 6
+Business Insider: 4
+Joop: 3
+Gazet van Antwerpen: 3
+Nederlands Dagblad: 3
 Gids.tv: 3
-FilmTotaal: 1
+Bladna.nl: 2
+De Dagelijkse Standaard: 2
+Want: 2
+Autoblog.nl: 2
 RTL Boulevard: 2
+Welingelichte Kringen: 1
+FilmTotaal: 1
 NOS: 1
 BNR Nieuwsradio: 1
 Vertigo: 1
@@ -30,4 +30,3 @@ Knack.be: 1
 Parool.nl: 1
 Newsbit.nl: 1
 De Morgen: 1
-Het Financieele Dagblad: 1

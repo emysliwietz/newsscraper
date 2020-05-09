@@ -1,71 +1,73 @@
-Frankfurter Rundschau: 16
-F.A.Z. - Frankfurter Allgemeine Zeitung: 3
-Suedtirol News: 14
-Tagesspiegel: 6
-5 Minuten: 2
-FOCUS Online: 19
-DER SPIEGEL: 9
-n-tv NACHRICHTEN: 12
-Handelsblatt : 3
-tagesschau.de: 8
-SÜDKURIER Online: 1
-FAZ - Frankfurter Allgemeine Zeitung: 13
-taz.de: 2
-Deutschlandfunk: 7
-Süddeutsche Zeitung: 26
 merkur.de: 30
-RTL Online: 7
+Süddeutsche Zeitung: 26
+Stol.it: 22
+FOCUS Online: 19
+ORF.at: 19
+Frankfurter Rundschau: 16
+Suedtirol News: 14
+FAZ - Frankfurter Allgemeine Zeitung: 13
+onvista: 13
+n-tv NACHRICHTEN: 12
+WELT: 12
+Vatican News: 10
+DER SPIEGEL: 9
 STERN.de: 9
-Westdeutsche Zeitung: 1
-Telepolis: 2
-RP ONLINE: 5
-RAN: 4
+tagesschau.de: 8
+Deutschlandfunk: 7
+RTL Online: 7
+domradio.de: 7
+Tagesspiegel: 6
 ZEIT ONLINE: 6
+Neue Zürcher Zeitung: 6
+Neues Volksblatt: 6
+Handelsblatt: 6
+RND: 6
+RP ONLINE: 5
+KURIER: 5
+t-online.de: 5
+fr.de: 5
+RAN: 4
+Euronews: 4
+Oberösterreichisches Volksblatt: 4
+DW (Deutsch): 4
+F.A.Z. - Frankfurter Allgemeine Zeitung: 3
+Handelsblatt : 3
+Passauer Neue Presse: 3
+Wochenblatt.de: 3
+TAGESKARTE: 3
+oe24.at: 3
+Der Westen: 3
+5 Minuten: 2
+taz.de: 2
+Telepolis: 2
 BR24: 2
 DAS INVESTMENT.com: 2
-Neue Zürcher Zeitung: 6
- Cash: 1
-Passauer Neue Presse: 3
-Stol.it: 22
-Vatican News: 10
-onvista: 13
-Euronews: 4
 ZDFheute: 2
-Wochenblatt.de: 3
 TRAVELBOOK: 2
-TAGESKARTE: 3
-KURIER: 5
 Merkur.de: 2
-t-online.de: 5
 hna.de: 2
-fr.de: 5
-Neues Volksblatt: 6
-oe24.at: 3
+Berliner Zeitung: 2
+Salzburger Nachrichten: 2
+Augsburger Allgemeine: 2
+SÜDKURIER Online: 1
+Westdeutsche Zeitung: 1
+ Cash: 1
 Nau.ch: 1
 owl24.de: 1
-WELT: 12
 Deutsches Ärzteblatt: 1
 futurezone.at: 1
-ORF.at: 18
 hpd.de: 1
 nachrichten.at: 1
-Handelsblatt: 6
-Berliner Zeitung: 2
-Oberösterreichisches Volksblatt: 4
 Zeitungsverlag Waiblingen: 1
-Salzburger Nachrichten: 2
 NDR.de: 1
 idowa: 1
-DW (Deutsch): 4
 Sportbuzzer: 1
 Wiener Zeitung: 1
 DIE WELT: 1
 top agrar online: 1
 FIFA.com: 1
 Stuttgarter Zeitung: 1
-domradio.de: 7
 Die Presse: 1
-RND: 6
 Kathpress: 1
 Hamburger Morgenpost: 1
 General-Anzeiger: 1
@@ -93,11 +95,8 @@ Bieler Tagblatt: 1
 Neues Ruhr-Wort: 1
 shz.de: 1
 Presseportal.de: 1
-Augsburger Allgemeine: 2
-Der Westen: 3
 lifepr.de: 1
 Kleine Zeitung: 1
 swp.de: 1
 SPORT1: 1
 Tages-Anzeiger: 1
-WirtschaftsWoche: 1

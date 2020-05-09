@@ -1,47 +1,52 @@
-Rijksoverheid.nl: 7
-Amstelveenz.nl: 4
-RTL Nieuws: 35
-RTV Oost: 3
-De Utrechtse Internet Courant: 2
-AD.nl: 13
 NOS: 52
-NRC: 5
-NU.nl: 17
-Volkskrant: 6
-VoetbalPrimeur.nl: 2
-Trouw: 1
-BD.nl: 2
-VRT NWS: 16
-Parool.nl: 3
-Barneveldse Krant: 1
-Panorama: 2
+RTL Nieuws: 35
 Hartvannederland.nl: 19
-Eindhovens Dagblad: 1
-Omroep West: 6
-Sneeker Nieuwsblad: 1
+NU.nl: 17
 Telegraaf.nl: 17
+VRT NWS: 16
+AD.nl: 13
+ANWB: 9
 Dagblad van het Noorden: 8
-Plusonline: 4
-| SpanjeVandaag: 1
+Rijksoverheid.nl: 7
+Omroep Brabant: 7
+Volkskrant: 6
+Omroep West: 6
+NRC: 5
 RTV Utrecht: 5
+Amstelveenz.nl: 4
+Plusonline: 4
+NH Nieuws: 4
+Blik op nieuws: 4
+RTV Oost: 3
+Parool.nl: 3
+Binnenlandsbestuur: 3
+RTV Rijnmond: 3
+De Utrechtse Internet Courant: 2
+VoetbalPrimeur.nl: 2
+BD.nl: 2
+Panorama: 2
+Het Laatste Nieuws: 2
+Alkmaar Centraal: 2
+Oog TV: 2
+RTV Noord: 2
+DIA-Duitslandweb: 2
+iGO.nl Nieuws Goeree Overflakkee: 2
+HCNieuws: 2
+Trouw: 1
+Barneveldse Krant: 1
+Eindhovens Dagblad: 1
+Sneeker Nieuwsblad: 1
+| SpanjeVandaag: 1
 SpanjeVandaag: 1
 Scientias.nl: 1
 Emerce: 1
 inct: 1
 Omroep Zeeland: 1
 TTM.nl: 1
-NH Nieuws: 4
 Nederlands Dagblad: 1
-Het Laatste Nieuws: 2
 Omroep Flevoland: 1
-Blik op nieuws: 4
 Sprout: 1
-Omroep Brabant: 7
-Binnenlandsbestuur: 3
-Alkmaar Centraal: 2
-ANWB: 9
 De Morgen: 1
-Oog TV: 2
 Hollands Kroon Actueel: 1
 BN DeStem: 1
 De Gelderlander: 1
@@ -50,19 +55,13 @@ Mashable NL: 1
 indebuurt: 1
 de Tielenaar: 1
 Medemblik Actueel: 1
-RTV Noord: 2
 Gawalo: 1
-DIA-Duitslandweb: 2
 Regio Purmerend: 1
-RTV Rijnmond: 3
 DeOndernemer.nl: 1
-iGO.nl Nieuws Goeree Overflakkee: 2
 TaxiPro.nl: 1
 OVPro.nl: 1
 oosterhout.nieuws.nl: 1
 Eemskrant: 1
-HCNieuws: 2
 RTV Focus Zwolle: 1
 Zorgkrant: 1
 Nieuws en sport uit Limburg: 1
-De Nieuwkoper: 1

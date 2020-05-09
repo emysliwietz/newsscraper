@@ -1,0 +1,110 @@
+merkur.de: 92
+NDR.de: 71
+Süddeutsche Zeitung: 36
+tagesschau.de: 26
+WELT: 24
+DER SPIEGEL: 23
+t-online.de: 22
+MDR: 21
+RP ONLINE: 19
+Nordbayern.de: 18
+ZEIT ONLINE: 16
+ka-news.de: 16
+Merkur.de: 15
+Berliner Morgenpost: 15
+rbb|24: 14
+RTL Online: 14
+WDR Nachrichten: 13
+buten un binnen: 13
+hessenschau.de: 13
+Tagesspiegel: 11
+SWR: 11
+FAZ - Frankfurter Allgemeine Zeitung: 11
+Deutschlandfunk: 10
+BR24: 9
+BILD: 9
+Passauer Neue Presse: 9
+fnp.de: 8
+ZDFheute: 7
+fr.de: 6
+hna.de: 6
+DIE WELT: 5
+taz.de: 5
+op-online.de: 5
+RND: 5
+wa.de: 5
+Merkurist.de: 5
+SWP: 4
+Frankfurter Rundschau: 4
+Westdeutsche Zeitung: 4
+Stuttgarter Zeitung: 4
+noz.de - Neue Osnabrücker Zeitung: 4
+HNA.de: 4
+Hamburger Morgenpost: 3
+WAZ News: 3
+BNN - Badische Neueste Nachrichten: 3
+Saarbrücker Zeitung: 3
+B.Z. Berlin: 3
+n-tv NACHRICHTEN: 3
+echo24.de: 3
+Straubinger Tagblatt: 3
+Antenne Bayern: 3
+Augsburger Allgemeine: 3
+muenchen.de - Das offizielle Stadtportal für München: 3
+Handelsblatt : 3
+Meinerzhagener Zeitung: 2
+sol.de: 2
+Westdeutsche Allgemeine Zeitung: 2
+Leipziger Volkszeitung: 2
+General-Anzeiger: 2
+STERN.de: 2
+inSüdthüringen: 2
+Nordkurier: 2
+Ostsee Zeitung: 2
+Braunschweiger Zeitung: 2
+Berliner Zeitung: 2
+Hannoversche Allgemeine: 2
+ludwigshafen24.de: 2
+heidelberg24.de: 2
+Aachener Zeitung: 2
+Wuppertaler-Rundschau.de: 2
+Frankfurter Neue Presse: 2
+Schaumburger Nachrichten: 1
+Sportbuzzer: 1
+WESER-KURIER: 1
+neues deutschland: 1
+ Cash: 1
+Sächsische Zeitung: 1
+Schweizer Radio und Fernsehen (SRF): 1
+Westfalenpost: 1
+Trierischer Volksfreund: 1
+Panorama: 1
+wallstreet-online: 1
+watson: 1
+derStandard.at: 1
+t3n Magazin: 1
+donaukurier.de: 1
+Lübecker Nachrichten: 1
+Thüringer Allgemeine: 1
+tz.de: 1
+TAG24: 1
+Abendzeitung: 1
+Radio Dresden: 1
+shz.de: 1
+ruhr24.de: 1
+Märkische Allgemeine: 1
+Schwäbische: 1
+Lausitzer Rundschau: 1
+SWR3: 1
+onvista: 1
+Apotheken Umschau: 1
+Stuttgarter Nachrichten: 1
+Hamburger Abendblatt: 1
+FIT FOR FUN: 1
+Börse Online: 1
+F.A.Z. - Frankfurter Allgemeine Zeitung: 1
+Viechtacher Anzeiger: 1
+Gastgewerbe Magazin: 1
+inSüdthüringen.de: 1
+kreiszeitung.de: 1
+Berlin.de: 1
