@@ -1,0 +1,33 @@
+AD.nl: 27
+VRT NWS: 19
+Volkskrant: 11
+RTL Nieuws: 7
+Het Nieuwsblad: 11
+Telegraaf.nl: 7
+Business Insider: 4
+Bladna.nl: 2
+Trouw: 9
+Joop: 3
+Het Laatste Nieuws: 8
+NU.nl: 6
+Welingelichte Kringen: 1
+De Standaard: 12
+Gazet van Antwerpen: 3
+De Dagelijkse Standaard: 2
+NRC: 7
+Want: 2
+Nederlands Dagblad: 3
+Autoblog.nl: 2
+De Tijd: 10
+Gids.tv: 3
+FilmTotaal: 1
+RTL Boulevard: 2
+NOS: 1
+BNR Nieuwsradio: 1
+Vertigo: 1
+HP/De Tijd: 1
+Knack.be: 1
+Parool.nl: 1
+Newsbit.nl: 1
+De Morgen: 1
+Het Financieele Dagblad: 1

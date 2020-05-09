@@ -1,0 +1,64 @@
+NU.nl: 14
+NOS: 34
+Transport Online: 1
+Trouw: 4
+Volkskrant: 7
+BD.nl: 3
+Leeuwarder Courant: 4
+Rijksoverheid.nl: 5
+Vastgoedmarkt: 1
+Accountancy Vanmorgen: 3
+RTL Nieuws: 29
+De Gelderlander: 2
+LINDA.: 1
+AD.nl: 18
+Hartvannederland.nl: 10
+DIA-Duitslandweb: 1
+RTV Rijnmond: 1
+Nieuws en sport uit Limburg: 1
+Parool.nl: 6
+De Standaard: 1
+NRC: 6
+Telegraaf.nl: 10
+Boerderij: 2
+CMweb - Controllers Magazine: 2
+FOK!: 1
+| SpanjeVandaag: 1
+TaxLive: 2
+SpanjeVandaag: 1
+RTV Utrecht: 3
+Nieuws.nl: 2
+Computable: 1
+Omroep Zeeland: 2
+VRT NWS: 2
+De Tijd: 1
+Omroep Flevoland: 1
+Eindhovens Dagblad: 1
+Het Laatste Nieuws: 1
+Binnenlandsbestuur: 3
+De Stentor: 2
+RTV Focus Zwolle: 1
+De Morgen: 1
+BN DeStem: 1
+Elsevier Weekblad: 1
+Omroep Brabant: 6
+EenVandaag: 2
+ThePostOnline: 1
+RTV Noord: 1
+Omroep West: 1
+Het Financieele Dagblad: 1
+NPO Radio 1: 1
+Gids.tv: 1
+NH Nieuws: 4
+DeOndernemer.nl: 4
+RTV Oost: 1
+Amstelveenz.nl: 1
+Dagblad van het Noorden: 2
+Executive Finance: 1
+Service Management: 1
+TaxiPro.nl: 1
+OVPro.nl: 1
+oosterhout.nieuws.nl: 1
+TV Valkenburg: 1
+RTV Drenthe: 1
+Alkmaar Centraal: 1

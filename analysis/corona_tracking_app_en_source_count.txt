@@ -1,0 +1,94 @@
+The Guardian: 41
+9News: 9
+7NEWS.com.au: 3
+Daily Mail: 11
+The Straits Times: 1
+Sky News: 4
+The Australian: 1
+The Times: 4
+The Sun: 7
+NBC News: 2
+Forbes: 1
+CNBC: 3
+ComputerWeekly.com: 2
+The Verge: 4
+Wired.co.uk: 3
+VentureBeat: 1
+The Conversation UK: 1
+The Next Web: 4
+The Washington Post: 9
+ZDNet: 1
+The Local Switzerland: 1
+inews: 1
+Cyprus Mail: 1
+Mashable: 1
+ABC News: 9
+Mirror Online: 2
+The West Australian: 2
+CNET: 4
+The New Daily: 1
+Express.co.uk: 1
+DW (English): 2
+Metro.co.uk: 3
+Financial Times: 2
+The Sydney Morning Herald: 1
+Brisbane Times: 1
+The Independent: 2
+IT PRO: 1
+BBC News: 68
+MacRumors: 2
+Mactrast: 1
+The Register: 1
+Bloomberg: 1
+The Star Online: 1
+CNN: 7
+SBS News: 2
+Xinhua: 1
+Scientific American: 1
+Global News: 4
+Reuters: 3
+10 daily: 1
+The Wall Street Journal: 3
+USA TODAY: 1
+Business Insider India: 1
+The Canary: 1
+Haaretz: 1
+The Local Sweden: 1
+The Brussels Times: 1
+SmartCompany.com.au: 1
+NL Times: 2
+Inkstone: 4
+Euronews: 1
+Aljazeera.com: 1
+On The Wight: 1
+Isle of Wight County Press: 1
+Sydney Morning Herald: 1
+Northamptonshire Telegraph: 1
+Northampton Chronicle and Echo: 1
+Business Insider: 1
+Democracy Now!: 1
+Evening Standard: 1
+GOV.UK: 1
+BBC South East Wales: 7
+News Mail: 1
+Body and Soul: 1
+The Japan Times: 1
+The Local France: 1
+MorningAdvertiser.co.uk: 1
+NBCNews.com: 1
+Washington Post: 1
+Christian Science Monitor: 1
+SmartBrief: 1
+Economic Times: 1
+AppleInsider: 1
+CBC.ca: 1
+Gizmodo Australia: 1
+Benzinga: 1
+Law.com: 1
+MIT Technology Review: 2
+The New York Times: 9
+Eurasianet: 1
+The New European: 1
+NPR: 1
+The Indian Express: 3
+FUTURE TV: 1

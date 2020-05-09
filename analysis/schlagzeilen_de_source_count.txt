@@ -1,0 +1,66 @@
+DER SPIEGEL: 141
+WEB.DE News: 70
+WELT Nachrichtensender: 58
+Tagesspiegel: 68
+n-tv NACHRICHTEN: 107
+B.Z. Berlin: 32
+WELT: 102
+tagesschau.de: 75
+BILD: 132
+t-online.de: 175
+STERN.de: 42
+Der Westen: 7
+Kölner Stadt-Anzeiger: 14
+FAZ - Frankfurter Allgemeine Zeitung: 77
+Süddeutsche Zeitung: 52
+merkur.de: 94
+FOCUS Online: 37
+ZEIT ONLINE: 46
+RTL Online: 34
+NDR.de: 40
+Hamburger Abendblatt: 1
+Nordwest-Zeitung: 2
+Handelsblatt : 10
+F.A.Z. - Frankfurter Allgemeine Zeitung: 9
+Derwesten.de: 8
+Berliner Zeitung: 13
+Handelsblatt: 15
+Abendzeitung: 4
+Schwäbische: 6
+Merkur.de: 22
+BR24: 26
+TAG24: 14
+tz.de: 12
+tagesschau: 14
+WAZ News: 7
+Panorama: 1
+SWR: 4
+RP ONLINE: 22
+EXPRESS: 20
+Stuttgarter Nachrichten: 5
+Berliner Morgenpost: 32
+DIE WELT: 35
+Frankfurter Rundschau: 4
+Augsburger Allgemeine: 3
+noz.de - Neue Osnabrücker Zeitung: 14
+Stuttgarter Zeitung: 4
+Express.de: 1
+MDR: 10
+Neue Westfälische: 3
+rosenheim24.de: 1
+ZDFheute: 8
+Mitteldeutsche Zeitung: 8
+faz: 3
+HNA.de: 2
+fr.de: 7
+shz.de: 4
+Hannoversche Allgemeine: 3
+WDR Nachrichten: 4
+Presseportal.de: 3
+turi2: 1
+wa.de: 1
+Westdeutsche Allgemeine Zeitung: 4
+General-Anzeiger: 1
+Leipziger Volkszeitung: 1
+focus.de: 1
+Neue Osnabrücker Zeitung: 2

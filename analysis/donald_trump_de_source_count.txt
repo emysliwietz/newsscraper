@@ -1,0 +1,64 @@
+DER SPIEGEL: 41
+BILD: 13
+Tagesspiegel: 8
+Nau.ch: 19
+RND: 15
+t-online.de: 40
+merkur.de: 26
+Der Westen: 1
+Berliner Morgenpost: 8
+STERN.de: 16
+RP ONLINE: 5
+ Cash: 3
+ZDFheute: 1
+FOCUS Online: 3
+watson: 3
+tz.de: 6
+F.A.Z. - Frankfurter Allgemeine Zeitung: 3
+Merkur.de: 2
+Derwesten.de: 2
+RTL Online: 2
+fr.de: 86
+DiePresse.com: 2
+ZEIT ONLINE: 10
+WELT: 9
+tagesschau.de: 2
+Süddeutsche Zeitung: 4
+etailment.de: 1
+WAZ News: 2
+WEB.DE News: 6
+Metal Hammer: 1
+n-tv NACHRICHTEN: 1
+COMPUTER BILD: 4
+Stuttgarter Nachrichten: 1
+Braunschweiger Zeitung: 1
+Tages-Anzeiger: 8
+Stuttgarter Zeitung: 2
+Handelsblatt: 2
+FAZ - Frankfurter Allgemeine Zeitung: 8
+Frankfurter Rundschau: 6
+TAG24: 1
+20 Minuten: 1
+Sportbuzzer: 1
+Tiroler Tageszeitung Online: 1
+SALZBURG24: 1
+EXPRESS: 1
+wa.de: 1
+MANNHEIM24: 1
+Neue Presse Coburg: 1
+Kölner Stadt-Anzeiger: 2
+inSüdthüringen.de: 2
+Kleine Zeitung: 1
+Frankenpost: 1
+Nordwest-Zeitung: 2
+Gießener Allgemeine: 1
+Stol.it: 1
+Augsburger Allgemeine: 1
+Handelsblatt : 1
+NZZ - Neue Zürcher Zeitung: 1
+cash.ch: 1
+KURIER: 1
+TVMovie: 1
+manager magazin: 1
+Westdeutsche Allgemeine Zeitung: 1
+SWP: 1

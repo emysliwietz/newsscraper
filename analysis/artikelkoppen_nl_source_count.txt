@@ -1,0 +1,109 @@
+AD.nl: 214
+NOS: 147
+NU.nl: 189
+Eindhovens Dagblad: 19
+Zeelandnet Nieuws: 12
+Volkskrant: 47
+Omroep West: 13
+RTL Nieuws: 71
+Omroep Brabant: 42
+Telegraaf.nl: 156
+De Gelderlander: 31
+ThePostOnline: 18
+Omroep Gelderland: 25
+GelreNieuws: 3
+Hartvannederland.nl: 22
+Trouw: 17
+De Stentor: 56
+Parool.nl: 57
+Dagblad van het Noorden: 16
+Nieuws en sport uit Limburg: 15
+RTV Drenthe: 6
+RTV Utrecht: 1
+Metronieuws.nl: 10
+Business Insider: 1
+De Utrechtse Internet Courant: 2
+NRC: 26
+De Limburger: 16
+Welingelichte Kringen: 12
+Nederlands Dagblad: 3
+BD.nl: 27
+RTV Noord: 15
+De Kaap: 3
+wnl.tv: 8
+NPO Radio 1: 5
+RTL Boulevard: 3
+De Dagelijkse Standaard: 15
+RTV Rijnmond: 8
+Kijk op Castricum: 1
+De Telegraaf: 4
+RTV Oost: 11
+ZwolleNu: 2
+RTV Focus Zwolle: 1
+BN DeStem: 8
+WNL: 3
+Omroep Zeeland: 6
+Joop: 8
+Geenstijl.nl: 9
+DeStadAmersfoort.nl: 1
+BNR Nieuwsradio: 4
+SpanjeVandaag: 1
+InSpanje.nl: 1
+De Groene Amsterdammer: 1
+Breda nieuws: 1
+AT5: 14
+Crimesite: 6
+Gids.tv: 1
+LINDA.: 4
+Het Laatste Nieuws: 13
+SCEPTR: 1
+NH Nieuws: 6
+Noordhollands Dagblad: 2
+Waldnet: 1
+Oog TV: 2
+HVZeeland.nl: 2
+Omroep Flevoland: 2
+DeDrontenaar.nl: 2
+Het Financieele Dagblad: 3
+Barneveldse Krant: 1
+De Morgen: 5
+Transport Online: 1
+Alphens.nl: 3
+Tubantia: 3
+Blauw Bloed: 2
+De Tijd: 2
+Kinderopvangtotaal: 1
+DeOndernemer.nl: 1
+Politie: 5
+Reformatorisch Dagblad: 6
+FOK!: 1
+VTBL: 1
+Panorama: 1
+Rijksoverheid.nl: 2
+112 Groningen: 9
+De Standaard: 3
+quotenet.nl: 3
+Opgelicht?!: 1
+112Arnhem: 1
+WOS.nl: 1
+EenVandaag: 1
+indebuurt: 1
+Groninger Internet Courant: 1
+Het Nieuwsblad: 3
+Sittard-Geleen.nieuws.nl: 1
+Het Belang van Limburg: 2
+Elsevier Weekblad: 1
+Historiek.net: 1
+telegraaf.nl: 1
+Amstelveenz.nl: 1
+nos.nl: 1
+Horses: 1
+RTV Purmerend: 1
+DenHaagTV: 1
+Alles over Katwijk: 1
+Metro België: 1
+Unity Nu: 1
+SIRIS.nl: 2
+UMC Utrecht: 1
+VRT NWS: 4
+Gazet van Antwerpen: 1

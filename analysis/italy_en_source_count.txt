@@ -1,0 +1,163 @@
+The Guardian: 40
+The New York Times: 54
+The Local Italy: 16
+Football Italia: 1
+TRT World: 4
+RFI: 3
+ABC News: 17
+Anadolu Agency: 15
+Euronews: 13
+Telegraph.co.uk: 15
+The Wall Street Journal: 6
+CNN: 5
+CNBC: 9
+The-Latest News: 2
+Al Jazeera English: 18
+NPR: 7
+BBC News: 47
+Bloomberg: 40
+Politico: 1
+Reuters UK: 14
+VOA News: 2
+Sky News: 11
+Axios: 2
+Vox.com: 1
+Daily Mail: 23
+Reuters: 27
+DW (English): 8
+RFI English: 1
+The Irish Times: 2
+FRANCE 24 English: 6
+The Hindu: 3
+NewsClicks: 2
+The Straits Times: 6
+Forbes: 12
+Catholic Herald Online: 1
+Financial Times: 18
+The Drinks Business: 1
+INSIDER: 3
+Business Insider: 6
+dineshr: 1
+World Economic Forum: 1
+The Sun: 5
+Agenzia ANSA: 2
+artnet News: 2
+New York Post : 1
+Anadolu Ajansı: 3
+RTE.ie: 2
+inews: 2
+National Post: 1
+CNA: 6
+The Daily Beast: 3
+Spectator.co.uk: 1
+Fox News: 3
+GOV.UK: 1
+The Times of Israel: 1
+Post and Parcel: 1
+Yahoo Finance: 1
+NATO HQ: 1
+Edinburgh News: 1
+KIRO Seattle: 2
+The Japan Times: 1
+Automotive News Europe: 1
+Lancashire Post: 1
+DER SPIEGEL: 1
+The Star Online: 1
+WSB Atlanta: 1
+Xinhua: 3
+Aljazeera.com: 5
+The Statesman: 1
+EURACTIV: 3
+The Associated Press: 2
+24/7 Wall St.: 1
+WCVB Boston: 1
+Vatican News: 1
+wtkr.com: 1
+NW Evening Mail: 1
+Livewire Markets: 2
+TIME: 1
+The Hill: 2
+nejm.org: 2
+India Today: 1
+Express: 3
+MarketWatch: 1
+AS South Africa: 1
+The Brussels Times: 2
+U.S. News & World Report: 3
+ING Think: 1
+CBC.ca: 1
+Trendinindia: 1
+The News International: 1
+Los Angeles Times: 3
+Mirror Online: 3
+Express.co.uk: 7
+Washington Post: 2
+New Statesman: 1
+FIFA.com: 1
+Fitch Ratings: 1
+The Loppy: 5
+The Newsopedia: 2
+Jamaica Observer: 1
+The Independent: 3
+FRANCE 24: 2
+The Canberra Times: 1
+The Nation: 1
+SBS News: 1
+NBCNews.com: 3
+Jakarta Post: 2
+2oceansvibe News: 1
+Business Standard: 1
+Gulf News: 2
+The Globe and Mail: 1
+CBS News: 1
+Voice of America: 1
+WION: 1
+ITV News: 2
+Sydney Morning Herald: 2
+Metro.co.uk: 1
+Hertfordshire Mercury: 1
+News Info Park: 2
+Stars and Stripes: 1
+Imperial College London: 1
+CNBCTV18: 3
+European Council on Foreign Relations: 1
+Manchester City FC: 1
+Financial Post: 1
+Republic World: 1
+The Spirits Business: 1
+WKMG News 6 & ClickOrlando: 1
+WSAW: 1
+The Washington Post: 2
+Minneapolis Star Tribune: 2
+The Economist: 8
+KTTC: 1
+ICIS: 1
+CMC Markets: 2
+Firstpost: 1
+Open Democracy: 1
+India Gone Viral: 1
+CGTN: 1
+Cooling Post: 1
+Mumbai Mirror: 1
+The Tribune India: 1
+The Times: 1
+Euro Weekly News: 2
+WCTI12.com: 1
+The Week (UK): 1
+Happytrips: 1
+WEAR: 1
+Irish Post: 1
+InfoMigrants: 1
+Morning Star Online: 1
+KVAL: 1
+Outlook India: 1
+nbcmontana.com: 1
+Times of India: 3
+Kazinform: 1
+ThePrint: 1
+VentureBeat: 1
+Local Berkshire: 1
+Variety: 1
+The Tablet: 1
+HeraldScotland: 1
+Slate: 1

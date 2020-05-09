@@ -1,0 +1,201 @@
+CBBC Newsround: 2
+NBC News: 6
+BBC Sport: 44
+The Guardian: 107
+Express.co.uk: 3
+World Health Organization: 18
+BBC News: 78
+Vox.com: 1
+talkSPORT.com: 1
+CNN: 26
+East Anglian Daily Times: 1
+CNBC: 31
+Bradford Telegraph and Argus: 4
+GOV.UK: 3
+The New York Times: 18
+Morning Star Online: 1
+Daily Mail: 50
+ITV News: 8
+Metro.co.uk: 20
+NPR: 7
+Al Jazeera English: 12
+Sky News: 23
+Cambridge News: 1
+Cycling Weekly: 3
+Financial Times: 6
+World Economic Forum: 8
+Reuters UK: 9
+Seattle Times: 1
+LeaderLive: 4
+The Star Online: 4
+Spiked: 1
+中国日报: 1
+The Washington Post: 6
+CALmatters: 1
+DW (English): 1
+Reuters: 15
+syracuse.com: 1
+Fox News: 11
+Telegraph.co.uk: 3
+Tufts Daily: 1
+expressandstar.com: 21
+7NEWS.com.au: 2
+Exit - Explain Albania: 1
+FierceBiotech: 1
+The New Yorker: 7
+RadioTimes: 1
+Hereford Times: 1
+Federal News Network: 1
+The Register: 3
+Chronicle Live: 2
+Mirror Online: 11
+The Sun: 5
+New York Post : 8
+WKRG News 5: 1
+HuffPost UK: 1
+BBC South East Wales: 5
+MarketWatch: 3
+Warrington Guardian: 2
+Science News: 1
+News & Star: 1
+St Helens Star: 2
+Plymouth Live: 2
+Wigan Today: 1
+The Irish Times: 1
+ABC News: 5
+The Northern Echo: 2
+Gazette: 1
+The Brussels Times: 2
+Heart: 1
+The Wall Street Journal: 4
+Wales Online: 5
+TheChronicleHerald.ca: 3
+The Loppy: 3
+The Mercury News: 1
+Civil Service World: 1
+Voice of America: 1
+Medical News Today: 1
+Lawfare: 1
+Oxford Mail: 1
+TechCrunch: 1
+Eastern Daily Press: 2
+CTV News: 1
+Daily Record: 2
+shropshirestar.com: 4
+The Hill: 3
+KBTX: 1
+Common Dreams: 1
+straits times: 1
+Manchester Evening News: 11
+POLITICO: 2
+The Moscow Times: 1
+News Shopper: 2
+BT Sport: 2
+Foreign Policy: 2
+Washington Post: 1
+CBC.ca: 3
+The Globe and Mail: 3
+WGME: 1
+The New European: 1
+NJ.com: 1
+The Conversation UK: 2
+WILX-TV: 1
+New Scientist: 1
+AFP Factcheck: 1
+Greeley Tribune: 1
+Lancashire Telegraph: 1
+New Scientist News: 1
+EWN: 1
+Business Insider: 1
+Press Herald: 1
+Livescience.com: 1
+CNA: 7
+Bloomberg: 5
+The Argus: 1
+USA TODAY: 2
+NBC 5 Dallas-Fort Worth: 1
+NBCNews.com: 3
+WRTV Indianapolis: 1
+RTE.ie: 2
+The Straits Times: 2
+Human Rights Watch: 1
+Herald-Mail Media: 1
+WKBW-TV: 1
+Global News: 1
+UN News: 1
+CIDRAP: 3
+National Post: 2
+U.S. News & World Report: 1
+National Review: 1
+Evening Telegraph: 1
+Los Angeles Times: 1
+Anadolu Agency: 2
+Echo: 1
+TheBlaze: 1
+The Japan Times: 3
+Formula 1 RSS UK: 2
+News Info Park: 2
+The Canberra Times: 1
+City A.M.: 1
+NewsClicks: 6
+Jakarta Post: 3
+Khaleej Times: 1
+Aljazeera.com: 1
+Manchester City FC: 2
+Romford Recorder: 1
+Formula 1: 3
+Forbes: 3
+Edmonton Journal: 1
+Sky Sports: 5
+Bury Times: 2
+9News: 1
+The Age: 1
+Focus Taiwan News Channel: 2
+Liverpool Echo: 7
+Derbyshire Live: 3
+Nursing Times: 1
+LancsLive: 1
+South Wales Argus: 1
+Daily Echo: 1
+The Logical Indian: 1
+Great Yarmouth Mercury: 1
+Scroll.in: 1
+www.ekathimerini.com: 1
+Cheshire Live: 2
+Belfast Telegraph: 1
+Full Fact: 1
+cgtn.com: 2
+The Courier: 1
+Aberdeen Evening Express: 1
+ActionNewsJax.com: 1
+India Gone Viral: 1
+AirQualityNews: 1
+Dunfermline Press: 1
+The Wiltshire Gazette and Herald: 1
+Skift: 1
+Your Local Guardian: 1
+Leicestershire Live: 1
+Milton Keynes Citizen: 1
+Nikkei Asian Review: 1
+Hong Kong Free Press: 1
+Deccan Herald: 1
+BloombergQuint: 1
+ScienceAlert: 1
+Southwark News: 1
+Lincolnshire Reporter: 1
+Science Daily: 1
+Wiltshire Times: 1
+The Economist: 2
+The Hindu: 1
+Express: 1
+Anadolu Ajansı: 1
+The Africa Report: 1
+Hindustan Times: 3
+University of Stirling: 1
+ThePrint: 1
+wgbh.org: 1
+Science Magazine: 1
+NW Evening Mail: 1
+Republic World: 1
+National Geographic UK: 1
+Trends Wide: 1

@@ -1,0 +1,72 @@
+Deutschlandfunk: 12
+heise online: 3
+BR24: 4
+WELT: 7
+inFranken.de: 3
+Berliner Morgenpost: 8
+Westdeutsche Allgemeine Zeitung: 2
+RND: 1
+mannheim24.de: 3
+ZEIT ONLINE: 1
+Westdeutsche Zeitung: 1
+rbb|24: 4
+n-tv NACHRICHTEN: 3
+Tagesspiegel: 7
+connect.de: 8
+tagesschau.de: 5
+STERN.de: 1
+CHIP Online: 4
+RP ONLINE: 1
+Cicero Online: 1
+inSüdthüringen.de: 1
+appgefahren.de: 1
+Der Westen: 1
+NRZ: 1
+Netzpolitik.org: 3
+Süddeutsche Zeitung: 3
+WinFuture: 2
+heise Security: 1
+COMPUTER BILD: 4
+Mac & i: 3
+inside digital: 2
+Netzpiloten: 1
+DW (Deutsch): 1
+t3n Magazin: 1
+Die Presse: 5
+RTL Online: 1
+Notebookcheck: 1
+taz.de: 6
+Business Insider Deutschland: 2
+Handelsblatt: 4
+CHIP Online Deutschland: 2
+zm online: 1
+SWR: 3
+it-daily.net: 2
+news.de: 2
+InfoDigital / INFOSAT: 4
+turi2: 1
+DER SPIEGEL: 2
+hessenschau.de: 2
+TECHBOOK: 2
+SÃ¼ddeutsche Zeitung: 1
+derStandard.de: 1
+Deutschland Today: 1
+futurezone.at: 1
+OnlineMarketing.de: 1
+oe24.at: 3
+SWP: 3
+Android User: 1
+FAZ - Frankfurter Allgemeine Zeitung: 2
+Nordwest-Zeitung: 1
+F.A.Z. - Frankfurter Allgemeine Zeitung: 1
+Kleine Zeitung: 1
+BLICK.CH: 1
+Schweizer Radio und Fernsehen (SRF): 1
+ Cash: 3
+Wuppertaler-Rundschau.de: 1
+SÜDKURIER Online: 1
+Caschys Blog: 1
+merkur.de: 1
+BNN - Badische Neueste Nachrichten: 1
+Handelsblatt : 1
+Passauer Neue Presse: 1

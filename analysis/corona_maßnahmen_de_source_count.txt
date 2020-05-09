@@ -1,0 +1,120 @@
+idowa: 11
+DIE WELT: 8
+BNN - Badische Neueste Nachrichten: 13
+tz.de: 5
+tagesschau.de: 33
+WELT: 22
+Telepolis: 4
+Straubinger Tagblatt: 7
+Tagesspiegel: 27
+watson: 2
+Deutschlandfunk: 19
+SWR: 11
+Merkur.de: 23
+BR24: 13
+rbb|24: 20
+merkur.de: 138
+WEB.DE News: 1
+Aachener Zeitung: 5
+inFranken.de: 5
+SWR3: 3
+Mittelhessen: 2
+Westdeutsche Allgemeine Zeitung: 1
+ZDFheute: 12
+Mitteldeutsche Zeitung: 1
+t-online.de: 19
+Nordkurier: 11
+taz.de: 6
+BILD: 7
+muenchen.de - Das offizielle Stadtportal für München: 2
+Radio 91.2: 1
+Aachener Nachrichten: 1
+DER SPIEGEL: 14
+Börse Online: 3
+wa.de: 2
+Oberhessische Zeitung: 1
+FOCUS Online: 1
+inSüdthüringen.de: 1
+Saarbrücker Zeitung: 5
+Stuttgarter Zeitung: 3
+Ostsee Zeitung: 1
+hna.de: 4
+FAZ - Frankfurter Allgemeine Zeitung: 8
+Berliner Morgenpost: 31
+Süddeutsche Zeitung: 10
+MDR: 9
+Westfälischer Anzeiger: 4
+Wiener Zeitung: 1
+ZEIT ONLINE: 11
+SWP: 4
+FITBOOK: 1
+sol.de: 2
+95.5 Charivari - Münchens Hitradio: 2
+Nordbayern.de: 12
+owl24.de: 1
+n-tv NACHRICHTEN: 4
+Augsburger Allgemeine: 3
+RP ONLINE: 25
+RTL Online: 14
+Vatican News: 1
+ka-news.de: 5
+Handelsblatt: 3
+RND: 11
+General-Anzeiger: 8
+Regenbogen: 1
+Allgemeine Zeitung: 1
+Handelsblatt : 5
+Cicero Online: 2
+Frankfurter Rundschau: 7
+Gründerszene: 1
+Stuttgarter Nachrichten: 2
+Westdeutsche Zeitung: 4
+ Cash: 1
+Neues Volksblatt: 2
+B.Z. Berlin: 3
+NDR.de: 20
+vorwärts.de: 1
+Braunschweiger Zeitung: 1
+Lausitzer Rundschau: 1
+Frankenpost: 1
+fr.de: 14
+VOL.AT - Vorarlberg Online: 1
+onvista: 1
+Dorstener Zeitung: 1
+World Socialist Web Site: 1
+Berliner Zeitung: 3
+STERN.de: 4
+Pforzheimer Zeitung: 2
+TAG24: 1
+Ruhr Nachrichten: 1
+Radio Essen: 1
+FIT FOR FUN: 2
+kreiszeitung.de: 1
+buten un binnen: 7
+Leipziger Internet-Zeitung: 2
+Bayreuther Tagblatt: 1
+skispringen.com: 1
+hamburg.de: 1
+rbb-online.de: 3
+Viechtacher Anzeiger: 1
+heidelberg24.de: 2
+KURIER: 1
+DASDING.de: 1
+Radio Lippe: 1
+SÜDKURIER Online: 1
+hessenschau.de: 5
+WESER-KURIER: 2
+EURACTIV Germany: 1
+Passauer Neue Presse: 1
+njuuz: 2
+NRZ: 1
+Kölner Stadt-Anzeiger: 3
+HNA.de: 2
+Pharmazeutische Zeitung online: 1
+echo24.de: 3
+inSüdthüringen: 1
+Antenne Bayern: 1
+hallo-muenchen.de: 1
+Hamburger Morgenpost: 1
+Frankfurter Neue Presse: 1
+Badische Zeitung: 1

@@ -1,0 +1,75 @@
+NOS: 10
+AD.nl: 4
+Volkskrant: 15
+Accountant.nl: 3
+NRC: 12
+Telegraaf.nl: 18
+VRT NWS: 4
+Trouw: 19
+NU.nl: 8
+RTL Nieuws: 9
+Twinkle: 1
+Parool.nl: 6
+Nederlands Dagblad: 7
+ThePostOnline: 2
+Nieuwsuur: 1
+RTL Z: 7
+ICT&health.nl: 3
+Friesch Dagblad: 2
+Computable.be: 1
+De Limburger: 2
+Het Laatste Nieuws: 2
+Leeuwarder Courant: 15
+wnl.tv: 3
+SCEPTR: 2
+Melkvee: 2
+Dagblad van het Noorden: 4
+Boerenbusiness.nl: 4
+NieuwsbladTransport.nl: 1
+Het Financieele Dagblad: 11
+BNR Nieuwsradio: 5
+De Tijd: 5
+Nieuwe Oogst: 7
+Reformatorisch Dagblad: 4
+De Morgen: 2
+Follow the Money: 1
+Boerderij: 13
+Binnenlandsbestuur: 1
+Noordhollands Dagblad: 2
+AGF.nl: 2
+Elsevier Weekblad: 7
+Emerce: 1
+Financieel management: 2
+De Standaard: 5
+Nieuwsbureau Energeia: 1
+Het Belang van Limburg: 1
+SpanjeVandaag: 2
+Gazet van Antwerpen: 1
+Horses.nl: 1
+Bladna.nl: 1
+H2O Waternetwerk: 1
+Circusweb: 1
+Welingelichte Kringen: 2
+Automobiel Management: 2
+Vakblad voor de Bloemisterij: 2
+Security.nl: 1
+Buitenhof: 1
+Up in the Sky: 1
+NPO Radio 1: 2
+Zakenreis: 1
+TravelPro: 1
+Landbouwleven: 1
+Knack.be: 8
+Independent Website Tilburg University: 1
+Bright.nl: 1
+AG Connect: 1
+Villamedia: 1
+Advocatie: 1
+Zakelijk Dagblad: 1
+CIDI: 2
+De Dagelijkse Standaard: 1
+Vilt: 1
+InSpanje.nl: 2
+Geenstijl.nl: 1
+Techzine.be: 1
+joods.nl: 1

@@ -1,0 +1,95 @@
+Daily Mail: 163
+Evening Standard: 53
+The Sun: 135
+The Guardian: 231
+Mirror Online: 124
+BBC News: 255
+The Independent: 86
+Sky News: 113
+Express: 67
+Metro.co.uk: 64
+BBC South East Wales: 45
+The Telegraph: 48
+ITV News: 48
+The Scotsman: 10
+Guardian News: 26
+Al Jazeera English: 11
+Harrow Times: 1
+Essex Live: 2
+CNN: 7
+Financial Times: 35
+NDTV News: 2
+Business Insider: 1
+Telegraph.co.uk: 64
+Express.co.uk: 31
+Reuters UK: 1
+The Age: 1
+The Times: 27
+East London and West Essex Guardian Series: 1
+Daily Record: 13
+HuffPost UK: 3
+Wales Online: 14
+Manchester Evening News: 24
+The Washington Post: 14
+NBC News: 4
+Mirror.co.uk: 4
+Daily Star: 1
+Newham Recorder: 1
+The Loppy: 11
+Chard & Ilminster News: 2
+Belfast Telegraph: 3
+NBCNews.com: 2
+The New York Times: 17
+Fox News: 11
+Spire FM: 1
+The London Economic: 1
+This Morning: 1
+TIME: 1
+Cornwall Live: 2
+Chronicle Live: 2
+Devon Live: 3
+Worksop Guardian: 1
+Washington Post: 3
+WABC-TV: 1
+WalesOnline: 5
+BBC: 4
+Liverpool Echo: 4
+News 12 Bronx: 1
+News Info Park: 2
+India Gone Viral: 3
+Newsweek: 3
+USA TODAY: 1
+inews: 8
+Gadgets 360: 1
+NDTV: 1
+The Bolton News: 1
+York Press: 1
+letsrecycle.com: 1
+AOL UK: 1
+PoliticsHome.com: 1
+Swindon Advertiser: 1
+Spectator.co.uk: 1
+CNA: 1
+NEWS.com.au: 1
+AOL Travel UK: 1
+World Socialist Web Site: 1
+Daily Echo: 1
+Yorkshire Evening Post: 1
+Birmingham Live: 2
+Gloucestershire Live: 1
+Cheshire Live: 1
+Leicestershire Live: 3
+HeraldScotland: 1
+Channel 4 News: 1
+BBC Newsnight: 1
+Edinburgh News: 2
+FOX 29 News Philadelphia: 1
+Euro Weekly News: 1
+Smash Newz: 1
+Runner's World (UK): 1
+Wirral Globe: 1
+Sky Sports: 2
+BBC Sport: 1
+Football365.com: 1
+NewsClicks: 1
+Scotland on Sunday: 1

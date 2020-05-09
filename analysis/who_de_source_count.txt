@@ -1,0 +1,130 @@
+Lippische Landes-Zeitung: 5
+DW (Deutsch): 15
+DER SPIEGEL: 11
+FAZ - Frankfurter Allgemeine Zeitung: 9
+Berliner Zeitung: 4
+tagesschau.de: 27
+n-tv NACHRICHTEN: 11
+t-online.de: 17
+Telepolis: 7
+Nau.ch: 15
+Süddeutsche Zeitung: 17
+Heilbronner Stimme: 5
+DIE WELT: 5
+RND: 9
+merkur.de: 20
+W&V - Werben & Verkaufen: 1
+Handelsblatt : 5
+STERN.de: 6
+WEB.DE News: 4
+Business Insider Deutschland: 10
+kreisbote.de: 3
+FOCUS Online: 14
+ZDFheute: 9
+Stuttgarter Zeitung: 2
+Tagesspiegel: 13
+Neue Westfälische: 2
+Deutschlandfunk: 13
+futurezone.at: 2
+Suedtirol News: 5
+Badische Zeitung: 2
+Reuters Deutschland: 5
+Deutschlandfunk Kultur: 3
+Saarbrücker Zeitung: 5
+Deutsches Ärzteblatt: 4
+B.Z. Berlin: 1
+PC-WELT: 1
+Serienjunkies: 2
+taz.de: 2
+BILD: 5
+Rolling Stone: 2
+Die Presse: 8
+onvista: 11
+Radio Gütersloh: 1
+Schweizer Radio und Fernsehen (SRF): 1
+Luxemburger Wort: 1
+Cicero Online: 2
+ Cash: 2
+WELT: 11
+Apotheken Umschau: 2
+Usinger Anzeiger: 1
+oe24.at: 1
+UNRIC: 7
+t3n Magazin: 2
+Telebasel: 1
+filmstarts: 2
+inFranken.de: 2
+Kleine Zeitung: 3
+VOL.AT : 2
+nachrichten.at: 3
+Nordbayern.de: 1
+KURIER: 1
+derStandard.de: 2
+Mannheimer Morgen: 1
+General-Anzeiger: 4
+MDR: 3
+Merkur.de: 3
+Stuttgarter Nachrichten: 4
+Neue Zürcher Zeitung: 3
+Tiroler Tageszeitung Online: 2
+Neue Presse Coburg: 2
+ZEIT ONLINE: 4
+Infosperber: 1
+Mittelhessen: 1
+F.A.Z. - Frankfurter Allgemeine Zeitung: 1
+Legal Tribune Online: 1
+Deutsche Welle: 2
+Das Wochenblatt aus Paraguay: 1
+BNN - Badische Neueste Nachrichten: 3
+Frankenpost: 2
+Frankfurter Rundschau: 1
+hallo-muenchen.de: 1
+futurezone.de: 1
+wa.de: 1
+RP ONLINE: 2
+Wiesbadener Kurier: 1
+NDR.de: 1
+Mannschaft Magazin: 1
+fr.de: 1
+Hürriyet.de: 1
+noz.de - Neue Osnabrücker Zeitung: 1
+Traunsteiner Tagblatt: 1
+www.verlagshaus-jaumann.de: 1
+TrekZone Network: 1
+Der Westen: 1
+Yahoo Nachrichten Deutschland: 1
+ZEIT ONLINE English: 1
+echo24.de: 1
+ORF.at: 6
+Augsburger Allgemeine: 2
+svz.de: 1
+Allgemeine Zeitung: 1
+DAZ.online: 2
+Frankfurter Neue Presse: 1
+Musikexpress: 1
+DWDL.de: 1
+derStandard.at: 3
+Capital - Wirtschaft ist Gesellschaft: 1
+Salzburger Nachrichten: 1
+Zeitungsverlag Waiblingen: 3
+amerika21.de: 2
+Mindener Tageblatt: 1
+Oldenburger Onlinezeitung: 1
+Ärzte Zeitung: 1
+WirtschaftsWoche: 1
+WESER-KURIER: 2
+SWR: 3
+Motorsport-Total.com: 1
+APOTHEKE ADHOC: 2
+Formel1.de: 1
+Aachener Zeitung: 1
+finanzen.net: 2
+finanzen.at: 1
+inSüdthüringen.de: 2
+play3.de: 1
+Neues Volksblatt: 2
+Berchtesgadener Anzeiger: 1
+elektro.at: 1
+Handelsblatt: 1
+GrenzEcho.net: 1
+EURACTIV Germany: 1

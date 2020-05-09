@@ -1,0 +1,72 @@
+The Local Germany: 9
+Business Today: 46
+ABC News: 25
+India Today: 15
+Outlook India: 2
+CNBC: 5
+Times of India: 13
+Sky News: 4
+India TV News: 1
+Financial Times: 21
+The Washington Post: 1
+MarketWatch: 1
+dineshr: 4
+BBC News: 23
+ITV News: 2
+Daijiworld.com: 2
+Economic Times: 4
+BusinessLine: 1
+ABP Live: 4
+DutchNews.nl: 1
+Business Standard: 2
+Reuters: 1
+The Guardian: 12
+CNET: 1
+CNN International: 2
+Jagran English: 2
+News18: 2
+The New York Times: 6
+Free Press Journal: 1
+Pune Mirror: 1
+Newsjok: 2
+DW (English): 11
+The Hindu: 6
+Belfast Live: 1
+CNN: 8
+THE WEEK: 1
+The Newsopedia: 1
+NL Times: 1
+India Gone Viral: 2
+GPblog: 1
+The Next Web: 1
+HW News English: 1
+Kalinga TV: 1
+Todaynewspaper: 1
+NBC News: 1
+FOX 5 San Diego: 1
+Deccan Herald: 2
+The Sun: 2
+The Canberra Times: 1
+Cyprus Mail: 1
+Express: 1
+citytoday: 2
+The Nation: 2
+News Info Park: 1
+Mumbai Mirror: 1
+Business Insider: 1
+Al Jazeera English: 4
+Sportstar: 1
+Livemint: 2
+India.com: 1
+The Indian Express: 8
+Hindustan Times: 1
+Reuters UK: 1
+The New Indian Express: 1
+All India Radio: 1
+The Local Switzerland: 1
+NewsClicks: 1
+EURACTIV: 1
+Express.co.uk: 1
+EL PAÍS in English: 1
+BBC South East Wales: 3
+FreshPlaza.com: 1

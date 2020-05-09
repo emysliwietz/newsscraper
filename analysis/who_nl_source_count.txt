@@ -1,0 +1,68 @@
+NOS: 20
+AD.nl: 25
+De Dagelijkse Standaard: 6
+Volkskrant: 10
+NU.nl: 32
+VRT NWS: 4
+Geenstijl.nl: 2
+Trouw: 9
+Suriname Herald: 1
+BD.nl: 3
+Hartvannederland.nl: 2
+RTL Nieuws: 12
+Leeuwarder Courant: 10
+Parool.nl: 10
+Telegraaf.nl: 25
+Het Laatste Nieuws: 17
+NRC: 11
+Welingelichte Kringen: 10
+Dagblad van het Noorden: 15
+BNR Nieuwsradio: 2
+Transport Online: 4
+Nederlands Dagblad: 13
+Festileaks: 2
+Medical facts: 2
+De Standaard: 2
+ThePostOnline: 2
+Androidworld: 1
+InSpanje.nl: 2
+Noordhollands Dagblad: 7
+Eindhovens Dagblad: 2
+LINDA.: 3
+SerieTotaal: 1
+RTL Z: 2
+De Utrechtse Internet Courant: 2
+De Limburger: 7
+Oor: 1
+De Stentor: 2
+De Gelderlander: 1
+Skipr: 1
+Dutch IT-channel: 2
+De Morgen: 4
+VPNgids: 1
+Duurzaamnieuws.nl: 1
+Het Financieele Dagblad: 1
+NPO 3FM: 1
+Vakblad fondsenwerving: 1
+RTL Boulevard: 1
+BN DeStem: 3
+NPO Radio 1: 1
+MarketingTribune: 1
+newsmonkey: 1
+CustomerFirst: 1
+Security.nl: 1
+DeWereldMorgen.be: 1
+Bright.nl: 1
+Nationale Zorggids: 1
+Friesch Dagblad: 1
+Emerce: 1
+ICT&health.nl: 1
+Entertainment Business: 1
+wnl.tv: 1
+Medisch Contact: 1
+Elsevier Weekblad: 1
+Sittard-Geleen.nieuws.nl: 1
+DroidApp: 1
+Hrpraktijk: 1
+Reformatorisch Dagblad: 2
+indebuurt: 1
