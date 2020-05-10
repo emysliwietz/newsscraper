@@ -1,362 +1,362 @@
-merkur.de: 491
-t-online.de: 308
-DER SPIEGEL: 296
-WELT: 241
-tagesschau.de: 218
-Süddeutsche Zeitung: 200
-BILD: 188
-NDR.de: 171
-Tagesspiegel: 166
-n-tv NACHRICHTEN: 161
-FAZ - Frankfurter Allgemeine Zeitung: 159
-fr.de: 124
-Berliner Morgenpost: 119
-ZEIT ONLINE: 115
-Deutschlandfunk: 101
-RP ONLINE: 99
-STERN.de: 96
-Merkur.de: 89
-WEB.DE News: 89
-RTL Online: 89
-FOCUS Online: 84
-DIE WELT: 69
-BR24: 68
-RND: 66
-WELT Nachrichtensender: 64
-MDR: 54
-rbb|24: 47
-ZDFheute: 47
-ORF.at: 46
-Handelsblatt : 45
-Frankfurter Rundschau: 44
-Nau.ch: 44
-B.Z. Berlin: 43
-SWR: 41
-tz.de: 38
-onvista: 37
-taz.de: 36
-Handelsblatt: 36
-DW (Deutsch): 36
-Nordbayern.de: 34
-SWP: 32
-buten un binnen: 32
-hna.de: 31
-Stol.it: 31
-KURIER: 29
-Die Presse: 29
-BNN - Badische Neueste Nachrichten: 27
-Berliner Zeitung: 27
-Suedtirol News: 27
-hessenschau.de: 26
-Stuttgarter Zeitung: 24
-noz.de - Neue Osnabrücker Zeitung: 24
-TAG24: 23
-F.A.Z. - Frankfurter Allgemeine Zeitung: 22
-ka-news.de: 21
-General-Anzeiger: 21
- Cash: 21
-EXPRESS: 21
-Saarbrücker Zeitung: 20
-Kölner Stadt-Anzeiger: 20
-WDR Nachrichten: 19
-Stuttgarter Nachrichten: 18
-Augsburger Allgemeine: 17
-HNA.de: 17
-Neue Zürcher Zeitung: 16
-Telepolis: 15
-watson: 15
-inFranken.de: 15
-Euronews: 15
-fnp.de: 15
-Nordkurier: 14
-Passauer Neue Presse: 14
-derStandard.de: 14
-Der Westen: 14
-tagesschau: 14
-Vatican News: 13
-Westdeutsche Zeitung: 13
-Neues Volksblatt: 13
-WESER-KURIER: 13
-EURACTIV Germany: 13
-Reuters Deutschland: 13
-idowa: 12
-wa.de: 12
-Business Insider Deutschland: 12
-Derwesten.de: 12
-WAZ News: 12
-Aachener Zeitung: 11
-Westdeutsche Allgemeine Zeitung: 11
-Mitteldeutsche Zeitung: 11
-inSüdthüringen.de: 11
-kreiszeitung.de: 11
-Heilbronner Stimme: 11
-Straubinger Tagblatt: 10
-t3n Magazin: 10
-Oldenburger Onlinezeitung: 10
-finanzen.net: 10
-COMPUTER BILD: 10
-Wiener Zeitung: 9
-heidelberg24.de: 9
-Salzburger Nachrichten: 9
-Tages-Anzeiger: 9
-top agrar online: 9
-domradio.de: 9
-ruhr24.de: 9
-Cicero Online: 8
-echo24.de: 8
-UNRIC: 8
-derStandard.at: 8
-Schwäbische: 8
-connect.de: 8
-Westfälischer Anzeiger: 7
-oe24.at: 7
-Kleine Zeitung: 7
-Zeitungsverlag Waiblingen: 7
-WirtschaftsWoche: 7
-airliners.de: 7
-heise online: 7
-Oberösterreichisches Volksblatt: 7
-Netzpolitik.org: 7
-Presseportal.de: 7
-Abendzeitung: 7
-shz.de: 7
-owl24.de: 6
-Braunschweiger Zeitung: 6
-Frankenpost: 6
-Hamburger Morgenpost: 6
-Badische Zeitung: 6
-Lippische Landes-Zeitung: 6
-Deutsches Ärzteblatt: 6
-Nordwest-Zeitung: 6
-mannheim24.de: 6
-op-online.de: 6
-Hannoversche Allgemeine: 6
-muenchen.de - Das offizielle Stadtportal für München: 5
-SÜDKURIER Online: 5
-Neue Westfälische: 5
-futurezone.at: 5
-Deutschlandfunk Kultur: 5
-GrenzEcho.net: 5
-Hamburger Abendblatt: 5
-Merkurist.de: 5
-SWR3: 4
-Mittelhessen: 4
-Börse Online: 4
-sol.de: 4
-rbb-online.de: 4
-Antenne Bayern: 4
-Frankfurter Neue Presse: 4
-Leipziger Volkszeitung: 4
-Apotheken Umschau: 4
-nachrichten.at: 4
-Capital - Wirtschaft ist Gesellschaft: 4
-NZZ - Neue Zürcher Zeitung: 4
-TAGESKARTE: 4
-fleischwirtschaft.de: 4
-energate messenger: 4
-Lübecker Nachrichten: 4
-TRAVELBOOK: 4
-DAS INVESTMENT.com: 4
-Deutschland Today: 4
-RAN: 4
-Meinerzhagener Zeitung: 4
-Westfalenpost: 4
-Panorama: 4
-CHIP Online: 4
-InfoDigital / INFOSAT: 4
-faz: 4
-Ostsee Zeitung: 3
-Lausitzer Rundschau: 3
-FIT FOR FUN: 3
-NRZ: 3
-Pharmazeutische Zeitung online: 3
-inSüdthüringen: 3
-hallo-muenchen.de: 3
-Sächsische Zeitung: 3
-kreisbote.de: 3
-Schweizer Radio und Fernsehen (SRF): 3
-VOL.AT : 3
-Tiroler Tageszeitung Online: 3
-Neue Presse Coburg: 3
-Hürriyet.de: 3
-DAZ.online: 3
-Musikexpress: 3
-amerika21.de: 3
-Berchtesgadener Anzeiger: 3
-Sportbuzzer: 3
-Gießener Allgemeine: 3
-schweizerbauer.ch: 3
-DVZ.de - Deutsche Verkehrs-Zeitung: 3
-k.at: 3
-Wochenblatt.de: 3
-ludwigshafen24.de: 3
-Mac & i: 3
-Wuppertaler-Rundschau.de: 3
-Oberhessische Zeitung: 2
-95.5 Charivari - Münchens Hitradio: 2
-Allgemeine Zeitung: 2
-World Socialist Web Site: 2
-Pforzheimer Zeitung: 2
-Leipziger Internet-Zeitung: 2
-hamburg.de: 2
-Viechtacher Anzeiger: 2
-njuuz: 2
-svz.de: 2
-Onetz.de: 2
-Serienjunkies: 2
-Rolling Stone: 2
-Luxemburger Wort: 2
-filmstarts: 2
-Legal Tribune Online: 2
-Deutsche Welle: 2
-Traunsteiner Tagblatt: 2
-www.verlagshaus-jaumann.de: 2
-APOTHEKE ADHOC: 2
-MSN Unterhaltung: 2
-Caschys Blog: 2
-DiePresse.com: 2
-cash.ch: 2
-manager magazin: 2
-SPOX.com: 2
-Liechtensteiner Vaterland: 2
-Österreichische Bauernzeitung: 2
-Tichys Einblick: 2
-Neues Ruhr-Wort: 2
-Deutsches Rotes Kreuz e.V.: 2
-neues deutschland: 2
-Schwarzwälder Bote: 2
-lifepr.de: 2
-5 Minuten: 2
-Volksstimme: 2
-Heilpraxisnet.de: 2
-Haufe - News & Fachwissen: 2
-extratipp.com: 2
-Märkische Allgemeine: 2
-Wolfsburger Allgemeine: 2
-WinFuture: 2
-inside digital: 2
-Netzpiloten: 2
-CHIP Online Deutschland: 2
-it-daily.net: 2
-news.de: 2
-turi2: 2
-TECHBOOK: 2
-Neue Osnabrücker Zeitung: 2
-Radio 91.2: 1
-Aachener Nachrichten: 1
-FITBOOK: 1
-Regenbogen: 1
-Gründerszene: 1
-vorwärts.de: 1
-VOL.AT - Vorarlberg Online: 1
-Dorstener Zeitung: 1
-Ruhr Nachrichten: 1
-Radio Essen: 1
-Bayreuther Tagblatt: 1
-skispringen.com: 1
-DASDING.de: 1
-Radio Lippe: 1
-Märkische Onlinezeitung: 1
-W&V - Werben & Verkaufen: 1
-PC-WELT: 1
-Radio Gütersloh: 1
-Usinger Anzeiger: 1
-Telebasel: 1
-Mannheimer Morgen: 1
-Infosperber: 1
-Das Wochenblatt aus Paraguay: 1
-futurezone.de: 1
-Wiesbadener Kurier: 1
-Mannschaft Magazin: 1
-TrekZone Network: 1
-Yahoo Nachrichten Deutschland: 1
-ZEIT ONLINE English: 1
-DWDL.de: 1
-Mindener Tageblatt: 1
-Ärzte Zeitung: 1
-Motorsport-Total.com: 1
-Formel1.de: 1
-finanzen.at: 1
-play3.de: 1
-elektro.at: 1
-handelszeitung.ch: 1
-Lauterbacher Anzeiger: 1
-wissen.de: 1
-Hitchecker.de: 1
-etailment.de: 1
-Metal Hammer: 1
-20 Minuten: 1
-SALZBURG24: 1
-MANNHEIM24: 1
-TVMovie: 1
-Bote der Urschweiz: 1
-FinanzNachrichten.de: 1
-TRAVEL INSIDE: 1
-HOGAPAGE Nachrichten: 1
-Elektronikpraxis: 1
-bluewin.ch: 1
-datensicherheit.de: 1
-Boersennews.de: 1
-VerkehrsRundschau: 1
-fvw.de: 1
-BTC-ECHO: 1
-L'essentiel Deutsch: 1
-Heidenheimer Zeitung: 1
-Lost in EUrope: 1
-Potsdamer Neueste Nachrichten: 1
-fvw Blog - Touristik für Fortgeschrittene: 1
-GABOT: 1
-Eurotransport: 1
-Inforadio vom rbb: 1
-HASEPOST: 1
-Leonberger Kreiszeitung: 1
-stadtlandzeitung: 1
-finews.ch: 1
-Marbacher Zeitung: 1
-Die bayerische Wirtschaft: 1
-Addendum: 1
-Verbände Forum: 1
-Austrian Aviation Net: 1
-Fuldaer Zeitung: 1
-meinbezirk.at: 1
-hpd.de: 1
-FIFA.com: 1
-Kathpress: 1
-Mühlacker Tagblatt: 1
-unsertirol24: 1
-Krone.at: 1
-sport.de: 1
-Main-Spitze: 1
-LAOLA1.at: 1
-Kreis-Anzeiger: 1
-kicker: 1
-Bieler Tagblatt: 1
-swp.de: 1
-SPORT1: 1
-WP News: 1
-az-online.de: 1
-Kreisbote: 1
-nordbuzz.de: 1
-Göttinger Tageblatt: 1
-Soester Anzeiger: 1
-appgefahren.de: 1
-heise Security: 1
-Notebookcheck: 1
-zm online: 1
-SÃ¼ddeutsche Zeitung: 1
-OnlineMarketing.de: 1
-Android User: 1
-BLICK.CH: 1
-Schaumburger Nachrichten: 1
-Trierischer Volksfreund: 1
-wallstreet-online: 1
-donaukurier.de: 1
-Thüringer Allgemeine: 1
-Radio Dresden: 1
-Gastgewerbe Magazin: 1
-Berlin.de: 1
-msl24.de: 1
-Main-Post: 1
-Express.de: 1
-rosenheim24.de: 1
-focus.de: 1
+merkur.de: 491 (7.910423715160303%)
+t-online.de: 308 (4.9621395198968905%)
+DER SPIEGEL: 296 (4.768809408732077%)
+WELT: 241 (3.8827130658933466%)
+tagesschau.de: 218 (3.512163686160786%)
+Süddeutsche Zeitung: 200 (3.2221685194135654%)
+BILD: 188 (3.0288384082487516%)
+NDR.de: 171 (2.7549540840985984%)
+Tagesspiegel: 166 (2.674399871113259%)
+n-tv NACHRICHTEN: 161 (2.59384565812792%)
+FAZ - Frankfurter Allgemeine Zeitung: 159 (2.5616239729337846%)
+fr.de: 124 (1.9977444820364103%)
+Berliner Morgenpost: 119 (1.9171902690510711%)
+ZEIT ONLINE: 115 (1.8527468986628%)
+Deutschlandfunk: 101 (1.6271951023038504%)
+RP ONLINE: 99 (1.5949734171097147%)
+STERN.de: 96 (1.5466408893185113%)
+Merkur.de: 89 (1.4338649911390366%)
+WEB.DE News: 89 (1.4338649911390366%)
+RTL Online: 89 (1.4338649911390366%)
+FOCUS Online: 84 (1.3533107781536975%)
+DIE WELT: 69 (1.11164813919768%)
+BR24: 68 (1.0955372966006123%)
+RND: 66 (1.0633156114064766%)
+WELT Nachrichtensender: 64 (1.0310939262123409%)
+MDR: 54 (0.8699855002416627%)
+rbb|24: 47 (0.7572096020621879%)
+ZDFheute: 47 (0.7572096020621879%)
+ORF.at: 46 (0.74109875946512%)
+Handelsblatt : 45 (0.7249879168680522%)
+Frankfurter Rundschau: 44 (0.7088770742709843%)
+Nau.ch: 44 (0.7088770742709843%)
+B.Z. Berlin: 43 (0.6927662316739166%)
+SWR: 41 (0.6605445464797809%)
+tz.de: 38 (0.6122120186885774%)
+onvista: 37 (0.5961011760915096%)
+taz.de: 36 (0.5799903334944417%)
+Handelsblatt: 36 (0.5799903334944417%)
+DW (Deutsch): 36 (0.5799903334944417%)
+Nordbayern.de: 34 (0.5477686483003061%)
+SWP: 32 (0.5155469631061704%)
+buten un binnen: 32 (0.5155469631061704%)
+hna.de: 31 (0.4994361205091026%)
+Stol.it: 31 (0.4994361205091026%)
+KURIER: 29 (0.467214435314967%)
+Die Presse: 29 (0.467214435314967%)
+BNN - Badische Neueste Nachrichten: 27 (0.43499275012083133%)
+Berliner Zeitung: 27 (0.43499275012083133%)
+Suedtirol News: 27 (0.43499275012083133%)
+hessenschau.de: 26 (0.4188819075237635%)
+Stuttgarter Zeitung: 24 (0.3866602223296278%)
+noz.de - Neue Osnabrücker Zeitung: 24 (0.3866602223296278%)
+TAG24: 23 (0.37054937973256%)
+F.A.Z. - Frankfurter Allgemeine Zeitung: 22 (0.35443853713549217%)
+ka-news.de: 21 (0.3383276945384244%)
+General-Anzeiger: 21 (0.3383276945384244%)
+ Cash: 21 (0.3383276945384244%)
+EXPRESS: 21 (0.3383276945384244%)
+Saarbrücker Zeitung: 20 (0.3222168519413565%)
+Kölner Stadt-Anzeiger: 20 (0.3222168519413565%)
+WDR Nachrichten: 19 (0.3061060093442887%)
+Stuttgarter Nachrichten: 18 (0.28999516674722087%)
+Augsburger Allgemeine: 17 (0.27388432415015307%)
+HNA.de: 17 (0.27388432415015307%)
+Neue Zürcher Zeitung: 16 (0.2577734815530852%)
+Telepolis: 15 (0.2416626389560174%)
+watson: 15 (0.2416626389560174%)
+inFranken.de: 15 (0.2416626389560174%)
+Euronews: 15 (0.2416626389560174%)
+fnp.de: 15 (0.2416626389560174%)
+Nordkurier: 14 (0.2255517963589496%)
+Passauer Neue Presse: 14 (0.2255517963589496%)
+derStandard.de: 14 (0.2255517963589496%)
+Der Westen: 14 (0.2255517963589496%)
+tagesschau: 14 (0.2255517963589496%)
+Vatican News: 13 (0.20944095376188174%)
+Westdeutsche Zeitung: 13 (0.20944095376188174%)
+Neues Volksblatt: 13 (0.20944095376188174%)
+WESER-KURIER: 13 (0.20944095376188174%)
+EURACTIV Germany: 13 (0.20944095376188174%)
+Reuters Deutschland: 13 (0.20944095376188174%)
+idowa: 12 (0.1933301111648139%)
+wa.de: 12 (0.1933301111648139%)
+Business Insider Deutschland: 12 (0.1933301111648139%)
+Derwesten.de: 12 (0.1933301111648139%)
+WAZ News: 12 (0.1933301111648139%)
+Aachener Zeitung: 11 (0.17721926856774609%)
+Westdeutsche Allgemeine Zeitung: 11 (0.17721926856774609%)
+Mitteldeutsche Zeitung: 11 (0.17721926856774609%)
+inSüdthüringen.de: 11 (0.17721926856774609%)
+kreiszeitung.de: 11 (0.17721926856774609%)
+Heilbronner Stimme: 11 (0.17721926856774609%)
+Straubinger Tagblatt: 10 (0.16110842597067826%)
+t3n Magazin: 10 (0.16110842597067826%)
+Oldenburger Onlinezeitung: 10 (0.16110842597067826%)
+finanzen.net: 10 (0.16110842597067826%)
+COMPUTER BILD: 10 (0.16110842597067826%)
+Wiener Zeitung: 9 (0.14499758337361043%)
+heidelberg24.de: 9 (0.14499758337361043%)
+Salzburger Nachrichten: 9 (0.14499758337361043%)
+Tages-Anzeiger: 9 (0.14499758337361043%)
+top agrar online: 9 (0.14499758337361043%)
+domradio.de: 9 (0.14499758337361043%)
+ruhr24.de: 9 (0.14499758337361043%)
+Cicero Online: 8 (0.1288867407765426%)
+echo24.de: 8 (0.1288867407765426%)
+UNRIC: 8 (0.1288867407765426%)
+derStandard.at: 8 (0.1288867407765426%)
+Schwäbische: 8 (0.1288867407765426%)
+connect.de: 8 (0.1288867407765426%)
+Westfälischer Anzeiger: 7 (0.1127758981794748%)
+oe24.at: 7 (0.1127758981794748%)
+Kleine Zeitung: 7 (0.1127758981794748%)
+Zeitungsverlag Waiblingen: 7 (0.1127758981794748%)
+WirtschaftsWoche: 7 (0.1127758981794748%)
+airliners.de: 7 (0.1127758981794748%)
+heise online: 7 (0.1127758981794748%)
+Oberösterreichisches Volksblatt: 7 (0.1127758981794748%)
+Netzpolitik.org: 7 (0.1127758981794748%)
+Presseportal.de: 7 (0.1127758981794748%)
+Abendzeitung: 7 (0.1127758981794748%)
+shz.de: 7 (0.1127758981794748%)
+owl24.de: 6 (0.09666505558240696%)
+Braunschweiger Zeitung: 6 (0.09666505558240696%)
+Frankenpost: 6 (0.09666505558240696%)
+Hamburger Morgenpost: 6 (0.09666505558240696%)
+Badische Zeitung: 6 (0.09666505558240696%)
+Lippische Landes-Zeitung: 6 (0.09666505558240696%)
+Deutsches Ärzteblatt: 6 (0.09666505558240696%)
+Nordwest-Zeitung: 6 (0.09666505558240696%)
+mannheim24.de: 6 (0.09666505558240696%)
+op-online.de: 6 (0.09666505558240696%)
+Hannoversche Allgemeine: 6 (0.09666505558240696%)
+muenchen.de - Das offizielle Stadtportal für München: 5 (0.08055421298533913%)
+SÜDKURIER Online: 5 (0.08055421298533913%)
+Neue Westfälische: 5 (0.08055421298533913%)
+futurezone.at: 5 (0.08055421298533913%)
+Deutschlandfunk Kultur: 5 (0.08055421298533913%)
+GrenzEcho.net: 5 (0.08055421298533913%)
+Hamburger Abendblatt: 5 (0.08055421298533913%)
+Merkurist.de: 5 (0.08055421298533913%)
+SWR3: 4 (0.0644433703882713%)
+Mittelhessen: 4 (0.0644433703882713%)
+Börse Online: 4 (0.0644433703882713%)
+sol.de: 4 (0.0644433703882713%)
+rbb-online.de: 4 (0.0644433703882713%)
+Antenne Bayern: 4 (0.0644433703882713%)
+Frankfurter Neue Presse: 4 (0.0644433703882713%)
+Leipziger Volkszeitung: 4 (0.0644433703882713%)
+Apotheken Umschau: 4 (0.0644433703882713%)
+nachrichten.at: 4 (0.0644433703882713%)
+Capital - Wirtschaft ist Gesellschaft: 4 (0.0644433703882713%)
+NZZ - Neue Zürcher Zeitung: 4 (0.0644433703882713%)
+TAGESKARTE: 4 (0.0644433703882713%)
+fleischwirtschaft.de: 4 (0.0644433703882713%)
+energate messenger: 4 (0.0644433703882713%)
+Lübecker Nachrichten: 4 (0.0644433703882713%)
+TRAVELBOOK: 4 (0.0644433703882713%)
+DAS INVESTMENT.com: 4 (0.0644433703882713%)
+Deutschland Today: 4 (0.0644433703882713%)
+RAN: 4 (0.0644433703882713%)
+Meinerzhagener Zeitung: 4 (0.0644433703882713%)
+Westfalenpost: 4 (0.0644433703882713%)
+Panorama: 4 (0.0644433703882713%)
+CHIP Online: 4 (0.0644433703882713%)
+InfoDigital / INFOSAT: 4 (0.0644433703882713%)
+faz: 4 (0.0644433703882713%)
+Ostsee Zeitung: 3 (0.04833252779120348%)
+Lausitzer Rundschau: 3 (0.04833252779120348%)
+FIT FOR FUN: 3 (0.04833252779120348%)
+NRZ: 3 (0.04833252779120348%)
+Pharmazeutische Zeitung online: 3 (0.04833252779120348%)
+inSüdthüringen: 3 (0.04833252779120348%)
+hallo-muenchen.de: 3 (0.04833252779120348%)
+Sächsische Zeitung: 3 (0.04833252779120348%)
+kreisbote.de: 3 (0.04833252779120348%)
+Schweizer Radio und Fernsehen (SRF): 3 (0.04833252779120348%)
+VOL.AT : 3 (0.04833252779120348%)
+Tiroler Tageszeitung Online: 3 (0.04833252779120348%)
+Neue Presse Coburg: 3 (0.04833252779120348%)
+Hürriyet.de: 3 (0.04833252779120348%)
+DAZ.online: 3 (0.04833252779120348%)
+Musikexpress: 3 (0.04833252779120348%)
+amerika21.de: 3 (0.04833252779120348%)
+Berchtesgadener Anzeiger: 3 (0.04833252779120348%)
+Sportbuzzer: 3 (0.04833252779120348%)
+Gießener Allgemeine: 3 (0.04833252779120348%)
+schweizerbauer.ch: 3 (0.04833252779120348%)
+DVZ.de - Deutsche Verkehrs-Zeitung: 3 (0.04833252779120348%)
+k.at: 3 (0.04833252779120348%)
+Wochenblatt.de: 3 (0.04833252779120348%)
+ludwigshafen24.de: 3 (0.04833252779120348%)
+Mac & i: 3 (0.04833252779120348%)
+Wuppertaler-Rundschau.de: 3 (0.04833252779120348%)
+Oberhessische Zeitung: 2 (0.03222168519413565%)
+95.5 Charivari - Münchens Hitradio: 2 (0.03222168519413565%)
+Allgemeine Zeitung: 2 (0.03222168519413565%)
+World Socialist Web Site: 2 (0.03222168519413565%)
+Pforzheimer Zeitung: 2 (0.03222168519413565%)
+Leipziger Internet-Zeitung: 2 (0.03222168519413565%)
+hamburg.de: 2 (0.03222168519413565%)
+Viechtacher Anzeiger: 2 (0.03222168519413565%)
+njuuz: 2 (0.03222168519413565%)
+svz.de: 2 (0.03222168519413565%)
+Onetz.de: 2 (0.03222168519413565%)
+Serienjunkies: 2 (0.03222168519413565%)
+Rolling Stone: 2 (0.03222168519413565%)
+Luxemburger Wort: 2 (0.03222168519413565%)
+filmstarts: 2 (0.03222168519413565%)
+Legal Tribune Online: 2 (0.03222168519413565%)
+Deutsche Welle: 2 (0.03222168519413565%)
+Traunsteiner Tagblatt: 2 (0.03222168519413565%)
+www.verlagshaus-jaumann.de: 2 (0.03222168519413565%)
+APOTHEKE ADHOC: 2 (0.03222168519413565%)
+MSN Unterhaltung: 2 (0.03222168519413565%)
+Caschys Blog: 2 (0.03222168519413565%)
+DiePresse.com: 2 (0.03222168519413565%)
+cash.ch: 2 (0.03222168519413565%)
+manager magazin: 2 (0.03222168519413565%)
+SPOX.com: 2 (0.03222168519413565%)
+Liechtensteiner Vaterland: 2 (0.03222168519413565%)
+Österreichische Bauernzeitung: 2 (0.03222168519413565%)
+Tichys Einblick: 2 (0.03222168519413565%)
+Neues Ruhr-Wort: 2 (0.03222168519413565%)
+Deutsches Rotes Kreuz e.V.: 2 (0.03222168519413565%)
+neues deutschland: 2 (0.03222168519413565%)
+Schwarzwälder Bote: 2 (0.03222168519413565%)
+lifepr.de: 2 (0.03222168519413565%)
+5 Minuten: 2 (0.03222168519413565%)
+Volksstimme: 2 (0.03222168519413565%)
+Heilpraxisnet.de: 2 (0.03222168519413565%)
+Haufe - News & Fachwissen: 2 (0.03222168519413565%)
+extratipp.com: 2 (0.03222168519413565%)
+Märkische Allgemeine: 2 (0.03222168519413565%)
+Wolfsburger Allgemeine: 2 (0.03222168519413565%)
+WinFuture: 2 (0.03222168519413565%)
+inside digital: 2 (0.03222168519413565%)
+Netzpiloten: 2 (0.03222168519413565%)
+CHIP Online Deutschland: 2 (0.03222168519413565%)
+it-daily.net: 2 (0.03222168519413565%)
+news.de: 2 (0.03222168519413565%)
+turi2: 2 (0.03222168519413565%)
+TECHBOOK: 2 (0.03222168519413565%)
+Neue Osnabrücker Zeitung: 2 (0.03222168519413565%)
+Radio 91.2: 1 (0.016110842597067826%)
+Aachener Nachrichten: 1 (0.016110842597067826%)
+FITBOOK: 1 (0.016110842597067826%)
+Regenbogen: 1 (0.016110842597067826%)
+Gründerszene: 1 (0.016110842597067826%)
+vorwärts.de: 1 (0.016110842597067826%)
+VOL.AT - Vorarlberg Online: 1 (0.016110842597067826%)
+Dorstener Zeitung: 1 (0.016110842597067826%)
+Ruhr Nachrichten: 1 (0.016110842597067826%)
+Radio Essen: 1 (0.016110842597067826%)
+Bayreuther Tagblatt: 1 (0.016110842597067826%)
+skispringen.com: 1 (0.016110842597067826%)
+DASDING.de: 1 (0.016110842597067826%)
+Radio Lippe: 1 (0.016110842597067826%)
+Märkische Onlinezeitung: 1 (0.016110842597067826%)
+W&V - Werben & Verkaufen: 1 (0.016110842597067826%)
+PC-WELT: 1 (0.016110842597067826%)
+Radio Gütersloh: 1 (0.016110842597067826%)
+Usinger Anzeiger: 1 (0.016110842597067826%)
+Telebasel: 1 (0.016110842597067826%)
+Mannheimer Morgen: 1 (0.016110842597067826%)
+Infosperber: 1 (0.016110842597067826%)
+Das Wochenblatt aus Paraguay: 1 (0.016110842597067826%)
+futurezone.de: 1 (0.016110842597067826%)
+Wiesbadener Kurier: 1 (0.016110842597067826%)
+Mannschaft Magazin: 1 (0.016110842597067826%)
+TrekZone Network: 1 (0.016110842597067826%)
+Yahoo Nachrichten Deutschland: 1 (0.016110842597067826%)
+ZEIT ONLINE English: 1 (0.016110842597067826%)
+DWDL.de: 1 (0.016110842597067826%)
+Mindener Tageblatt: 1 (0.016110842597067826%)
+Ärzte Zeitung: 1 (0.016110842597067826%)
+Motorsport-Total.com: 1 (0.016110842597067826%)
+Formel1.de: 1 (0.016110842597067826%)
+finanzen.at: 1 (0.016110842597067826%)
+play3.de: 1 (0.016110842597067826%)
+elektro.at: 1 (0.016110842597067826%)
+handelszeitung.ch: 1 (0.016110842597067826%)
+Lauterbacher Anzeiger: 1 (0.016110842597067826%)
+wissen.de: 1 (0.016110842597067826%)
+Hitchecker.de: 1 (0.016110842597067826%)
+etailment.de: 1 (0.016110842597067826%)
+Metal Hammer: 1 (0.016110842597067826%)
+20 Minuten: 1 (0.016110842597067826%)
+SALZBURG24: 1 (0.016110842597067826%)
+MANNHEIM24: 1 (0.016110842597067826%)
+TVMovie: 1 (0.016110842597067826%)
+Bote der Urschweiz: 1 (0.016110842597067826%)
+FinanzNachrichten.de: 1 (0.016110842597067826%)
+TRAVEL INSIDE: 1 (0.016110842597067826%)
+HOGAPAGE Nachrichten: 1 (0.016110842597067826%)
+Elektronikpraxis: 1 (0.016110842597067826%)
+bluewin.ch: 1 (0.016110842597067826%)
+datensicherheit.de: 1 (0.016110842597067826%)
+Boersennews.de: 1 (0.016110842597067826%)
+VerkehrsRundschau: 1 (0.016110842597067826%)
+fvw.de: 1 (0.016110842597067826%)
+BTC-ECHO: 1 (0.016110842597067826%)
+L'essentiel Deutsch: 1 (0.016110842597067826%)
+Heidenheimer Zeitung: 1 (0.016110842597067826%)
+Lost in EUrope: 1 (0.016110842597067826%)
+Potsdamer Neueste Nachrichten: 1 (0.016110842597067826%)
+fvw Blog - Touristik für Fortgeschrittene: 1 (0.016110842597067826%)
+GABOT: 1 (0.016110842597067826%)
+Eurotransport: 1 (0.016110842597067826%)
+Inforadio vom rbb: 1 (0.016110842597067826%)
+HASEPOST: 1 (0.016110842597067826%)
+Leonberger Kreiszeitung: 1 (0.016110842597067826%)
+stadtlandzeitung: 1 (0.016110842597067826%)
+finews.ch: 1 (0.016110842597067826%)
+Marbacher Zeitung: 1 (0.016110842597067826%)
+Die bayerische Wirtschaft: 1 (0.016110842597067826%)
+Addendum: 1 (0.016110842597067826%)
+Verbände Forum: 1 (0.016110842597067826%)
+Austrian Aviation Net: 1 (0.016110842597067826%)
+Fuldaer Zeitung: 1 (0.016110842597067826%)
+meinbezirk.at: 1 (0.016110842597067826%)
+hpd.de: 1 (0.016110842597067826%)
+FIFA.com: 1 (0.016110842597067826%)
+Kathpress: 1 (0.016110842597067826%)
+Mühlacker Tagblatt: 1 (0.016110842597067826%)
+unsertirol24: 1 (0.016110842597067826%)
+Krone.at: 1 (0.016110842597067826%)
+sport.de: 1 (0.016110842597067826%)
+Main-Spitze: 1 (0.016110842597067826%)
+LAOLA1.at: 1 (0.016110842597067826%)
+Kreis-Anzeiger: 1 (0.016110842597067826%)
+kicker: 1 (0.016110842597067826%)
+Bieler Tagblatt: 1 (0.016110842597067826%)
+swp.de: 1 (0.016110842597067826%)
+SPORT1: 1 (0.016110842597067826%)
+WP News: 1 (0.016110842597067826%)
+az-online.de: 1 (0.016110842597067826%)
+Kreisbote: 1 (0.016110842597067826%)
+nordbuzz.de: 1 (0.016110842597067826%)
+Göttinger Tageblatt: 1 (0.016110842597067826%)
+Soester Anzeiger: 1 (0.016110842597067826%)
+appgefahren.de: 1 (0.016110842597067826%)
+heise Security: 1 (0.016110842597067826%)
+Notebookcheck: 1 (0.016110842597067826%)
+zm online: 1 (0.016110842597067826%)
+SÃ¼ddeutsche Zeitung: 1 (0.016110842597067826%)
+OnlineMarketing.de: 1 (0.016110842597067826%)
+Android User: 1 (0.016110842597067826%)
+BLICK.CH: 1 (0.016110842597067826%)
+Schaumburger Nachrichten: 1 (0.016110842597067826%)
+Trierischer Volksfreund: 1 (0.016110842597067826%)
+wallstreet-online: 1 (0.016110842597067826%)
+donaukurier.de: 1 (0.016110842597067826%)
+Thüringer Allgemeine: 1 (0.016110842597067826%)
+Radio Dresden: 1 (0.016110842597067826%)
+Gastgewerbe Magazin: 1 (0.016110842597067826%)
+Berlin.de: 1 (0.016110842597067826%)
+msl24.de: 1 (0.016110842597067826%)
+Main-Post: 1 (0.016110842597067826%)
+Express.de: 1 (0.016110842597067826%)
+rosenheim24.de: 1 (0.016110842597067826%)
+focus.de: 1 (0.016110842597067826%)

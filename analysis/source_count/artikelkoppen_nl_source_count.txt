@@ -1,111 +1,111 @@
-AD.nl: 237
-NU.nl: 203
-Telegraaf.nl: 167
-NOS: 153
-RTL Nieuws: 80
-De Stentor: 61
-Parool.nl: 60
-Volkskrant: 50
-Omroep Brabant: 46
-De Gelderlander: 37
-Omroep Gelderland: 34
-BD.nl: 30
-NRC: 26
-Hartvannederland.nl: 25
-Eindhovens Dagblad: 20
-ThePostOnline: 18
-Dagblad van het Noorden: 18
-Trouw: 17
-De Dagelijkse Standaard: 17
-De Limburger: 16
-AT5: 16
-Nieuws en sport uit Limburg: 15
-RTV Noord: 15
-Zeelandnet Nieuws: 14
-Omroep West: 14
-BN DeStem: 14
-Het Laatste Nieuws: 14
-Welingelichte Kringen: 12
-Metronieuws.nl: 11
-RTV Oost: 11
-wnl.tv: 9
-RTV Rijnmond: 9
-Geenstijl.nl: 9
-NH Nieuws: 9
-112 Groningen: 9
-Joop: 8
-RTV Drenthe: 6
-Omroep Zeeland: 6
-Crimesite: 6
-De Morgen: 6
-Politie: 6
-Reformatorisch Dagblad: 6
-NPO Radio 1: 5
-VRT NWS: 5
-De Telegraaf: 4
-BNR Nieuwsradio: 4
-LINDA.: 4
-Tubantia: 4
-De Standaard: 4
-GelreNieuws: 3
-Nederlands Dagblad: 3
-De Kaap: 3
-RTL Boulevard: 3
-WNL: 3
-Noordhollands Dagblad: 3
-Het Financieele Dagblad: 3
-Alphens.nl: 3
-quotenet.nl: 3
-Het Nieuwsblad: 3
-De Utrechtse Internet Courant: 2
-ZwolleNu: 2
-Oog TV: 2
-HVZeeland.nl: 2
-Omroep Flevoland: 2
-DeDrontenaar.nl: 2
-Blauw Bloed: 2
-De Tijd: 2
-Rijksoverheid.nl: 2
-Het Belang van Limburg: 2
-SIRIS.nl: 2
-Leeuwarder Courant: 2
-RTV Utrecht: 1
-Business Insider: 1
-Kijk op Castricum: 1
-RTV Focus Zwolle: 1
-DeStadAmersfoort.nl: 1
-SpanjeVandaag: 1
-InSpanje.nl: 1
-De Groene Amsterdammer: 1
-Breda nieuws: 1
-Gids.tv: 1
-SCEPTR: 1
-Waldnet: 1
-Barneveldse Krant: 1
-Transport Online: 1
-Kinderopvangtotaal: 1
-DeOndernemer.nl: 1
-FOK!: 1
-VTBL: 1
-Panorama: 1
-Opgelicht?!: 1
-112Arnhem: 1
-WOS.nl: 1
-EenVandaag: 1
-indebuurt: 1
-Groninger Internet Courant: 1
-Sittard-Geleen.nieuws.nl: 1
-Elsevier Weekblad: 1
-Historiek.net: 1
-telegraaf.nl: 1
-Amstelveenz.nl: 1
-nos.nl: 1
-Horses: 1
-RTV Purmerend: 1
-DenHaagTV: 1
-Alles over Katwijk: 1
-Metro België: 1
-Unity Nu: 1
-UMC Utrecht: 1
-Gazet van Antwerpen: 1
-BredaVandaag.nl: 1
+AD.nl: 237 (14.225690276110445%)
+NU.nl: 203 (12.184873949579831%)
+Telegraaf.nl: 167 (10.024009603841536%)
+NOS: 153 (9.183673469387756%)
+RTL Nieuws: 80 (4.8019207683073235%)
+De Stentor: 61 (3.6614645858343335%)
+Parool.nl: 60 (3.601440576230492%)
+Volkskrant: 50 (3.0012004801920766%)
+Omroep Brabant: 46 (2.7611044417767108%)
+De Gelderlander: 37 (2.220888355342137%)
+Omroep Gelderland: 34 (2.0408163265306123%)
+BD.nl: 30 (1.800720288115246%)
+NRC: 26 (1.56062424969988%)
+Hartvannederland.nl: 25 (1.5006002400960383%)
+Eindhovens Dagblad: 20 (1.2004801920768309%)
+ThePostOnline: 18 (1.0804321728691477%)
+Dagblad van het Noorden: 18 (1.0804321728691477%)
+Trouw: 17 (1.0204081632653061%)
+De Dagelijkse Standaard: 17 (1.0204081632653061%)
+De Limburger: 16 (0.9603841536614646%)
+AT5: 16 (0.9603841536614646%)
+Nieuws en sport uit Limburg: 15 (0.900360144057623%)
+RTV Noord: 15 (0.900360144057623%)
+Zeelandnet Nieuws: 14 (0.8403361344537815%)
+Omroep West: 14 (0.8403361344537815%)
+BN DeStem: 14 (0.8403361344537815%)
+Het Laatste Nieuws: 14 (0.8403361344537815%)
+Welingelichte Kringen: 12 (0.7202881152460985%)
+Metronieuws.nl: 11 (0.6602641056422569%)
+RTV Oost: 11 (0.6602641056422569%)
+wnl.tv: 9 (0.5402160864345739%)
+RTV Rijnmond: 9 (0.5402160864345739%)
+Geenstijl.nl: 9 (0.5402160864345739%)
+NH Nieuws: 9 (0.5402160864345739%)
+112 Groningen: 9 (0.5402160864345739%)
+Joop: 8 (0.4801920768307323%)
+RTV Drenthe: 6 (0.36014405762304924%)
+Omroep Zeeland: 6 (0.36014405762304924%)
+Crimesite: 6 (0.36014405762304924%)
+De Morgen: 6 (0.36014405762304924%)
+Politie: 6 (0.36014405762304924%)
+Reformatorisch Dagblad: 6 (0.36014405762304924%)
+NPO Radio 1: 5 (0.3001200480192077%)
+VRT NWS: 5 (0.3001200480192077%)
+De Telegraaf: 4 (0.24009603841536614%)
+BNR Nieuwsradio: 4 (0.24009603841536614%)
+LINDA.: 4 (0.24009603841536614%)
+Tubantia: 4 (0.24009603841536614%)
+De Standaard: 4 (0.24009603841536614%)
+GelreNieuws: 3 (0.18007202881152462%)
+Nederlands Dagblad: 3 (0.18007202881152462%)
+De Kaap: 3 (0.18007202881152462%)
+RTL Boulevard: 3 (0.18007202881152462%)
+WNL: 3 (0.18007202881152462%)
+Noordhollands Dagblad: 3 (0.18007202881152462%)
+Het Financieele Dagblad: 3 (0.18007202881152462%)
+Alphens.nl: 3 (0.18007202881152462%)
+quotenet.nl: 3 (0.18007202881152462%)
+Het Nieuwsblad: 3 (0.18007202881152462%)
+De Utrechtse Internet Courant: 2 (0.12004801920768307%)
+ZwolleNu: 2 (0.12004801920768307%)
+Oog TV: 2 (0.12004801920768307%)
+HVZeeland.nl: 2 (0.12004801920768307%)
+Omroep Flevoland: 2 (0.12004801920768307%)
+DeDrontenaar.nl: 2 (0.12004801920768307%)
+Blauw Bloed: 2 (0.12004801920768307%)
+De Tijd: 2 (0.12004801920768307%)
+Rijksoverheid.nl: 2 (0.12004801920768307%)
+Het Belang van Limburg: 2 (0.12004801920768307%)
+SIRIS.nl: 2 (0.12004801920768307%)
+Leeuwarder Courant: 2 (0.12004801920768307%)
+RTV Utrecht: 1 (0.060024009603841535%)
+Business Insider: 1 (0.060024009603841535%)
+Kijk op Castricum: 1 (0.060024009603841535%)
+RTV Focus Zwolle: 1 (0.060024009603841535%)
+DeStadAmersfoort.nl: 1 (0.060024009603841535%)
+SpanjeVandaag: 1 (0.060024009603841535%)
+InSpanje.nl: 1 (0.060024009603841535%)
+De Groene Amsterdammer: 1 (0.060024009603841535%)
+Breda nieuws: 1 (0.060024009603841535%)
+Gids.tv: 1 (0.060024009603841535%)
+SCEPTR: 1 (0.060024009603841535%)
+Waldnet: 1 (0.060024009603841535%)
+Barneveldse Krant: 1 (0.060024009603841535%)
+Transport Online: 1 (0.060024009603841535%)
+Kinderopvangtotaal: 1 (0.060024009603841535%)
+DeOndernemer.nl: 1 (0.060024009603841535%)
+FOK!: 1 (0.060024009603841535%)
+VTBL: 1 (0.060024009603841535%)
+Panorama: 1 (0.060024009603841535%)
+Opgelicht?!: 1 (0.060024009603841535%)
+112Arnhem: 1 (0.060024009603841535%)
+WOS.nl: 1 (0.060024009603841535%)
+EenVandaag: 1 (0.060024009603841535%)
+indebuurt: 1 (0.060024009603841535%)
+Groninger Internet Courant: 1 (0.060024009603841535%)
+Sittard-Geleen.nieuws.nl: 1 (0.060024009603841535%)
+Elsevier Weekblad: 1 (0.060024009603841535%)
+Historiek.net: 1 (0.060024009603841535%)
+telegraaf.nl: 1 (0.060024009603841535%)
+Amstelveenz.nl: 1 (0.060024009603841535%)
+nos.nl: 1 (0.060024009603841535%)
+Horses: 1 (0.060024009603841535%)
+RTV Purmerend: 1 (0.060024009603841535%)
+DenHaagTV: 1 (0.060024009603841535%)
+Alles over Katwijk: 1 (0.060024009603841535%)
+Metro België: 1 (0.060024009603841535%)
+Unity Nu: 1 (0.060024009603841535%)
+UMC Utrecht: 1 (0.060024009603841535%)
+Gazet van Antwerpen: 1 (0.060024009603841535%)
+BredaVandaag.nl: 1 (0.060024009603841535%)

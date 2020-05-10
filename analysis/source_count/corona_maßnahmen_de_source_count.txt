@@ -1,125 +1,125 @@
-merkur.de: 147
-tagesschau.de: 39
-Berliner Morgenpost: 33
-Tagesspiegel: 28
-RP ONLINE: 28
-Merkur.de: 24
-WELT: 23
-Deutschlandfunk: 22
-NDR.de: 22
-rbb|24: 20
-t-online.de: 20
-DER SPIEGEL: 17
-RTL Online: 15
-fr.de: 14
-BNN - Badische Neueste Nachrichten: 13
-BR24: 13
-ZDFheute: 12
-Nordkurier: 12
-Nordbayern.de: 12
-buten un binnen: 12
-idowa: 11
-SWR: 11
-Süddeutsche Zeitung: 11
-ZEIT ONLINE: 11
-RND: 11
-MDR: 9
-General-Anzeiger: 9
-DIE WELT: 8
-FAZ - Frankfurter Allgemeine Zeitung: 8
-Straubinger Tagblatt: 7
-taz.de: 7
-BILD: 7
-Frankfurter Rundschau: 7
-Saarbrücker Zeitung: 6
-tz.de: 5
-Aachener Zeitung: 5
-inFranken.de: 5
-Stuttgarter Zeitung: 5
-Augsburger Allgemeine: 5
-ka-news.de: 5
-Handelsblatt : 5
-STERN.de: 5
-hessenschau.de: 5
-Telepolis: 4
-hna.de: 4
-Westfälischer Anzeiger: 4
-SWP: 4
-n-tv NACHRICHTEN: 4
-Westdeutsche Zeitung: 4
-Berliner Zeitung: 4
-SWR3: 3
-Börse Online: 3
-Handelsblatt: 3
-B.Z. Berlin: 3
-rbb-online.de: 3
-WESER-KURIER: 3
-Kölner Stadt-Anzeiger: 3
-echo24.de: 3
-watson: 2
-Mittelhessen: 2
-muenchen.de - Das offizielle Stadtportal für München: 2
-wa.de: 2
-sol.de: 2
-95.5 Charivari - Münchens Hitradio: 2
-Cicero Online: 2
-Stuttgarter Nachrichten: 2
-Neues Volksblatt: 2
-Lausitzer Rundschau: 2
-Pforzheimer Zeitung: 2
-FIT FOR FUN: 2
-Leipziger Internet-Zeitung: 2
-heidelberg24.de: 2
-njuuz: 2
-HNA.de: 2
-noz.de - Neue Osnabrücker Zeitung: 2
-WEB.DE News: 1
-Westdeutsche Allgemeine Zeitung: 1
-Mitteldeutsche Zeitung: 1
-Radio 91.2: 1
-Aachener Nachrichten: 1
-Oberhessische Zeitung: 1
-FOCUS Online: 1
-inSüdthüringen.de: 1
-Ostsee Zeitung: 1
-Wiener Zeitung: 1
-FITBOOK: 1
-owl24.de: 1
-Vatican News: 1
-Regenbogen: 1
-Allgemeine Zeitung: 1
-Gründerszene: 1
- Cash: 1
-vorwärts.de: 1
-Braunschweiger Zeitung: 1
-Frankenpost: 1
-VOL.AT - Vorarlberg Online: 1
-onvista: 1
-Dorstener Zeitung: 1
-World Socialist Web Site: 1
-TAG24: 1
-Ruhr Nachrichten: 1
-Radio Essen: 1
-kreiszeitung.de: 1
-Bayreuther Tagblatt: 1
-skispringen.com: 1
-hamburg.de: 1
-Viechtacher Anzeiger: 1
-KURIER: 1
-DASDING.de: 1
-Radio Lippe: 1
-SÜDKURIER Online: 1
-EURACTIV Germany: 1
-Passauer Neue Presse: 1
-NRZ: 1
-Pharmazeutische Zeitung online: 1
-inSüdthüringen: 1
-Antenne Bayern: 1
-hallo-muenchen.de: 1
-Hamburger Morgenpost: 1
-Frankfurter Neue Presse: 1
-Badische Zeitung: 1
-Märkische Onlinezeitung: 1
-Sächsische Zeitung: 1
-svz.de: 1
-Leipziger Volkszeitung: 1
+merkur.de: 147 (17.647058823529413%)
+tagesschau.de: 39 (4.68187274909964%)
+Berliner Morgenpost: 33 (3.961584633853541%)
+Tagesspiegel: 28 (3.361344537815126%)
+RP ONLINE: 28 (3.361344537815126%)
+Merkur.de: 24 (2.881152460984394%)
+WELT: 23 (2.7611044417767108%)
+Deutschlandfunk: 22 (2.6410564225690276%)
+NDR.de: 22 (2.6410564225690276%)
+rbb|24: 20 (2.4009603841536618%)
+t-online.de: 20 (2.4009603841536618%)
+DER SPIEGEL: 17 (2.0408163265306123%)
+RTL Online: 15 (1.800720288115246%)
+fr.de: 14 (1.680672268907563%)
+BNN - Badische Neueste Nachrichten: 13 (1.56062424969988%)
+BR24: 13 (1.56062424969988%)
+ZDFheute: 12 (1.440576230492197%)
+Nordkurier: 12 (1.440576230492197%)
+Nordbayern.de: 12 (1.440576230492197%)
+buten un binnen: 12 (1.440576230492197%)
+idowa: 11 (1.3205282112845138%)
+SWR: 11 (1.3205282112845138%)
+Süddeutsche Zeitung: 11 (1.3205282112845138%)
+ZEIT ONLINE: 11 (1.3205282112845138%)
+RND: 11 (1.3205282112845138%)
+MDR: 9 (1.0804321728691477%)
+General-Anzeiger: 9 (1.0804321728691477%)
+DIE WELT: 8 (0.9603841536614646%)
+FAZ - Frankfurter Allgemeine Zeitung: 8 (0.9603841536614646%)
+Straubinger Tagblatt: 7 (0.8403361344537815%)
+taz.de: 7 (0.8403361344537815%)
+BILD: 7 (0.8403361344537815%)
+Frankfurter Rundschau: 7 (0.8403361344537815%)
+Saarbrücker Zeitung: 6 (0.7202881152460985%)
+tz.de: 5 (0.6002400960384154%)
+Aachener Zeitung: 5 (0.6002400960384154%)
+inFranken.de: 5 (0.6002400960384154%)
+Stuttgarter Zeitung: 5 (0.6002400960384154%)
+Augsburger Allgemeine: 5 (0.6002400960384154%)
+ka-news.de: 5 (0.6002400960384154%)
+Handelsblatt : 5 (0.6002400960384154%)
+STERN.de: 5 (0.6002400960384154%)
+hessenschau.de: 5 (0.6002400960384154%)
+Telepolis: 4 (0.4801920768307323%)
+hna.de: 4 (0.4801920768307323%)
+Westfälischer Anzeiger: 4 (0.4801920768307323%)
+SWP: 4 (0.4801920768307323%)
+n-tv NACHRICHTEN: 4 (0.4801920768307323%)
+Westdeutsche Zeitung: 4 (0.4801920768307323%)
+Berliner Zeitung: 4 (0.4801920768307323%)
+SWR3: 3 (0.36014405762304924%)
+Börse Online: 3 (0.36014405762304924%)
+Handelsblatt: 3 (0.36014405762304924%)
+B.Z. Berlin: 3 (0.36014405762304924%)
+rbb-online.de: 3 (0.36014405762304924%)
+WESER-KURIER: 3 (0.36014405762304924%)
+Kölner Stadt-Anzeiger: 3 (0.36014405762304924%)
+echo24.de: 3 (0.36014405762304924%)
+watson: 2 (0.24009603841536614%)
+Mittelhessen: 2 (0.24009603841536614%)
+muenchen.de - Das offizielle Stadtportal für München: 2 (0.24009603841536614%)
+wa.de: 2 (0.24009603841536614%)
+sol.de: 2 (0.24009603841536614%)
+95.5 Charivari - Münchens Hitradio: 2 (0.24009603841536614%)
+Cicero Online: 2 (0.24009603841536614%)
+Stuttgarter Nachrichten: 2 (0.24009603841536614%)
+Neues Volksblatt: 2 (0.24009603841536614%)
+Lausitzer Rundschau: 2 (0.24009603841536614%)
+Pforzheimer Zeitung: 2 (0.24009603841536614%)
+FIT FOR FUN: 2 (0.24009603841536614%)
+Leipziger Internet-Zeitung: 2 (0.24009603841536614%)
+heidelberg24.de: 2 (0.24009603841536614%)
+njuuz: 2 (0.24009603841536614%)
+HNA.de: 2 (0.24009603841536614%)
+noz.de - Neue Osnabrücker Zeitung: 2 (0.24009603841536614%)
+WEB.DE News: 1 (0.12004801920768307%)
+Westdeutsche Allgemeine Zeitung: 1 (0.12004801920768307%)
+Mitteldeutsche Zeitung: 1 (0.12004801920768307%)
+Radio 91.2: 1 (0.12004801920768307%)
+Aachener Nachrichten: 1 (0.12004801920768307%)
+Oberhessische Zeitung: 1 (0.12004801920768307%)
+FOCUS Online: 1 (0.12004801920768307%)
+inSüdthüringen.de: 1 (0.12004801920768307%)
+Ostsee Zeitung: 1 (0.12004801920768307%)
+Wiener Zeitung: 1 (0.12004801920768307%)
+FITBOOK: 1 (0.12004801920768307%)
+owl24.de: 1 (0.12004801920768307%)
+Vatican News: 1 (0.12004801920768307%)
+Regenbogen: 1 (0.12004801920768307%)
+Allgemeine Zeitung: 1 (0.12004801920768307%)
+Gründerszene: 1 (0.12004801920768307%)
+ Cash: 1 (0.12004801920768307%)
+vorwärts.de: 1 (0.12004801920768307%)
+Braunschweiger Zeitung: 1 (0.12004801920768307%)
+Frankenpost: 1 (0.12004801920768307%)
+VOL.AT - Vorarlberg Online: 1 (0.12004801920768307%)
+onvista: 1 (0.12004801920768307%)
+Dorstener Zeitung: 1 (0.12004801920768307%)
+World Socialist Web Site: 1 (0.12004801920768307%)
+TAG24: 1 (0.12004801920768307%)
+Ruhr Nachrichten: 1 (0.12004801920768307%)
+Radio Essen: 1 (0.12004801920768307%)
+kreiszeitung.de: 1 (0.12004801920768307%)
+Bayreuther Tagblatt: 1 (0.12004801920768307%)
+skispringen.com: 1 (0.12004801920768307%)
+hamburg.de: 1 (0.12004801920768307%)
+Viechtacher Anzeiger: 1 (0.12004801920768307%)
+KURIER: 1 (0.12004801920768307%)
+DASDING.de: 1 (0.12004801920768307%)
+Radio Lippe: 1 (0.12004801920768307%)
+SÜDKURIER Online: 1 (0.12004801920768307%)
+EURACTIV Germany: 1 (0.12004801920768307%)
+Passauer Neue Presse: 1 (0.12004801920768307%)
+NRZ: 1 (0.12004801920768307%)
+Pharmazeutische Zeitung online: 1 (0.12004801920768307%)
+inSüdthüringen: 1 (0.12004801920768307%)
+Antenne Bayern: 1 (0.12004801920768307%)
+hallo-muenchen.de: 1 (0.12004801920768307%)
+Hamburger Morgenpost: 1 (0.12004801920768307%)
+Frankfurter Neue Presse: 1 (0.12004801920768307%)
+Badische Zeitung: 1 (0.12004801920768307%)
+Märkische Onlinezeitung: 1 (0.12004801920768307%)
+Sächsische Zeitung: 1 (0.12004801920768307%)
+svz.de: 1 (0.12004801920768307%)
+Leipziger Volkszeitung: 1 (0.12004801920768307%)

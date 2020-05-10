@@ -1,32 +1,32 @@
-AD.nl: 30
-VRT NWS: 19
-De Standaard: 12
-Volkskrant: 11
-Het Nieuwsblad: 11
-De Tijd: 10
-Trouw: 9
-Het Laatste Nieuws: 8
-RTL Nieuws: 7
-Telegraaf.nl: 7
-NRC: 7
-NU.nl: 6
-Business Insider: 4
-Joop: 3
-Gazet van Antwerpen: 3
-Nederlands Dagblad: 3
-Gids.tv: 3
-Bladna.nl: 2
-Welingelichte Kringen: 2
-De Dagelijkse Standaard: 2
-Want: 2
-Autoblog.nl: 2
-RTL Boulevard: 2
-FilmTotaal: 1
-NOS: 1
-BNR Nieuwsradio: 1
-Vertigo: 1
-HP/De Tijd: 1
-Knack.be: 1
-Parool.nl: 1
-Newsbit.nl: 1
-De Morgen: 1
+AD.nl: 30 (17.045454545454543%)
+VRT NWS: 19 (10.795454545454545%)
+De Standaard: 12 (6.8181818181818175%)
+Volkskrant: 11 (6.25%)
+Het Nieuwsblad: 11 (6.25%)
+De Tijd: 10 (5.681818181818182%)
+Trouw: 9 (5.113636363636364%)
+Het Laatste Nieuws: 8 (4.545454545454546%)
+RTL Nieuws: 7 (3.977272727272727%)
+Telegraaf.nl: 7 (3.977272727272727%)
+NRC: 7 (3.977272727272727%)
+NU.nl: 6 (3.4090909090909087%)
+Business Insider: 4 (2.272727272727273%)
+Joop: 3 (1.7045454545454544%)
+Gazet van Antwerpen: 3 (1.7045454545454544%)
+Nederlands Dagblad: 3 (1.7045454545454544%)
+Gids.tv: 3 (1.7045454545454544%)
+Bladna.nl: 2 (1.1363636363636365%)
+Welingelichte Kringen: 2 (1.1363636363636365%)
+De Dagelijkse Standaard: 2 (1.1363636363636365%)
+Want: 2 (1.1363636363636365%)
+Autoblog.nl: 2 (1.1363636363636365%)
+RTL Boulevard: 2 (1.1363636363636365%)
+FilmTotaal: 1 (0.5681818181818182%)
+NOS: 1 (0.5681818181818182%)
+BNR Nieuwsradio: 1 (0.5681818181818182%)
+Vertigo: 1 (0.5681818181818182%)
+HP/De Tijd: 1 (0.5681818181818182%)
+Knack.be: 1 (0.5681818181818182%)
+Parool.nl: 1 (0.5681818181818182%)
+Newsbit.nl: 1 (0.5681818181818182%)
+De Morgen: 1 (0.5681818181818182%)

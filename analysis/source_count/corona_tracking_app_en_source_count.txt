@@ -1,93 +1,93 @@
-BBC News: 69
-The Guardian: 42
-Daily Mail: 11
-9News: 9
-The Washington Post: 9
-ABC News: 9
-The New York Times: 9
-The Sun: 8
-CNN: 7
-BBC South East Wales: 7
-The Times: 5
-Mirror Online: 5
-Global News: 5
-Sky News: 4
-The Verge: 4
-The Next Web: 4
-CNET: 4
-Metro.co.uk: 4
-Inkstone: 4
-7NEWS.com.au: 3
-CNBC: 3
-Wired.co.uk: 3
-Reuters: 3
-The Wall Street Journal: 3
-The Indian Express: 3
-NBC News: 2
-ComputerWeekly.com: 2
-The West Australian: 2
-DW (English): 2
-Financial Times: 2
-The Independent: 2
-MacRumors: 2
-SBS News: 2
-NL Times: 2
-Isle of Wight County Press: 2
-MIT Technology Review: 2
-The Straits Times: 1
-The Australian: 1
-Forbes: 1
-VentureBeat: 1
-The Conversation UK: 1
-ZDNet: 1
-The Local Switzerland: 1
-inews: 1
-Cyprus Mail: 1
-Mashable: 1
-The New Daily: 1
-Express.co.uk: 1
-The Sydney Morning Herald: 1
-Brisbane Times: 1
-IT PRO: 1
-Mactrast: 1
-The Register: 1
-Bloomberg: 1
-The Star Online: 1
-Xinhua: 1
-Scientific American: 1
-10 daily: 1
-USA TODAY: 1
-Business Insider India: 1
-The Canary: 1
-Haaretz: 1
-The Local Sweden: 1
-The Brussels Times: 1
-SmartCompany.com.au: 1
-Euronews: 1
-Aljazeera.com: 1
-On The Wight: 1
-Sydney Morning Herald: 1
-Northamptonshire Telegraph: 1
-Northampton Chronicle and Echo: 1
-Business Insider: 1
-Democracy Now!: 1
-Evening Standard: 1
-GOV.UK: 1
-News Mail: 1
-Body and Soul: 1
-The Japan Times: 1
-The Local France: 1
-MorningAdvertiser.co.uk: 1
-NBCNews.com: 1
-Washington Post: 1
-Christian Science Monitor: 1
-SmartBrief: 1
-Economic Times: 1
-AppleInsider: 1
-CBC.ca: 1
-Gizmodo Australia: 1
-Benzinga: 1
-Law.com: 1
-Eurasianet: 1
-The New European: 1
-NPR: 1
+BBC News: 69 (21.69811320754717%)
+The Guardian: 42 (13.20754716981132%)
+Daily Mail: 11 (3.459119496855346%)
+9News: 9 (2.8301886792452833%)
+The Washington Post: 9 (2.8301886792452833%)
+ABC News: 9 (2.8301886792452833%)
+The New York Times: 9 (2.8301886792452833%)
+The Sun: 8 (2.515723270440252%)
+CNN: 7 (2.20125786163522%)
+BBC South East Wales: 7 (2.20125786163522%)
+The Times: 5 (1.5723270440251573%)
+Mirror Online: 5 (1.5723270440251573%)
+Global News: 5 (1.5723270440251573%)
+Sky News: 4 (1.257861635220126%)
+The Verge: 4 (1.257861635220126%)
+The Next Web: 4 (1.257861635220126%)
+CNET: 4 (1.257861635220126%)
+Metro.co.uk: 4 (1.257861635220126%)
+Inkstone: 4 (1.257861635220126%)
+7NEWS.com.au: 3 (0.9433962264150944%)
+CNBC: 3 (0.9433962264150944%)
+Wired.co.uk: 3 (0.9433962264150944%)
+Reuters: 3 (0.9433962264150944%)
+The Wall Street Journal: 3 (0.9433962264150944%)
+The Indian Express: 3 (0.9433962264150944%)
+NBC News: 2 (0.628930817610063%)
+ComputerWeekly.com: 2 (0.628930817610063%)
+The West Australian: 2 (0.628930817610063%)
+DW (English): 2 (0.628930817610063%)
+Financial Times: 2 (0.628930817610063%)
+The Independent: 2 (0.628930817610063%)
+MacRumors: 2 (0.628930817610063%)
+SBS News: 2 (0.628930817610063%)
+NL Times: 2 (0.628930817610063%)
+Isle of Wight County Press: 2 (0.628930817610063%)
+MIT Technology Review: 2 (0.628930817610063%)
+The Straits Times: 1 (0.3144654088050315%)
+The Australian: 1 (0.3144654088050315%)
+Forbes: 1 (0.3144654088050315%)
+VentureBeat: 1 (0.3144654088050315%)
+The Conversation UK: 1 (0.3144654088050315%)
+ZDNet: 1 (0.3144654088050315%)
+The Local Switzerland: 1 (0.3144654088050315%)
+inews: 1 (0.3144654088050315%)
+Cyprus Mail: 1 (0.3144654088050315%)
+Mashable: 1 (0.3144654088050315%)
+The New Daily: 1 (0.3144654088050315%)
+Express.co.uk: 1 (0.3144654088050315%)
+The Sydney Morning Herald: 1 (0.3144654088050315%)
+Brisbane Times: 1 (0.3144654088050315%)
+IT PRO: 1 (0.3144654088050315%)
+Mactrast: 1 (0.3144654088050315%)
+The Register: 1 (0.3144654088050315%)
+Bloomberg: 1 (0.3144654088050315%)
+The Star Online: 1 (0.3144654088050315%)
+Xinhua: 1 (0.3144654088050315%)
+Scientific American: 1 (0.3144654088050315%)
+10 daily: 1 (0.3144654088050315%)
+USA TODAY: 1 (0.3144654088050315%)
+Business Insider India: 1 (0.3144654088050315%)
+The Canary: 1 (0.3144654088050315%)
+Haaretz: 1 (0.3144654088050315%)
+The Local Sweden: 1 (0.3144654088050315%)
+The Brussels Times: 1 (0.3144654088050315%)
+SmartCompany.com.au: 1 (0.3144654088050315%)
+Euronews: 1 (0.3144654088050315%)
+Aljazeera.com: 1 (0.3144654088050315%)
+On The Wight: 1 (0.3144654088050315%)
+Sydney Morning Herald: 1 (0.3144654088050315%)
+Northamptonshire Telegraph: 1 (0.3144654088050315%)
+Northampton Chronicle and Echo: 1 (0.3144654088050315%)
+Business Insider: 1 (0.3144654088050315%)
+Democracy Now!: 1 (0.3144654088050315%)
+Evening Standard: 1 (0.3144654088050315%)
+GOV.UK: 1 (0.3144654088050315%)
+News Mail: 1 (0.3144654088050315%)
+Body and Soul: 1 (0.3144654088050315%)
+The Japan Times: 1 (0.3144654088050315%)
+The Local France: 1 (0.3144654088050315%)
+MorningAdvertiser.co.uk: 1 (0.3144654088050315%)
+NBCNews.com: 1 (0.3144654088050315%)
+Washington Post: 1 (0.3144654088050315%)
+Christian Science Monitor: 1 (0.3144654088050315%)
+SmartBrief: 1 (0.3144654088050315%)
+Economic Times: 1 (0.3144654088050315%)
+AppleInsider: 1 (0.3144654088050315%)
+CBC.ca: 1 (0.3144654088050315%)
+Gizmodo Australia: 1 (0.3144654088050315%)
+Benzinga: 1 (0.3144654088050315%)
+Law.com: 1 (0.3144654088050315%)
+Eurasianet: 1 (0.3144654088050315%)
+The New European: 1 (0.3144654088050315%)
+NPR: 1 (0.3144654088050315%)

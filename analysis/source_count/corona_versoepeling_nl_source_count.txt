@@ -1,64 +1,64 @@
-NOS: 34
-RTL Nieuws: 29
-AD.nl: 18
-NU.nl: 14
-Hartvannederland.nl: 10
-Telegraaf.nl: 10
-Volkskrant: 7
-Parool.nl: 6
-NRC: 6
-Omroep Brabant: 6
-Trouw: 5
-Rijksoverheid.nl: 5
-Leeuwarder Courant: 4
-NH Nieuws: 4
-DeOndernemer.nl: 4
-BD.nl: 3
-Accountancy Vanmorgen: 3
-RTV Utrecht: 3
-Binnenlandsbestuur: 3
-De Gelderlander: 2
-Boerderij: 2
-CMweb - Controllers Magazine: 2
-TaxLive: 2
-Nieuws.nl: 2
-Omroep Zeeland: 2
-VRT NWS: 2
-De Stentor: 2
-EenVandaag: 2
-Dagblad van het Noorden: 2
-Transport Online: 1
-Vastgoedmarkt: 1
-LINDA.: 1
-DIA-Duitslandweb: 1
-RTV Rijnmond: 1
-Nieuws en sport uit Limburg: 1
-De Standaard: 1
-FOK!: 1
-| SpanjeVandaag: 1
-SpanjeVandaag: 1
-Computable: 1
-De Tijd: 1
-Omroep Flevoland: 1
-Eindhovens Dagblad: 1
-Het Laatste Nieuws: 1
-RTV Focus Zwolle: 1
-De Morgen: 1
-BN DeStem: 1
-Elsevier Weekblad: 1
-ThePostOnline: 1
-RTV Noord: 1
-Omroep West: 1
-Het Financieele Dagblad: 1
-NPO Radio 1: 1
-Gids.tv: 1
-RTV Oost: 1
-Amstelveenz.nl: 1
-Executive Finance: 1
-Service Management: 1
-TaxiPro.nl: 1
-OVPro.nl: 1
-oosterhout.nieuws.nl: 1
-TV Valkenburg: 1
-RTV Drenthe: 1
-Alkmaar Centraal: 1
+NOS: 34 (14.71861471861472%)
+RTL Nieuws: 29 (12.554112554112553%)
+AD.nl: 18 (7.792207792207792%)
+NU.nl: 14 (6.0606060606060606%)
+Hartvannederland.nl: 10 (4.329004329004329%)
+Telegraaf.nl: 10 (4.329004329004329%)
+Volkskrant: 7 (3.0303030303030303%)
+Parool.nl: 6 (2.5974025974025974%)
+NRC: 6 (2.5974025974025974%)
+Omroep Brabant: 6 (2.5974025974025974%)
+Trouw: 5 (2.1645021645021645%)
+Rijksoverheid.nl: 5 (2.1645021645021645%)
+Leeuwarder Courant: 4 (1.7316017316017316%)
+NH Nieuws: 4 (1.7316017316017316%)
+DeOndernemer.nl: 4 (1.7316017316017316%)
+BD.nl: 3 (1.2987012987012987%)
+Accountancy Vanmorgen: 3 (1.2987012987012987%)
+RTV Utrecht: 3 (1.2987012987012987%)
+Binnenlandsbestuur: 3 (1.2987012987012987%)
+De Gelderlander: 2 (0.8658008658008658%)
+Boerderij: 2 (0.8658008658008658%)
+CMweb - Controllers Magazine: 2 (0.8658008658008658%)
+TaxLive: 2 (0.8658008658008658%)
+Nieuws.nl: 2 (0.8658008658008658%)
+Omroep Zeeland: 2 (0.8658008658008658%)
+VRT NWS: 2 (0.8658008658008658%)
+De Stentor: 2 (0.8658008658008658%)
+EenVandaag: 2 (0.8658008658008658%)
+Dagblad van het Noorden: 2 (0.8658008658008658%)
+Transport Online: 1 (0.4329004329004329%)
+Vastgoedmarkt: 1 (0.4329004329004329%)
+LINDA.: 1 (0.4329004329004329%)
+DIA-Duitslandweb: 1 (0.4329004329004329%)
+RTV Rijnmond: 1 (0.4329004329004329%)
+Nieuws en sport uit Limburg: 1 (0.4329004329004329%)
+De Standaard: 1 (0.4329004329004329%)
+FOK!: 1 (0.4329004329004329%)
+| SpanjeVandaag: 1 (0.4329004329004329%)
+SpanjeVandaag: 1 (0.4329004329004329%)
+Computable: 1 (0.4329004329004329%)
+De Tijd: 1 (0.4329004329004329%)
+Omroep Flevoland: 1 (0.4329004329004329%)
+Eindhovens Dagblad: 1 (0.4329004329004329%)
+Het Laatste Nieuws: 1 (0.4329004329004329%)
+RTV Focus Zwolle: 1 (0.4329004329004329%)
+De Morgen: 1 (0.4329004329004329%)
+BN DeStem: 1 (0.4329004329004329%)
+Elsevier Weekblad: 1 (0.4329004329004329%)
+ThePostOnline: 1 (0.4329004329004329%)
+RTV Noord: 1 (0.4329004329004329%)
+Omroep West: 1 (0.4329004329004329%)
+Het Financieele Dagblad: 1 (0.4329004329004329%)
+NPO Radio 1: 1 (0.4329004329004329%)
+Gids.tv: 1 (0.4329004329004329%)
+RTV Oost: 1 (0.4329004329004329%)
+Amstelveenz.nl: 1 (0.4329004329004329%)
+Executive Finance: 1 (0.4329004329004329%)
+Service Management: 1 (0.4329004329004329%)
+TaxiPro.nl: 1 (0.4329004329004329%)
+OVPro.nl: 1 (0.4329004329004329%)
+oosterhout.nieuws.nl: 1 (0.4329004329004329%)
+TV Valkenburg: 1 (0.4329004329004329%)
+RTV Drenthe: 1 (0.4329004329004329%)
+Alkmaar Centraal: 1 (0.4329004329004329%)

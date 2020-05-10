@@ -1,606 +1,606 @@
-The Guardian: 632
-BBC News: 618
-Daily Mail: 345
-Financial Times: 310
-CNN: 268
-The Sun: 196
-The New York Times: 182
-Sky News: 179
-Mirror Online: 168
-Metro.co.uk: 145
-Telegraph.co.uk: 132
-The Independent: 105
-Express.co.uk: 103
-Express: 94
-CNBC: 93
-ABC News: 89
-Al Jazeera English: 78
-Bloomberg: 78
-BBC South East Wales: 77
-ITV News: 71
-Reuters: 70
-Evening Standard: 64
-The Telegraph: 62
-The Washington Post: 60
-EU News: 58
-BBC Sport: 51
-POLITICO: 48
-Business Today: 46
-DW (English): 40
-Reuters UK: 40
-The Times: 39
-Manchester Evening News: 38
-Euronews: 31
-Fox News: 29
-Anadolu Agency: 29
-EURACTIV: 27
-USA TODAY: 27
-Forbes: 26
-Guardian News: 26
-expressandstar.com: 25
-NPR: 25
-The Atlantic: 25
-The Loppy: 23
-Wales Online: 22
-Times of India: 22
-The Irish Times: 22
-Business Insider: 22
-EUobserver: 21
-Deadline: 20
-The Local Germany: 19
-World Health Organization: 19
-CNN International: 18
-NBC News: 17
-Daily Record: 17
-NBCNews.com: 16
-The Hindu: 16
-The Indian Express: 16
-The Local Italy: 16
-India Today: 16
-The Wall Street Journal: 15
-CNA: 15
-RTE.ie: 14
-Liverpool Echo: 13
-New York Post : 13
-MarketWatch: 13
-9News: 13
-inews: 13
-The Hill: 12
-The Straits Times: 12
-Jakarta Post: 11
-Vox.com: 11
-The Brussels Times: 11
-NewsClicks: 11
-Aljazeera.com: 11
-Vanity Fair: 11
-The Scotsman: 11
-India Gone Viral: 10
-The New Yorker: 10
-The New European: 10
-Global News: 10
-The Economist: 10
-Economic Times: 10
-World Economic Forum: 9
-VOA News: 9
-Los Angeles Times: 8
-News Info Park: 8
-Hindustan Times: 8
-Xinhua: 8
-TRT World: 8
-The Berlin Spectator: 7
-The Verge: 7
-The Star Online: 7
-Washington Post: 7
-CBC.ca: 7
-Sky Sports: 7
-Deccan Herald: 7
-The Associated Press: 7
-SBS News: 7
-BBC: 7
-GOV.UK: 6
-The Conversation UK: 6
-PoliticsHome.com: 6
-Livemint: 6
-Whitehouse.gov: 6
-TIME: 6
-Politico: 6
-Newsweek: 6
-WKMG News 6 & ClickOrlando: 6
-SchengenVisaInfo.com: 6
-EU Reporter: 6
-FRANCE 24 English: 6
-7NEWS.com.au: 5
-U.S. News & World Report: 5
-The Japan Times: 5
-Belfast Telegraph: 5
-Anadolu Ajansı: 5
-Edinburgh News: 5
-Smash Newz: 5
-European Western Balkans: 5
-The Parliament Magazine: 5
-dineshr: 5
-The Statesman: 5
-KGO-TV: 5
-The Next Web: 5
-CNET: 5
-WalesOnline: 5
-The Local Sweden: 4
-The Nation: 4
-Wired.co.uk: 4
-Gulf News: 4
-Bradford Telegraph and Argus: 4
-LeaderLive: 4
-The Register: 4
-Chronicle Live: 4
-HuffPost UK: 4
-shropshirestar.com: 4
-The Globe and Mail: 4
-NJ.com: 4
-National Review: 4
-Formula 1: 4
-The Age: 4
-Leicestershire Live: 4
-ThePrint: 4
-CNBCTV18: 4
-South China Morning Post: 4
-HuffPost: 4
-Sydney Morning Herald: 4
-Financial Post: 4
-CGTN: 4
-Chicago Sun-Times: 4
-The-Latest News: 4
-DefenseNews.com: 4
-FRANCE 24: 4
-RFI: 4
-Business Standard: 4
-The Philadelphia Inquirer: 4
-NBC10 Boston: 4
-Inkstone: 4
-ABP Live: 4
-Mirror.co.uk: 4
-Devon Live: 4
-AS.com Móvil: 3
-The News International: 3
-The Scottish Sun: 3
-World Socialist Web Site: 3
-talkSPORT.com: 3
-MyLondon: 3
-Cycling Weekly: 3
-中国日报: 3
-Plymouth Live: 3
-TheChronicleHerald.ca: 3
-The Mercury News: 3
-CTV News: 3
-CIDRAP: 3
-National Post: 3
-The Canberra Times: 3
-Manchester City FC: 3
-Derbyshire Live: 3
-Cheshire Live: 3
-Republic World: 3
-Cyprus Mail: 3
-Yahoo Finance: 3
-Daily Sabah: 3
-NDTV: 3
-The Boston Globe: 3
-Salt Lake Tribune: 3
-Axios: 3
-edie.net: 3
-Carnegie Europe: 3
-Mondaq News Alerts: 3
-Reuters India: 3
-INSIDER: 3
-The Daily Beast: 3
-KIRO Seattle: 3
-The Newsopedia: 3
-Euro Weekly News: 3
-Outlook India: 3
-HeraldScotland: 3
-WLS-TV: 3
-Austin American-Statesman: 3
-nbcboston.com: 3
-NBC Chicago: 3
-Press-Enterprise: 3
-WBUR: 3
-Las Cruces Sun-News: 3
-NL Times: 3
-Imperial College London: 2
-Science Magazine: 2
-Eindhoven News: 2
-CBBC Newsround: 2
-Morning Star Online: 2
-CALmatters: 2
-WKRG News 5: 2
-Warrington Guardian: 2
-St Helens Star: 2
-The Northern Echo: 2
-Voice of America: 2
-Eastern Daily Press: 2
-Common Dreams: 2
-News Shopper: 2
-BT Sport: 2
-Foreign Policy: 2
-Human Rights Watch: 2
-Formula 1 RSS UK: 2
-City A.M.: 2
-Bury Times: 2
-Focus Taiwan News Channel: 2
-Daily Echo: 2
-www.ekathimerini.com: 2
-Full Fact: 2
-cgtn.com: 2
-NW Evening Mail: 2
-India TV News: 2
-Nottinghamshire Live: 2
-Quartz: 2
-The Australian: 2
-AZCentral: 2
-MassLive.com: 2
-Mother Jones: 2
-BuzzFeed News: 2
-Democracy Now!: 2
-Todaynewspaper: 2
-New Zealand Herald: 2
-The New Indian Express: 2
-AS South Africa: 2
-New York Magazine: 2
-Haaretz: 2
-The Dallas Morning News: 2
-Slate: 2
-Des Moines Register: 2
-Yahoo Sports: 2
-IPS Journal: 2
-ShareCast: 2
-New Statesman: 2
-Automotive News Europe: 2
-JURIST: 2
-Science Business: 2
-Emerging Europe: 2
-Deutsche Welle: 2
-ING Think: 2
-Fitch Ratings: 2
-Yahoo Finance UK: 2
-WHTC News: 2
-European Council on Foreign Relations: 2
-EUROPP - European Politics and Policy: 2
-InfoMigrants: 2
-Medical Xpress: 2
-Vatican News: 2
-Agenzia ANSA: 2
-artnet News: 2
-Spectator.co.uk: 2
-Livewire Markets: 2
-nejm.org: 2
-Minneapolis Star Tribune: 2
-CMC Markets: 2
-Mumbai Mirror: 2
-VentureBeat: 2
-Variety: 2
-Colorado Public Radio: 2
-Courier Journal: 2
-CBS Pittsburgh: 2
-KOMO News: 2
-ComputerWeekly.com: 2
-The Local Switzerland: 2
-The West Australian: 2
-MacRumors: 2
-Isle of Wight County Press: 2
-MIT Technology Review: 2
-Daijiworld.com: 2
-Jagran English: 2
-News18: 2
-Newsjok: 2
-citytoday: 2
-Essex Live: 2
-NDTV News: 2
-Daily Star: 2
-Chard & Ilminster News: 2
-Cornwall Live: 2
-NEWS.com.au: 2
-Birmingham Live: 2
-The Slovak Spectator: 1
-Daily Monitor: 1
-Hurriyet Daily News: 1
-Scottish Government News: 1
-Coventry Observer: 1
-theloadstar.com: 1
-Dublin Live: 1
-Retail Detail Europe: 1
-THE CITY: 1
-ReliefWeb: 1
-NewsEverything: 1
-Africanews English: 1
-Kent Online: 1
-East Anglian Daily Times: 1
-Cambridge News: 1
-Seattle Times: 1
-Spiked: 1
-syracuse.com: 1
-Tufts Daily: 1
-Exit - Explain Albania: 1
-FierceBiotech: 1
-RadioTimes: 1
-Hereford Times: 1
-Federal News Network: 1
-Science News: 1
-News & Star: 1
-Wigan Today: 1
-Gazette: 1
-Heart: 1
-Civil Service World: 1
-Medical News Today: 1
-Lawfare: 1
-Oxford Mail: 1
-TechCrunch: 1
-KBTX: 1
-straits times: 1
-The Moscow Times: 1
-WGME: 1
-WILX-TV: 1
-New Scientist: 1
-AFP Factcheck: 1
-Greeley Tribune: 1
-Lancashire Telegraph: 1
-New Scientist News: 1
-EWN: 1
-Press Herald: 1
-Livescience.com: 1
-The Argus: 1
-NBC 5 Dallas-Fort Worth: 1
-WRTV Indianapolis: 1
-Herald-Mail Media: 1
-WKBW-TV: 1
-UN News: 1
-Evening Telegraph: 1
-Echo: 1
-TheBlaze: 1
-Khaleej Times: 1
-Romford Recorder: 1
-Edmonton Journal: 1
-Nursing Times: 1
-LancsLive: 1
-South Wales Argus: 1
-The Logical Indian: 1
-Great Yarmouth Mercury: 1
-Scroll.in: 1
-The Courier: 1
-Aberdeen Evening Express: 1
-ActionNewsJax.com: 1
-AirQualityNews: 1
-Dunfermline Press: 1
-The Wiltshire Gazette and Herald: 1
-Skift: 1
-Your Local Guardian: 1
-Milton Keynes Citizen: 1
-Nikkei Asian Review: 1
-Hong Kong Free Press: 1
-BloombergQuint: 1
-ScienceAlert: 1
-Southwark News: 1
-Lincolnshire Reporter: 1
-Science Daily: 1
-Wiltshire Times: 1
-The Africa Report: 1
-University of Stirling: 1
-wgbh.org: 1
-National Geographic UK: 1
-Trends Wide: 1
-Tampa Bay Times: 1
-Borehamwood Times: 1
-MKFM: 1
-Global Times: 1
-Taiwan News: 1
-The Texas Tribune: 1
-Florida Politics: 1
-Esquire.com: 1
-Roll Call: 1
-My Scoop 24: 1
-Newshub: 1
-LBC: 1
-Salon: 1
-IrishCentral: 1
-Deseret News: 1
-MSNBC: 1
-The Media Hell: 1
-The Intercept: 1
-Newstalk ZB: 1
-The Spokesman-Review: 1
-Appleton Post Crescent: 1
-FXStreet: 1
-Bulletin Mail: 1
-Washington Times: 1
-Stuff.co.nz: 1
-The New Republic: 1
-The Conversation US: 1
-Religion News Service: 1
-Bangkok Post: 1
-Times Now: 1
-CBS Philly: 1
-NME: 1
-Billboard: 1
-WDIV ClickOnDetroit: 1
-New York Daily News: 1
-Brookings Institution: 1
-Tribune-Review: 1
-PennLive: 1
-Lowell Sun: 1
-KKTV 11 News: 1
-Philadelphia magazine: 1
-Chinadaily USA: 1
-POLITICO.eu: 1
-TTG: 1
-voxeu.org: 1
-Responsible-Investor.com: 1
-Cordis News: 1
-Reason: 1
-Olive Oil Times: 1
-Tech.eu: 1
-Middle East Monitor: 1
-This is Local London: 1
-Fortune: 1
-Farming Life: 1
-Risk.net: 1
-Reuters.com: 1
-Prospect: 1
-The Asian Age: 1
-Deccan Chronicle: 1
-Midwest Communication: 1
-Al Jazeera America: 1
-Successful Farming: 1
-FoodManufacture.co.uk: 1
-Offshore WIND: 1
-briefingsforbrexit.com: 1
-Pink Sheet: 1
-S&P Global: 1
-The National: 1
-New Europe: 1
-The ASEAN Post: 1
-FarmersWeekly: 1
-Reliefweb: 1
-Valdai Discussion Club: 1
-JD Supra: 1
-Carbon Pulse: 1
-The European Sting: 1
-World Politics Review: 1
-Infosecurity Magazine: 1
-thejournal.ie: 1
-The First News: 1
-Israel Hayom: 1
-Jewish News: 1
-Football Italia: 1
-RFI English: 1
-Catholic Herald Online: 1
-The Drinks Business: 1
-The Times of Israel: 1
-Post and Parcel: 1
-NATO HQ: 1
-Lancashire Post: 1
-DER SPIEGEL: 1
-WSB Atlanta: 1
-24/7 Wall St.: 1
-WCVB Boston: 1
-wtkr.com: 1
-Trendinindia: 1
-FIFA.com: 1
-Jamaica Observer: 1
-2oceansvibe News: 1
-CBS News: 1
-WION: 1
-Hertfordshire Mercury: 1
-Stars and Stripes: 1
-The Spirits Business: 1
-WSAW: 1
-KTTC: 1
-ICIS: 1
-Firstpost: 1
-Open Democracy: 1
-Cooling Post: 1
-The Tribune India: 1
-WCTI12.com: 1
-The Week (UK): 1
-Happytrips: 1
-WEAR: 1
-Irish Post: 1
-KVAL: 1
-nbcmontana.com: 1
-Kazinform: 1
-Local Berkshire: 1
-The Tablet: 1
-GZERO Media: 1
-Politicopathy: 1
-Top Live News: 1
-Cumberland Times-News: 1
-WNWO NBC 24: 1
-Newsophilia: 1
-Alabama's News Leader: 1
-Yahoo Canada Finance: 1
-STAT: 1
-Crosscut: 1
-Spectrum News: 1
-GoodHousekeeping.com: 1
-The National Interest : 1
-The Local Europe: 1
-Rivard Report: 1
-FactCheck.org: 1
-Durham Herald Sun: 1
-CBS News 8: 1
-lehighvalleylive.com: 1
-Patch.com: 1
-CBS Los Angeles: 1
-KOKH FOX25: 1
-NBC Connecticut: 1
-International Law Lawyer News: 1
-RailFreight.com: 1
-The Columbus Dispatch: 1
-WGN TV Chicago: 1
-Boston 25 News: 1
-WAMU 88.5: 1
-Condé Nast Traveler: 1
-NBC Southern California: 1
-ZDNet: 1
-Mashable: 1
-The New Daily: 1
-The Sydney Morning Herald: 1
-Brisbane Times: 1
-IT PRO: 1
-Mactrast: 1
-Scientific American: 1
-10 daily: 1
-Business Insider India: 1
-The Canary: 1
-SmartCompany.com.au: 1
-On The Wight: 1
-Northamptonshire Telegraph: 1
-Northampton Chronicle and Echo: 1
-News Mail: 1
-Body and Soul: 1
-The Local France: 1
-MorningAdvertiser.co.uk: 1
-Christian Science Monitor: 1
-SmartBrief: 1
-AppleInsider: 1
-Gizmodo Australia: 1
-Benzinga: 1
-Law.com: 1
-Eurasianet: 1
-FUTURE TV: 1
-BusinessLine: 1
-DutchNews.nl: 1
-Free Press Journal: 1
-Pune Mirror: 1
-Belfast Live: 1
-THE WEEK: 1
-GPblog: 1
-HW News English: 1
-Kalinga TV: 1
-FOX 5 San Diego: 1
-Sportstar: 1
-India.com: 1
-All India Radio: 1
-EL PAÍS in English: 1
-FreshPlaza.com: 1
-Harrow Times: 1
-East London and West Essex Guardian Series: 1
-Newham Recorder: 1
-Spire FM: 1
-The London Economic: 1
-This Morning: 1
-Worksop Guardian: 1
-WABC-TV: 1
-News 12 Bronx: 1
-Gadgets 360: 1
-The Bolton News: 1
-York Press: 1
-letsrecycle.com: 1
-AOL UK: 1
-Swindon Advertiser: 1
-AOL Travel UK: 1
-Yorkshire Evening Post: 1
-Gloucestershire Live: 1
-Channel 4 News: 1
-BBC Newsnight: 1
-FOX 29 News Philadelphia: 1
-Runner's World (UK): 1
-Wirral Globe: 1
-Football365.com: 1
-Scotland on Sunday: 1
+The Guardian: 632 (9.730561970746729%)
+BBC News: 618 (9.51501154734411%)
+Daily Mail: 345 (5.311778290993072%)
+Financial Times: 310 (4.772902232486528%)
+CNN: 268 (4.126250962278676%)
+The Sun: 196 (3.0177059276366434%)
+The New York Times: 182 (2.8021555042340265%)
+Sky News: 179 (2.7559661277906082%)
+Mirror Online: 168 (2.5866050808314087%)
+Metro.co.uk: 145 (2.232486528098537%)
+Telegraph.co.uk: 132 (2.032332563510393%)
+The Independent: 105 (1.6166281755196306%)
+Express.co.uk: 103 (1.5858352578906851%)
+Express: 94 (1.447267128560431%)
+CNBC: 93 (1.4318706697459584%)
+ABC News: 89 (1.3702848344880678%)
+Al Jazeera English: 78 (1.2009237875288685%)
+Bloomberg: 78 (1.2009237875288685%)
+BBC South East Wales: 77 (1.1855273287143957%)
+ITV News: 71 (1.0931485758275596%)
+Reuters: 70 (1.077752117013087%)
+Evening Standard: 64 (0.985373364126251%)
+The Telegraph: 62 (0.9545804464973057%)
+The Washington Post: 60 (0.9237875288683602%)
+EU News: 58 (0.8929946112394149%)
+BBC Sport: 51 (0.7852193995381063%)
+POLITICO: 48 (0.7390300230946882%)
+Business Today: 46 (0.7082371054657428%)
+DW (English): 40 (0.6158583525789069%)
+Reuters UK: 40 (0.6158583525789069%)
+The Times: 39 (0.6004618937644343%)
+Manchester Evening News: 38 (0.5850654349499615%)
+Euronews: 31 (0.47729022324865283%)
+Fox News: 29 (0.44649730561970746%)
+Anadolu Agency: 29 (0.44649730561970746%)
+EURACTIV: 27 (0.41570438799076215%)
+USA TODAY: 27 (0.41570438799076215%)
+Forbes: 26 (0.4003079291762895%)
+Guardian News: 26 (0.4003079291762895%)
+expressandstar.com: 25 (0.3849114703618168%)
+NPR: 25 (0.3849114703618168%)
+The Atlantic: 25 (0.3849114703618168%)
+The Loppy: 23 (0.3541185527328714%)
+Wales Online: 22 (0.3387220939183988%)
+Times of India: 22 (0.3387220939183988%)
+The Irish Times: 22 (0.3387220939183988%)
+Business Insider: 22 (0.3387220939183988%)
+EUobserver: 21 (0.3233256351039261%)
+Deadline: 20 (0.30792917628945343%)
+The Local Germany: 19 (0.2925327174749808%)
+World Health Organization: 19 (0.2925327174749808%)
+CNN International: 18 (0.27713625866050806%)
+NBC News: 17 (0.2617397998460354%)
+Daily Record: 17 (0.2617397998460354%)
+NBCNews.com: 16 (0.24634334103156275%)
+The Hindu: 16 (0.24634334103156275%)
+The Indian Express: 16 (0.24634334103156275%)
+The Local Italy: 16 (0.24634334103156275%)
+India Today: 16 (0.24634334103156275%)
+The Wall Street Journal: 15 (0.23094688221709006%)
+CNA: 15 (0.23094688221709006%)
+RTE.ie: 14 (0.21555042340261737%)
+Liverpool Echo: 13 (0.20015396458814474%)
+New York Post : 13 (0.20015396458814474%)
+MarketWatch: 13 (0.20015396458814474%)
+9News: 13 (0.20015396458814474%)
+inews: 13 (0.20015396458814474%)
+The Hill: 12 (0.18475750577367206%)
+The Straits Times: 12 (0.18475750577367206%)
+Jakarta Post: 11 (0.1693610469591994%)
+Vox.com: 11 (0.1693610469591994%)
+The Brussels Times: 11 (0.1693610469591994%)
+NewsClicks: 11 (0.1693610469591994%)
+Aljazeera.com: 11 (0.1693610469591994%)
+Vanity Fair: 11 (0.1693610469591994%)
+The Scotsman: 11 (0.1693610469591994%)
+India Gone Viral: 10 (0.15396458814472672%)
+The New Yorker: 10 (0.15396458814472672%)
+The New European: 10 (0.15396458814472672%)
+Global News: 10 (0.15396458814472672%)
+The Economist: 10 (0.15396458814472672%)
+Economic Times: 10 (0.15396458814472672%)
+World Economic Forum: 9 (0.13856812933025403%)
+VOA News: 9 (0.13856812933025403%)
+Los Angeles Times: 8 (0.12317167051578137%)
+News Info Park: 8 (0.12317167051578137%)
+Hindustan Times: 8 (0.12317167051578137%)
+Xinhua: 8 (0.12317167051578137%)
+TRT World: 8 (0.12317167051578137%)
+The Berlin Spectator: 7 (0.10777521170130869%)
+The Verge: 7 (0.10777521170130869%)
+The Star Online: 7 (0.10777521170130869%)
+Washington Post: 7 (0.10777521170130869%)
+CBC.ca: 7 (0.10777521170130869%)
+Sky Sports: 7 (0.10777521170130869%)
+Deccan Herald: 7 (0.10777521170130869%)
+The Associated Press: 7 (0.10777521170130869%)
+SBS News: 7 (0.10777521170130869%)
+BBC: 7 (0.10777521170130869%)
+GOV.UK: 6 (0.09237875288683603%)
+The Conversation UK: 6 (0.09237875288683603%)
+PoliticsHome.com: 6 (0.09237875288683603%)
+Livemint: 6 (0.09237875288683603%)
+Whitehouse.gov: 6 (0.09237875288683603%)
+TIME: 6 (0.09237875288683603%)
+Politico: 6 (0.09237875288683603%)
+Newsweek: 6 (0.09237875288683603%)
+WKMG News 6 & ClickOrlando: 6 (0.09237875288683603%)
+SchengenVisaInfo.com: 6 (0.09237875288683603%)
+EU Reporter: 6 (0.09237875288683603%)
+FRANCE 24 English: 6 (0.09237875288683603%)
+7NEWS.com.au: 5 (0.07698229407236336%)
+U.S. News & World Report: 5 (0.07698229407236336%)
+The Japan Times: 5 (0.07698229407236336%)
+Belfast Telegraph: 5 (0.07698229407236336%)
+Anadolu Ajansı: 5 (0.07698229407236336%)
+Edinburgh News: 5 (0.07698229407236336%)
+Smash Newz: 5 (0.07698229407236336%)
+European Western Balkans: 5 (0.07698229407236336%)
+The Parliament Magazine: 5 (0.07698229407236336%)
+dineshr: 5 (0.07698229407236336%)
+The Statesman: 5 (0.07698229407236336%)
+KGO-TV: 5 (0.07698229407236336%)
+The Next Web: 5 (0.07698229407236336%)
+CNET: 5 (0.07698229407236336%)
+WalesOnline: 5 (0.07698229407236336%)
+The Local Sweden: 4 (0.061585835257890686%)
+The Nation: 4 (0.061585835257890686%)
+Wired.co.uk: 4 (0.061585835257890686%)
+Gulf News: 4 (0.061585835257890686%)
+Bradford Telegraph and Argus: 4 (0.061585835257890686%)
+LeaderLive: 4 (0.061585835257890686%)
+The Register: 4 (0.061585835257890686%)
+Chronicle Live: 4 (0.061585835257890686%)
+HuffPost UK: 4 (0.061585835257890686%)
+shropshirestar.com: 4 (0.061585835257890686%)
+The Globe and Mail: 4 (0.061585835257890686%)
+NJ.com: 4 (0.061585835257890686%)
+National Review: 4 (0.061585835257890686%)
+Formula 1: 4 (0.061585835257890686%)
+The Age: 4 (0.061585835257890686%)
+Leicestershire Live: 4 (0.061585835257890686%)
+ThePrint: 4 (0.061585835257890686%)
+CNBCTV18: 4 (0.061585835257890686%)
+South China Morning Post: 4 (0.061585835257890686%)
+HuffPost: 4 (0.061585835257890686%)
+Sydney Morning Herald: 4 (0.061585835257890686%)
+Financial Post: 4 (0.061585835257890686%)
+CGTN: 4 (0.061585835257890686%)
+Chicago Sun-Times: 4 (0.061585835257890686%)
+The-Latest News: 4 (0.061585835257890686%)
+DefenseNews.com: 4 (0.061585835257890686%)
+FRANCE 24: 4 (0.061585835257890686%)
+RFI: 4 (0.061585835257890686%)
+Business Standard: 4 (0.061585835257890686%)
+The Philadelphia Inquirer: 4 (0.061585835257890686%)
+NBC10 Boston: 4 (0.061585835257890686%)
+Inkstone: 4 (0.061585835257890686%)
+ABP Live: 4 (0.061585835257890686%)
+Mirror.co.uk: 4 (0.061585835257890686%)
+Devon Live: 4 (0.061585835257890686%)
+AS.com Móvil: 3 (0.046189376443418015%)
+The News International: 3 (0.046189376443418015%)
+The Scottish Sun: 3 (0.046189376443418015%)
+World Socialist Web Site: 3 (0.046189376443418015%)
+talkSPORT.com: 3 (0.046189376443418015%)
+MyLondon: 3 (0.046189376443418015%)
+Cycling Weekly: 3 (0.046189376443418015%)
+中国日报: 3 (0.046189376443418015%)
+Plymouth Live: 3 (0.046189376443418015%)
+TheChronicleHerald.ca: 3 (0.046189376443418015%)
+The Mercury News: 3 (0.046189376443418015%)
+CTV News: 3 (0.046189376443418015%)
+CIDRAP: 3 (0.046189376443418015%)
+National Post: 3 (0.046189376443418015%)
+The Canberra Times: 3 (0.046189376443418015%)
+Manchester City FC: 3 (0.046189376443418015%)
+Derbyshire Live: 3 (0.046189376443418015%)
+Cheshire Live: 3 (0.046189376443418015%)
+Republic World: 3 (0.046189376443418015%)
+Cyprus Mail: 3 (0.046189376443418015%)
+Yahoo Finance: 3 (0.046189376443418015%)
+Daily Sabah: 3 (0.046189376443418015%)
+NDTV: 3 (0.046189376443418015%)
+The Boston Globe: 3 (0.046189376443418015%)
+Salt Lake Tribune: 3 (0.046189376443418015%)
+Axios: 3 (0.046189376443418015%)
+edie.net: 3 (0.046189376443418015%)
+Carnegie Europe: 3 (0.046189376443418015%)
+Mondaq News Alerts: 3 (0.046189376443418015%)
+Reuters India: 3 (0.046189376443418015%)
+INSIDER: 3 (0.046189376443418015%)
+The Daily Beast: 3 (0.046189376443418015%)
+KIRO Seattle: 3 (0.046189376443418015%)
+The Newsopedia: 3 (0.046189376443418015%)
+Euro Weekly News: 3 (0.046189376443418015%)
+Outlook India: 3 (0.046189376443418015%)
+HeraldScotland: 3 (0.046189376443418015%)
+WLS-TV: 3 (0.046189376443418015%)
+Austin American-Statesman: 3 (0.046189376443418015%)
+nbcboston.com: 3 (0.046189376443418015%)
+NBC Chicago: 3 (0.046189376443418015%)
+Press-Enterprise: 3 (0.046189376443418015%)
+WBUR: 3 (0.046189376443418015%)
+Las Cruces Sun-News: 3 (0.046189376443418015%)
+NL Times: 3 (0.046189376443418015%)
+Imperial College London: 2 (0.030792917628945343%)
+Science Magazine: 2 (0.030792917628945343%)
+Eindhoven News: 2 (0.030792917628945343%)
+CBBC Newsround: 2 (0.030792917628945343%)
+Morning Star Online: 2 (0.030792917628945343%)
+CALmatters: 2 (0.030792917628945343%)
+WKRG News 5: 2 (0.030792917628945343%)
+Warrington Guardian: 2 (0.030792917628945343%)
+St Helens Star: 2 (0.030792917628945343%)
+The Northern Echo: 2 (0.030792917628945343%)
+Voice of America: 2 (0.030792917628945343%)
+Eastern Daily Press: 2 (0.030792917628945343%)
+Common Dreams: 2 (0.030792917628945343%)
+News Shopper: 2 (0.030792917628945343%)
+BT Sport: 2 (0.030792917628945343%)
+Foreign Policy: 2 (0.030792917628945343%)
+Human Rights Watch: 2 (0.030792917628945343%)
+Formula 1 RSS UK: 2 (0.030792917628945343%)
+City A.M.: 2 (0.030792917628945343%)
+Bury Times: 2 (0.030792917628945343%)
+Focus Taiwan News Channel: 2 (0.030792917628945343%)
+Daily Echo: 2 (0.030792917628945343%)
+www.ekathimerini.com: 2 (0.030792917628945343%)
+Full Fact: 2 (0.030792917628945343%)
+cgtn.com: 2 (0.030792917628945343%)
+NW Evening Mail: 2 (0.030792917628945343%)
+India TV News: 2 (0.030792917628945343%)
+Nottinghamshire Live: 2 (0.030792917628945343%)
+Quartz: 2 (0.030792917628945343%)
+The Australian: 2 (0.030792917628945343%)
+AZCentral: 2 (0.030792917628945343%)
+MassLive.com: 2 (0.030792917628945343%)
+Mother Jones: 2 (0.030792917628945343%)
+BuzzFeed News: 2 (0.030792917628945343%)
+Democracy Now!: 2 (0.030792917628945343%)
+Todaynewspaper: 2 (0.030792917628945343%)
+New Zealand Herald: 2 (0.030792917628945343%)
+The New Indian Express: 2 (0.030792917628945343%)
+AS South Africa: 2 (0.030792917628945343%)
+New York Magazine: 2 (0.030792917628945343%)
+Haaretz: 2 (0.030792917628945343%)
+The Dallas Morning News: 2 (0.030792917628945343%)
+Slate: 2 (0.030792917628945343%)
+Des Moines Register: 2 (0.030792917628945343%)
+Yahoo Sports: 2 (0.030792917628945343%)
+IPS Journal: 2 (0.030792917628945343%)
+ShareCast: 2 (0.030792917628945343%)
+New Statesman: 2 (0.030792917628945343%)
+Automotive News Europe: 2 (0.030792917628945343%)
+JURIST: 2 (0.030792917628945343%)
+Science Business: 2 (0.030792917628945343%)
+Emerging Europe: 2 (0.030792917628945343%)
+Deutsche Welle: 2 (0.030792917628945343%)
+ING Think: 2 (0.030792917628945343%)
+Fitch Ratings: 2 (0.030792917628945343%)
+Yahoo Finance UK: 2 (0.030792917628945343%)
+WHTC News: 2 (0.030792917628945343%)
+European Council on Foreign Relations: 2 (0.030792917628945343%)
+EUROPP - European Politics and Policy: 2 (0.030792917628945343%)
+InfoMigrants: 2 (0.030792917628945343%)
+Medical Xpress: 2 (0.030792917628945343%)
+Vatican News: 2 (0.030792917628945343%)
+Agenzia ANSA: 2 (0.030792917628945343%)
+artnet News: 2 (0.030792917628945343%)
+Spectator.co.uk: 2 (0.030792917628945343%)
+Livewire Markets: 2 (0.030792917628945343%)
+nejm.org: 2 (0.030792917628945343%)
+Minneapolis Star Tribune: 2 (0.030792917628945343%)
+CMC Markets: 2 (0.030792917628945343%)
+Mumbai Mirror: 2 (0.030792917628945343%)
+VentureBeat: 2 (0.030792917628945343%)
+Variety: 2 (0.030792917628945343%)
+Colorado Public Radio: 2 (0.030792917628945343%)
+Courier Journal: 2 (0.030792917628945343%)
+CBS Pittsburgh: 2 (0.030792917628945343%)
+KOMO News: 2 (0.030792917628945343%)
+ComputerWeekly.com: 2 (0.030792917628945343%)
+The Local Switzerland: 2 (0.030792917628945343%)
+The West Australian: 2 (0.030792917628945343%)
+MacRumors: 2 (0.030792917628945343%)
+Isle of Wight County Press: 2 (0.030792917628945343%)
+MIT Technology Review: 2 (0.030792917628945343%)
+Daijiworld.com: 2 (0.030792917628945343%)
+Jagran English: 2 (0.030792917628945343%)
+News18: 2 (0.030792917628945343%)
+Newsjok: 2 (0.030792917628945343%)
+citytoday: 2 (0.030792917628945343%)
+Essex Live: 2 (0.030792917628945343%)
+NDTV News: 2 (0.030792917628945343%)
+Daily Star: 2 (0.030792917628945343%)
+Chard & Ilminster News: 2 (0.030792917628945343%)
+Cornwall Live: 2 (0.030792917628945343%)
+NEWS.com.au: 2 (0.030792917628945343%)
+Birmingham Live: 2 (0.030792917628945343%)
+The Slovak Spectator: 1 (0.015396458814472672%)
+Daily Monitor: 1 (0.015396458814472672%)
+Hurriyet Daily News: 1 (0.015396458814472672%)
+Scottish Government News: 1 (0.015396458814472672%)
+Coventry Observer: 1 (0.015396458814472672%)
+theloadstar.com: 1 (0.015396458814472672%)
+Dublin Live: 1 (0.015396458814472672%)
+Retail Detail Europe: 1 (0.015396458814472672%)
+THE CITY: 1 (0.015396458814472672%)
+ReliefWeb: 1 (0.015396458814472672%)
+NewsEverything: 1 (0.015396458814472672%)
+Africanews English: 1 (0.015396458814472672%)
+Kent Online: 1 (0.015396458814472672%)
+East Anglian Daily Times: 1 (0.015396458814472672%)
+Cambridge News: 1 (0.015396458814472672%)
+Seattle Times: 1 (0.015396458814472672%)
+Spiked: 1 (0.015396458814472672%)
+syracuse.com: 1 (0.015396458814472672%)
+Tufts Daily: 1 (0.015396458814472672%)
+Exit - Explain Albania: 1 (0.015396458814472672%)
+FierceBiotech: 1 (0.015396458814472672%)
+RadioTimes: 1 (0.015396458814472672%)
+Hereford Times: 1 (0.015396458814472672%)
+Federal News Network: 1 (0.015396458814472672%)
+Science News: 1 (0.015396458814472672%)
+News & Star: 1 (0.015396458814472672%)
+Wigan Today: 1 (0.015396458814472672%)
+Gazette: 1 (0.015396458814472672%)
+Heart: 1 (0.015396458814472672%)
+Civil Service World: 1 (0.015396458814472672%)
+Medical News Today: 1 (0.015396458814472672%)
+Lawfare: 1 (0.015396458814472672%)
+Oxford Mail: 1 (0.015396458814472672%)
+TechCrunch: 1 (0.015396458814472672%)
+KBTX: 1 (0.015396458814472672%)
+straits times: 1 (0.015396458814472672%)
+The Moscow Times: 1 (0.015396458814472672%)
+WGME: 1 (0.015396458814472672%)
+WILX-TV: 1 (0.015396458814472672%)
+New Scientist: 1 (0.015396458814472672%)
+AFP Factcheck: 1 (0.015396458814472672%)
+Greeley Tribune: 1 (0.015396458814472672%)
+Lancashire Telegraph: 1 (0.015396458814472672%)
+New Scientist News: 1 (0.015396458814472672%)
+EWN: 1 (0.015396458814472672%)
+Press Herald: 1 (0.015396458814472672%)
+Livescience.com: 1 (0.015396458814472672%)
+The Argus: 1 (0.015396458814472672%)
+NBC 5 Dallas-Fort Worth: 1 (0.015396458814472672%)
+WRTV Indianapolis: 1 (0.015396458814472672%)
+Herald-Mail Media: 1 (0.015396458814472672%)
+WKBW-TV: 1 (0.015396458814472672%)
+UN News: 1 (0.015396458814472672%)
+Evening Telegraph: 1 (0.015396458814472672%)
+Echo: 1 (0.015396458814472672%)
+TheBlaze: 1 (0.015396458814472672%)
+Khaleej Times: 1 (0.015396458814472672%)
+Romford Recorder: 1 (0.015396458814472672%)
+Edmonton Journal: 1 (0.015396458814472672%)
+Nursing Times: 1 (0.015396458814472672%)
+LancsLive: 1 (0.015396458814472672%)
+South Wales Argus: 1 (0.015396458814472672%)
+The Logical Indian: 1 (0.015396458814472672%)
+Great Yarmouth Mercury: 1 (0.015396458814472672%)
+Scroll.in: 1 (0.015396458814472672%)
+The Courier: 1 (0.015396458814472672%)
+Aberdeen Evening Express: 1 (0.015396458814472672%)
+ActionNewsJax.com: 1 (0.015396458814472672%)
+AirQualityNews: 1 (0.015396458814472672%)
+Dunfermline Press: 1 (0.015396458814472672%)
+The Wiltshire Gazette and Herald: 1 (0.015396458814472672%)
+Skift: 1 (0.015396458814472672%)
+Your Local Guardian: 1 (0.015396458814472672%)
+Milton Keynes Citizen: 1 (0.015396458814472672%)
+Nikkei Asian Review: 1 (0.015396458814472672%)
+Hong Kong Free Press: 1 (0.015396458814472672%)
+BloombergQuint: 1 (0.015396458814472672%)
+ScienceAlert: 1 (0.015396458814472672%)
+Southwark News: 1 (0.015396458814472672%)
+Lincolnshire Reporter: 1 (0.015396458814472672%)
+Science Daily: 1 (0.015396458814472672%)
+Wiltshire Times: 1 (0.015396458814472672%)
+The Africa Report: 1 (0.015396458814472672%)
+University of Stirling: 1 (0.015396458814472672%)
+wgbh.org: 1 (0.015396458814472672%)
+National Geographic UK: 1 (0.015396458814472672%)
+Trends Wide: 1 (0.015396458814472672%)
+Tampa Bay Times: 1 (0.015396458814472672%)
+Borehamwood Times: 1 (0.015396458814472672%)
+MKFM: 1 (0.015396458814472672%)
+Global Times: 1 (0.015396458814472672%)
+Taiwan News: 1 (0.015396458814472672%)
+The Texas Tribune: 1 (0.015396458814472672%)
+Florida Politics: 1 (0.015396458814472672%)
+Esquire.com: 1 (0.015396458814472672%)
+Roll Call: 1 (0.015396458814472672%)
+My Scoop 24: 1 (0.015396458814472672%)
+Newshub: 1 (0.015396458814472672%)
+LBC: 1 (0.015396458814472672%)
+Salon: 1 (0.015396458814472672%)
+IrishCentral: 1 (0.015396458814472672%)
+Deseret News: 1 (0.015396458814472672%)
+MSNBC: 1 (0.015396458814472672%)
+The Media Hell: 1 (0.015396458814472672%)
+The Intercept: 1 (0.015396458814472672%)
+Newstalk ZB: 1 (0.015396458814472672%)
+The Spokesman-Review: 1 (0.015396458814472672%)
+Appleton Post Crescent: 1 (0.015396458814472672%)
+FXStreet: 1 (0.015396458814472672%)
+Bulletin Mail: 1 (0.015396458814472672%)
+Washington Times: 1 (0.015396458814472672%)
+Stuff.co.nz: 1 (0.015396458814472672%)
+The New Republic: 1 (0.015396458814472672%)
+The Conversation US: 1 (0.015396458814472672%)
+Religion News Service: 1 (0.015396458814472672%)
+Bangkok Post: 1 (0.015396458814472672%)
+Times Now: 1 (0.015396458814472672%)
+CBS Philly: 1 (0.015396458814472672%)
+NME: 1 (0.015396458814472672%)
+Billboard: 1 (0.015396458814472672%)
+WDIV ClickOnDetroit: 1 (0.015396458814472672%)
+New York Daily News: 1 (0.015396458814472672%)
+Brookings Institution: 1 (0.015396458814472672%)
+Tribune-Review: 1 (0.015396458814472672%)
+PennLive: 1 (0.015396458814472672%)
+Lowell Sun: 1 (0.015396458814472672%)
+KKTV 11 News: 1 (0.015396458814472672%)
+Philadelphia magazine: 1 (0.015396458814472672%)
+Chinadaily USA: 1 (0.015396458814472672%)
+POLITICO.eu: 1 (0.015396458814472672%)
+TTG: 1 (0.015396458814472672%)
+voxeu.org: 1 (0.015396458814472672%)
+Responsible-Investor.com: 1 (0.015396458814472672%)
+Cordis News: 1 (0.015396458814472672%)
+Reason: 1 (0.015396458814472672%)
+Olive Oil Times: 1 (0.015396458814472672%)
+Tech.eu: 1 (0.015396458814472672%)
+Middle East Monitor: 1 (0.015396458814472672%)
+This is Local London: 1 (0.015396458814472672%)
+Fortune: 1 (0.015396458814472672%)
+Farming Life: 1 (0.015396458814472672%)
+Risk.net: 1 (0.015396458814472672%)
+Reuters.com: 1 (0.015396458814472672%)
+Prospect: 1 (0.015396458814472672%)
+The Asian Age: 1 (0.015396458814472672%)
+Deccan Chronicle: 1 (0.015396458814472672%)
+Midwest Communication: 1 (0.015396458814472672%)
+Al Jazeera America: 1 (0.015396458814472672%)
+Successful Farming: 1 (0.015396458814472672%)
+FoodManufacture.co.uk: 1 (0.015396458814472672%)
+Offshore WIND: 1 (0.015396458814472672%)
+briefingsforbrexit.com: 1 (0.015396458814472672%)
+Pink Sheet: 1 (0.015396458814472672%)
+S&P Global: 1 (0.015396458814472672%)
+The National: 1 (0.015396458814472672%)
+New Europe: 1 (0.015396458814472672%)
+The ASEAN Post: 1 (0.015396458814472672%)
+FarmersWeekly: 1 (0.015396458814472672%)
+Reliefweb: 1 (0.015396458814472672%)
+Valdai Discussion Club: 1 (0.015396458814472672%)
+JD Supra: 1 (0.015396458814472672%)
+Carbon Pulse: 1 (0.015396458814472672%)
+The European Sting: 1 (0.015396458814472672%)
+World Politics Review: 1 (0.015396458814472672%)
+Infosecurity Magazine: 1 (0.015396458814472672%)
+thejournal.ie: 1 (0.015396458814472672%)
+The First News: 1 (0.015396458814472672%)
+Israel Hayom: 1 (0.015396458814472672%)
+Jewish News: 1 (0.015396458814472672%)
+Football Italia: 1 (0.015396458814472672%)
+RFI English: 1 (0.015396458814472672%)
+Catholic Herald Online: 1 (0.015396458814472672%)
+The Drinks Business: 1 (0.015396458814472672%)
+The Times of Israel: 1 (0.015396458814472672%)
+Post and Parcel: 1 (0.015396458814472672%)
+NATO HQ: 1 (0.015396458814472672%)
+Lancashire Post: 1 (0.015396458814472672%)
+DER SPIEGEL: 1 (0.015396458814472672%)
+WSB Atlanta: 1 (0.015396458814472672%)
+24/7 Wall St.: 1 (0.015396458814472672%)
+WCVB Boston: 1 (0.015396458814472672%)
+wtkr.com: 1 (0.015396458814472672%)
+Trendinindia: 1 (0.015396458814472672%)
+FIFA.com: 1 (0.015396458814472672%)
+Jamaica Observer: 1 (0.015396458814472672%)
+2oceansvibe News: 1 (0.015396458814472672%)
+CBS News: 1 (0.015396458814472672%)
+WION: 1 (0.015396458814472672%)
+Hertfordshire Mercury: 1 (0.015396458814472672%)
+Stars and Stripes: 1 (0.015396458814472672%)
+The Spirits Business: 1 (0.015396458814472672%)
+WSAW: 1 (0.015396458814472672%)
+KTTC: 1 (0.015396458814472672%)
+ICIS: 1 (0.015396458814472672%)
+Firstpost: 1 (0.015396458814472672%)
+Open Democracy: 1 (0.015396458814472672%)
+Cooling Post: 1 (0.015396458814472672%)
+The Tribune India: 1 (0.015396458814472672%)
+WCTI12.com: 1 (0.015396458814472672%)
+The Week (UK): 1 (0.015396458814472672%)
+Happytrips: 1 (0.015396458814472672%)
+WEAR: 1 (0.015396458814472672%)
+Irish Post: 1 (0.015396458814472672%)
+KVAL: 1 (0.015396458814472672%)
+nbcmontana.com: 1 (0.015396458814472672%)
+Kazinform: 1 (0.015396458814472672%)
+Local Berkshire: 1 (0.015396458814472672%)
+The Tablet: 1 (0.015396458814472672%)
+GZERO Media: 1 (0.015396458814472672%)
+Politicopathy: 1 (0.015396458814472672%)
+Top Live News: 1 (0.015396458814472672%)
+Cumberland Times-News: 1 (0.015396458814472672%)
+WNWO NBC 24: 1 (0.015396458814472672%)
+Newsophilia: 1 (0.015396458814472672%)
+Alabama's News Leader: 1 (0.015396458814472672%)
+Yahoo Canada Finance: 1 (0.015396458814472672%)
+STAT: 1 (0.015396458814472672%)
+Crosscut: 1 (0.015396458814472672%)
+Spectrum News: 1 (0.015396458814472672%)
+GoodHousekeeping.com: 1 (0.015396458814472672%)
+The National Interest : 1 (0.015396458814472672%)
+The Local Europe: 1 (0.015396458814472672%)
+Rivard Report: 1 (0.015396458814472672%)
+FactCheck.org: 1 (0.015396458814472672%)
+Durham Herald Sun: 1 (0.015396458814472672%)
+CBS News 8: 1 (0.015396458814472672%)
+lehighvalleylive.com: 1 (0.015396458814472672%)
+Patch.com: 1 (0.015396458814472672%)
+CBS Los Angeles: 1 (0.015396458814472672%)
+KOKH FOX25: 1 (0.015396458814472672%)
+NBC Connecticut: 1 (0.015396458814472672%)
+International Law Lawyer News: 1 (0.015396458814472672%)
+RailFreight.com: 1 (0.015396458814472672%)
+The Columbus Dispatch: 1 (0.015396458814472672%)
+WGN TV Chicago: 1 (0.015396458814472672%)
+Boston 25 News: 1 (0.015396458814472672%)
+WAMU 88.5: 1 (0.015396458814472672%)
+Condé Nast Traveler: 1 (0.015396458814472672%)
+NBC Southern California: 1 (0.015396458814472672%)
+ZDNet: 1 (0.015396458814472672%)
+Mashable: 1 (0.015396458814472672%)
+The New Daily: 1 (0.015396458814472672%)
+The Sydney Morning Herald: 1 (0.015396458814472672%)
+Brisbane Times: 1 (0.015396458814472672%)
+IT PRO: 1 (0.015396458814472672%)
+Mactrast: 1 (0.015396458814472672%)
+Scientific American: 1 (0.015396458814472672%)
+10 daily: 1 (0.015396458814472672%)
+Business Insider India: 1 (0.015396458814472672%)
+The Canary: 1 (0.015396458814472672%)
+SmartCompany.com.au: 1 (0.015396458814472672%)
+On The Wight: 1 (0.015396458814472672%)
+Northamptonshire Telegraph: 1 (0.015396458814472672%)
+Northampton Chronicle and Echo: 1 (0.015396458814472672%)
+News Mail: 1 (0.015396458814472672%)
+Body and Soul: 1 (0.015396458814472672%)
+The Local France: 1 (0.015396458814472672%)
+MorningAdvertiser.co.uk: 1 (0.015396458814472672%)
+Christian Science Monitor: 1 (0.015396458814472672%)
+SmartBrief: 1 (0.015396458814472672%)
+AppleInsider: 1 (0.015396458814472672%)
+Gizmodo Australia: 1 (0.015396458814472672%)
+Benzinga: 1 (0.015396458814472672%)
+Law.com: 1 (0.015396458814472672%)
+Eurasianet: 1 (0.015396458814472672%)
+FUTURE TV: 1 (0.015396458814472672%)
+BusinessLine: 1 (0.015396458814472672%)
+DutchNews.nl: 1 (0.015396458814472672%)
+Free Press Journal: 1 (0.015396458814472672%)
+Pune Mirror: 1 (0.015396458814472672%)
+Belfast Live: 1 (0.015396458814472672%)
+THE WEEK: 1 (0.015396458814472672%)
+GPblog: 1 (0.015396458814472672%)
+HW News English: 1 (0.015396458814472672%)
+Kalinga TV: 1 (0.015396458814472672%)
+FOX 5 San Diego: 1 (0.015396458814472672%)
+Sportstar: 1 (0.015396458814472672%)
+India.com: 1 (0.015396458814472672%)
+All India Radio: 1 (0.015396458814472672%)
+EL PAÍS in English: 1 (0.015396458814472672%)
+FreshPlaza.com: 1 (0.015396458814472672%)
+Harrow Times: 1 (0.015396458814472672%)
+East London and West Essex Guardian Series: 1 (0.015396458814472672%)
+Newham Recorder: 1 (0.015396458814472672%)
+Spire FM: 1 (0.015396458814472672%)
+The London Economic: 1 (0.015396458814472672%)
+This Morning: 1 (0.015396458814472672%)
+Worksop Guardian: 1 (0.015396458814472672%)
+WABC-TV: 1 (0.015396458814472672%)
+News 12 Bronx: 1 (0.015396458814472672%)
+Gadgets 360: 1 (0.015396458814472672%)
+The Bolton News: 1 (0.015396458814472672%)
+York Press: 1 (0.015396458814472672%)
+letsrecycle.com: 1 (0.015396458814472672%)
+AOL UK: 1 (0.015396458814472672%)
+Swindon Advertiser: 1 (0.015396458814472672%)
+AOL Travel UK: 1 (0.015396458814472672%)
+Yorkshire Evening Post: 1 (0.015396458814472672%)
+Gloucestershire Live: 1 (0.015396458814472672%)
+Channel 4 News: 1 (0.015396458814472672%)
+BBC Newsnight: 1 (0.015396458814472672%)
+FOX 29 News Philadelphia: 1 (0.015396458814472672%)
+Runner's World (UK): 1 (0.015396458814472672%)
+Wirral Globe: 1 (0.015396458814472672%)
+Football365.com: 1 (0.015396458814472672%)
+Scotland on Sunday: 1 (0.015396458814472672%)

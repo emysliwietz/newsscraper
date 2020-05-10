@@ -1,146 +1,146 @@
-EU News: 57
-Financial Times: 48
-Express.co.uk: 46
-The Guardian: 35
-BBC News: 32
-The New York Times: 27
-EURACTIV: 22
-EUobserver: 20
-Reuters: 17
-The Irish Times: 17
-Express: 16
-Reuters UK: 15
-Bloomberg: 14
-DW (English): 14
-Telegraph.co.uk: 12
-Daily Mail: 11
-Euronews: 11
-Anadolu Agency: 10
-The Sun: 9
-CNBC: 8
-The New European: 7
-SchengenVisaInfo.com: 6
-The Brussels Times: 6
-VOA News: 6
-EU Reporter: 6
-The Independent: 5
-Jakarta Post: 5
-European Western Balkans: 5
-The Parliament Magazine: 5
-Politico: 4
-RTE.ie: 4
-DefenseNews.com: 4
-Forbes: 4
-Aljazeera.com: 4
-Xinhua: 4
-Al Jazeera English: 3
-edie.net: 3
-Carnegie Europe: 3
-Mondaq News Alerts: 3
-Reuters India: 3
-The Indian Express: 3
-The Hill: 2
-The Straits Times: 2
-中国日报: 2
-IPS Journal: 2
-expressandstar.com: 2
-ShareCast: 2
-Mirror Online: 2
-JURIST: 2
-Science Business: 2
-Emerging Europe: 2
-Deccan Herald: 2
-CNN: 2
-FRANCE 24: 2
-Deutsche Welle: 2
-CGTN: 2
-Yahoo Finance UK: 2
-The Wall Street Journal: 2
-EUROPP - European Politics and Policy: 2
-NPR: 2
-Vox.com: 1
-The-Latest News: 1
-City A.M.: 1
-The Times: 1
-Chinadaily USA: 1
-Republic World: 1
-POLITICO.eu: 1
-World Socialist Web Site: 1
-Sky News: 1
-Gulf News: 1
-New York Post : 1
-Axios: 1
-India Gone Viral: 1
-Business Insider: 1
-Human Rights Watch: 1
-TTG: 1
-National Review: 1
-Livemint: 1
-New Statesman: 1
-voxeu.org: 1
-Automotive News Europe: 1
-Responsible-Investor.com: 1
-The Conversation UK: 1
-Cordis News: 1
-Reason: 1
-Olive Oil Times: 1
-Full Fact: 1
-Tech.eu: 1
-Middle East Monitor: 1
-This is Local London: 1
-Fortune: 1
-PoliticsHome.com: 1
-CNA: 1
-Farming Life: 1
-Anadolu Ajansı: 1
-Belfast Telegraph: 1
-RFI: 1
-Risk.net: 1
-ING Think: 1
-Fitch Ratings: 1
-The Star Online: 1
-South China Morning Post: 1
-Reuters.com: 1
-WHTC News: 1
-Prospect: 1
-European Council on Foreign Relations: 1
-The Asian Age: 1
-Deccan Chronicle: 1
-Midwest Communication: 1
-Al Jazeera America: 1
-Economic Times: 1
-www.ekathimerini.com: 1
-Successful Farming: 1
-FoodManufacture.co.uk: 1
-Global News: 1
-NewsClicks: 1
-NBC News: 1
-Offshore WIND: 1
-The Verge: 1
-briefingsforbrexit.com: 1
-The Telegraph: 1
-Pink Sheet: 1
-S&P Global: 1
-The National: 1
-InfoMigrants: 1
-New Europe: 1
-The ASEAN Post: 1
-Financial Post: 1
-FarmersWeekly: 1
-Reliefweb: 1
-Valdai Discussion Club: 1
-JD Supra: 1
-Carbon Pulse: 1
-The European Sting: 1
-World Politics Review: 1
-Medical Xpress: 1
-Infosecurity Magazine: 1
-TRT World: 1
-Metro.co.uk: 1
-thejournal.ie: 1
-Yahoo Finance: 1
-The First News: 1
-Fox News: 1
-Israel Hayom: 1
-Jewish News: 1
-Business Standard: 1
+EU News: 57 (8.636363636363637%)
+Financial Times: 48 (7.2727272727272725%)
+Express.co.uk: 46 (6.969696969696971%)
+The Guardian: 35 (5.303030303030303%)
+BBC News: 32 (4.848484848484849%)
+The New York Times: 27 (4.090909090909091%)
+EURACTIV: 22 (3.3333333333333335%)
+EUobserver: 20 (3.0303030303030303%)
+Reuters: 17 (2.5757575757575757%)
+The Irish Times: 17 (2.5757575757575757%)
+Express: 16 (2.4242424242424243%)
+Reuters UK: 15 (2.272727272727273%)
+Bloomberg: 14 (2.1212121212121215%)
+DW (English): 14 (2.1212121212121215%)
+Telegraph.co.uk: 12 (1.8181818181818181%)
+Daily Mail: 11 (1.6666666666666667%)
+Euronews: 11 (1.6666666666666667%)
+Anadolu Agency: 10 (1.5151515151515151%)
+The Sun: 9 (1.3636363636363635%)
+CNBC: 8 (1.2121212121212122%)
+The New European: 7 (1.0606060606060608%)
+SchengenVisaInfo.com: 6 (0.9090909090909091%)
+The Brussels Times: 6 (0.9090909090909091%)
+VOA News: 6 (0.9090909090909091%)
+EU Reporter: 6 (0.9090909090909091%)
+The Independent: 5 (0.7575757575757576%)
+Jakarta Post: 5 (0.7575757575757576%)
+European Western Balkans: 5 (0.7575757575757576%)
+The Parliament Magazine: 5 (0.7575757575757576%)
+Politico: 4 (0.6060606060606061%)
+RTE.ie: 4 (0.6060606060606061%)
+DefenseNews.com: 4 (0.6060606060606061%)
+Forbes: 4 (0.6060606060606061%)
+Aljazeera.com: 4 (0.6060606060606061%)
+Xinhua: 4 (0.6060606060606061%)
+Al Jazeera English: 3 (0.45454545454545453%)
+edie.net: 3 (0.45454545454545453%)
+Carnegie Europe: 3 (0.45454545454545453%)
+Mondaq News Alerts: 3 (0.45454545454545453%)
+Reuters India: 3 (0.45454545454545453%)
+The Indian Express: 3 (0.45454545454545453%)
+The Hill: 2 (0.30303030303030304%)
+The Straits Times: 2 (0.30303030303030304%)
+中国日报: 2 (0.30303030303030304%)
+IPS Journal: 2 (0.30303030303030304%)
+expressandstar.com: 2 (0.30303030303030304%)
+ShareCast: 2 (0.30303030303030304%)
+Mirror Online: 2 (0.30303030303030304%)
+JURIST: 2 (0.30303030303030304%)
+Science Business: 2 (0.30303030303030304%)
+Emerging Europe: 2 (0.30303030303030304%)
+Deccan Herald: 2 (0.30303030303030304%)
+CNN: 2 (0.30303030303030304%)
+FRANCE 24: 2 (0.30303030303030304%)
+Deutsche Welle: 2 (0.30303030303030304%)
+CGTN: 2 (0.30303030303030304%)
+Yahoo Finance UK: 2 (0.30303030303030304%)
+The Wall Street Journal: 2 (0.30303030303030304%)
+EUROPP - European Politics and Policy: 2 (0.30303030303030304%)
+NPR: 2 (0.30303030303030304%)
+Vox.com: 1 (0.15151515151515152%)
+The-Latest News: 1 (0.15151515151515152%)
+City A.M.: 1 (0.15151515151515152%)
+The Times: 1 (0.15151515151515152%)
+Chinadaily USA: 1 (0.15151515151515152%)
+Republic World: 1 (0.15151515151515152%)
+POLITICO.eu: 1 (0.15151515151515152%)
+World Socialist Web Site: 1 (0.15151515151515152%)
+Sky News: 1 (0.15151515151515152%)
+Gulf News: 1 (0.15151515151515152%)
+New York Post : 1 (0.15151515151515152%)
+Axios: 1 (0.15151515151515152%)
+India Gone Viral: 1 (0.15151515151515152%)
+Business Insider: 1 (0.15151515151515152%)
+Human Rights Watch: 1 (0.15151515151515152%)
+TTG: 1 (0.15151515151515152%)
+National Review: 1 (0.15151515151515152%)
+Livemint: 1 (0.15151515151515152%)
+New Statesman: 1 (0.15151515151515152%)
+voxeu.org: 1 (0.15151515151515152%)
+Automotive News Europe: 1 (0.15151515151515152%)
+Responsible-Investor.com: 1 (0.15151515151515152%)
+The Conversation UK: 1 (0.15151515151515152%)
+Cordis News: 1 (0.15151515151515152%)
+Reason: 1 (0.15151515151515152%)
+Olive Oil Times: 1 (0.15151515151515152%)
+Full Fact: 1 (0.15151515151515152%)
+Tech.eu: 1 (0.15151515151515152%)
+Middle East Monitor: 1 (0.15151515151515152%)
+This is Local London: 1 (0.15151515151515152%)
+Fortune: 1 (0.15151515151515152%)
+PoliticsHome.com: 1 (0.15151515151515152%)
+CNA: 1 (0.15151515151515152%)
+Farming Life: 1 (0.15151515151515152%)
+Anadolu Ajansı: 1 (0.15151515151515152%)
+Belfast Telegraph: 1 (0.15151515151515152%)
+RFI: 1 (0.15151515151515152%)
+Risk.net: 1 (0.15151515151515152%)
+ING Think: 1 (0.15151515151515152%)
+Fitch Ratings: 1 (0.15151515151515152%)
+The Star Online: 1 (0.15151515151515152%)
+South China Morning Post: 1 (0.15151515151515152%)
+Reuters.com: 1 (0.15151515151515152%)
+WHTC News: 1 (0.15151515151515152%)
+Prospect: 1 (0.15151515151515152%)
+European Council on Foreign Relations: 1 (0.15151515151515152%)
+The Asian Age: 1 (0.15151515151515152%)
+Deccan Chronicle: 1 (0.15151515151515152%)
+Midwest Communication: 1 (0.15151515151515152%)
+Al Jazeera America: 1 (0.15151515151515152%)
+Economic Times: 1 (0.15151515151515152%)
+www.ekathimerini.com: 1 (0.15151515151515152%)
+Successful Farming: 1 (0.15151515151515152%)
+FoodManufacture.co.uk: 1 (0.15151515151515152%)
+Global News: 1 (0.15151515151515152%)
+NewsClicks: 1 (0.15151515151515152%)
+NBC News: 1 (0.15151515151515152%)
+Offshore WIND: 1 (0.15151515151515152%)
+The Verge: 1 (0.15151515151515152%)
+briefingsforbrexit.com: 1 (0.15151515151515152%)
+The Telegraph: 1 (0.15151515151515152%)
+Pink Sheet: 1 (0.15151515151515152%)
+S&P Global: 1 (0.15151515151515152%)
+The National: 1 (0.15151515151515152%)
+InfoMigrants: 1 (0.15151515151515152%)
+New Europe: 1 (0.15151515151515152%)
+The ASEAN Post: 1 (0.15151515151515152%)
+Financial Post: 1 (0.15151515151515152%)
+FarmersWeekly: 1 (0.15151515151515152%)
+Reliefweb: 1 (0.15151515151515152%)
+Valdai Discussion Club: 1 (0.15151515151515152%)
+JD Supra: 1 (0.15151515151515152%)
+Carbon Pulse: 1 (0.15151515151515152%)
+The European Sting: 1 (0.15151515151515152%)
+World Politics Review: 1 (0.15151515151515152%)
+Medical Xpress: 1 (0.15151515151515152%)
+Infosecurity Magazine: 1 (0.15151515151515152%)
+TRT World: 1 (0.15151515151515152%)
+Metro.co.uk: 1 (0.15151515151515152%)
+thejournal.ie: 1 (0.15151515151515152%)
+Yahoo Finance: 1 (0.15151515151515152%)
+The First News: 1 (0.15151515151515152%)
+Fox News: 1 (0.15151515151515152%)
+Israel Hayom: 1 (0.15151515151515152%)
+Jewish News: 1 (0.15151515151515152%)
+Business Standard: 1 (0.15151515151515152%)

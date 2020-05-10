@@ -1,138 +1,138 @@
-CNN: 182
-The Guardian: 111
-Daily Mail: 53
-POLITICO: 46
-CNBC: 26
-The Atlantic: 23
-Metro.co.uk: 22
-Deadline: 20
-ABC News: 16
-USA TODAY: 15
-Bloomberg: 14
-BBC News: 13
-Express.co.uk: 12
-Telegraph.co.uk: 12
-Vanity Fair: 11
-Business Insider: 9
-The New York Times: 8
-Financial Times: 8
-The Washington Post: 8
-Mirror Online: 7
-RTE.ie: 6
-Vox.com: 6
-NBCNews.com: 6
-Whitehouse.gov: 6
-Forbes: 5
-The Sun: 5
-The Associated Press: 5
-The Independent: 4
-Economic Times: 4
-TIME: 4
-HuffPost: 4
-MarketWatch: 4
-Smash Newz: 4
-SBS News: 4
-Hindustan Times: 4
-WKMG News 6 & ClickOrlando: 4
-South China Morning Post: 3
-New York Post : 3
-The Telegraph: 3
-Reuters: 3
-The New Yorker: 3
-The Hill: 3
-NBC News: 3
-The Hindu: 3
-9News: 3
-Salt Lake Tribune: 3
-Quartz: 2
-Evening Standard: 2
-Livemint: 2
-ITV News: 2
-AZCentral: 2
-National Review: 2
-The Irish Times: 2
-Mother Jones: 2
-New Zealand Herald: 2
-The Age: 2
-Sky News: 2
-Newsweek: 2
-NJ.com: 2
-Financial Post: 2
-The Indian Express: 2
-Des Moines Register: 2
-CTV News: 2
-NDTV: 2
-Deccan Herald: 2
-The Boston Globe: 2
-Yahoo Sports: 2
-DW (English): 1
-The Australian: 1
-The Texas Tribune: 1
-Florida Politics: 1
-Fox News: 1
-Common Dreams: 1
-MassLive.com: 1
-Global News: 1
-Esquire.com: 1
-Roll Call: 1
-My Scoop 24: 1
-Newshub: 1
-Edinburgh News: 1
-LBC: 1
-Salon: 1
-IrishCentral: 1
-Al Jazeera English: 1
-Deseret News: 1
-Cyprus Mail: 1
-MSNBC: 1
-BuzzFeed News: 1
-expressandstar.com: 1
-Democracy Now!: 1
-Yahoo Finance: 1
-Todaynewspaper: 1
-The New European: 1
-The Media Hell: 1
-The Intercept: 1
-The New Indian Express: 1
-The Loppy: 1
-Newstalk ZB: 1
-The Mercury News: 1
-WKRG News 5: 1
-The Spokesman-Review: 1
-AS South Africa: 1
-New York Magazine: 1
-Appleton Post Crescent: 1
-FXStreet: 1
-Daily Record: 1
-India Gone Viral: 1
-Daily Sabah: 1
-Haaretz: 1
-The Dallas Morning News: 1
-Bulletin Mail: 1
-Washington Times: 1
-Stuff.co.nz: 1
-The New Republic: 1
-Politico: 1
-NPR: 1
-The Conversation US: 1
-Religion News Service: 1
-Slate: 1
-VOA News: 1
-Bangkok Post: 1
-Times Now: 1
-CBS Philly: 1
-Sydney Morning Herald: 1
-NME: 1
-Billboard: 1
-ThePrint: 1
-Times of India: 1
-WDIV ClickOnDetroit: 1
-The Times: 1
-New York Daily News: 1
-Brookings Institution: 1
-Tribune-Review: 1
-U.S. News & World Report: 1
-PennLive: 1
-Lowell Sun: 1
-KKTV 11 News: 1
-Philadelphia magazine: 1
+CNN: 182 (21.770334928229666%)
+The Guardian: 111 (13.277511961722489%)
+Daily Mail: 53 (6.339712918660287%)
+POLITICO: 46 (5.502392344497608%)
+CNBC: 26 (3.110047846889952%)
+The Atlantic: 23 (2.751196172248804%)
+Metro.co.uk: 22 (2.631578947368421%)
+Deadline: 20 (2.3923444976076556%)
+ABC News: 16 (1.9138755980861244%)
+USA TODAY: 15 (1.7942583732057416%)
+Bloomberg: 14 (1.674641148325359%)
+BBC News: 13 (1.555023923444976%)
+Express.co.uk: 12 (1.4354066985645932%)
+Telegraph.co.uk: 12 (1.4354066985645932%)
+Vanity Fair: 11 (1.3157894736842104%)
+Business Insider: 9 (1.076555023923445%)
+The New York Times: 8 (0.9569377990430622%)
+Financial Times: 8 (0.9569377990430622%)
+The Washington Post: 8 (0.9569377990430622%)
+Mirror Online: 7 (0.8373205741626795%)
+RTE.ie: 6 (0.7177033492822966%)
+Vox.com: 6 (0.7177033492822966%)
+NBCNews.com: 6 (0.7177033492822966%)
+Whitehouse.gov: 6 (0.7177033492822966%)
+Forbes: 5 (0.5980861244019139%)
+The Sun: 5 (0.5980861244019139%)
+The Associated Press: 5 (0.5980861244019139%)
+The Independent: 4 (0.4784688995215311%)
+Economic Times: 4 (0.4784688995215311%)
+TIME: 4 (0.4784688995215311%)
+HuffPost: 4 (0.4784688995215311%)
+MarketWatch: 4 (0.4784688995215311%)
+Smash Newz: 4 (0.4784688995215311%)
+SBS News: 4 (0.4784688995215311%)
+Hindustan Times: 4 (0.4784688995215311%)
+WKMG News 6 & ClickOrlando: 4 (0.4784688995215311%)
+South China Morning Post: 3 (0.3588516746411483%)
+New York Post : 3 (0.3588516746411483%)
+The Telegraph: 3 (0.3588516746411483%)
+Reuters: 3 (0.3588516746411483%)
+The New Yorker: 3 (0.3588516746411483%)
+The Hill: 3 (0.3588516746411483%)
+NBC News: 3 (0.3588516746411483%)
+The Hindu: 3 (0.3588516746411483%)
+9News: 3 (0.3588516746411483%)
+Salt Lake Tribune: 3 (0.3588516746411483%)
+Quartz: 2 (0.23923444976076555%)
+Evening Standard: 2 (0.23923444976076555%)
+Livemint: 2 (0.23923444976076555%)
+ITV News: 2 (0.23923444976076555%)
+AZCentral: 2 (0.23923444976076555%)
+National Review: 2 (0.23923444976076555%)
+The Irish Times: 2 (0.23923444976076555%)
+Mother Jones: 2 (0.23923444976076555%)
+New Zealand Herald: 2 (0.23923444976076555%)
+The Age: 2 (0.23923444976076555%)
+Sky News: 2 (0.23923444976076555%)
+Newsweek: 2 (0.23923444976076555%)
+NJ.com: 2 (0.23923444976076555%)
+Financial Post: 2 (0.23923444976076555%)
+The Indian Express: 2 (0.23923444976076555%)
+Des Moines Register: 2 (0.23923444976076555%)
+CTV News: 2 (0.23923444976076555%)
+NDTV: 2 (0.23923444976076555%)
+Deccan Herald: 2 (0.23923444976076555%)
+The Boston Globe: 2 (0.23923444976076555%)
+Yahoo Sports: 2 (0.23923444976076555%)
+DW (English): 1 (0.11961722488038277%)
+The Australian: 1 (0.11961722488038277%)
+The Texas Tribune: 1 (0.11961722488038277%)
+Florida Politics: 1 (0.11961722488038277%)
+Fox News: 1 (0.11961722488038277%)
+Common Dreams: 1 (0.11961722488038277%)
+MassLive.com: 1 (0.11961722488038277%)
+Global News: 1 (0.11961722488038277%)
+Esquire.com: 1 (0.11961722488038277%)
+Roll Call: 1 (0.11961722488038277%)
+My Scoop 24: 1 (0.11961722488038277%)
+Newshub: 1 (0.11961722488038277%)
+Edinburgh News: 1 (0.11961722488038277%)
+LBC: 1 (0.11961722488038277%)
+Salon: 1 (0.11961722488038277%)
+IrishCentral: 1 (0.11961722488038277%)
+Al Jazeera English: 1 (0.11961722488038277%)
+Deseret News: 1 (0.11961722488038277%)
+Cyprus Mail: 1 (0.11961722488038277%)
+MSNBC: 1 (0.11961722488038277%)
+BuzzFeed News: 1 (0.11961722488038277%)
+expressandstar.com: 1 (0.11961722488038277%)
+Democracy Now!: 1 (0.11961722488038277%)
+Yahoo Finance: 1 (0.11961722488038277%)
+Todaynewspaper: 1 (0.11961722488038277%)
+The New European: 1 (0.11961722488038277%)
+The Media Hell: 1 (0.11961722488038277%)
+The Intercept: 1 (0.11961722488038277%)
+The New Indian Express: 1 (0.11961722488038277%)
+The Loppy: 1 (0.11961722488038277%)
+Newstalk ZB: 1 (0.11961722488038277%)
+The Mercury News: 1 (0.11961722488038277%)
+WKRG News 5: 1 (0.11961722488038277%)
+The Spokesman-Review: 1 (0.11961722488038277%)
+AS South Africa: 1 (0.11961722488038277%)
+New York Magazine: 1 (0.11961722488038277%)
+Appleton Post Crescent: 1 (0.11961722488038277%)
+FXStreet: 1 (0.11961722488038277%)
+Daily Record: 1 (0.11961722488038277%)
+India Gone Viral: 1 (0.11961722488038277%)
+Daily Sabah: 1 (0.11961722488038277%)
+Haaretz: 1 (0.11961722488038277%)
+The Dallas Morning News: 1 (0.11961722488038277%)
+Bulletin Mail: 1 (0.11961722488038277%)
+Washington Times: 1 (0.11961722488038277%)
+Stuff.co.nz: 1 (0.11961722488038277%)
+The New Republic: 1 (0.11961722488038277%)
+Politico: 1 (0.11961722488038277%)
+NPR: 1 (0.11961722488038277%)
+The Conversation US: 1 (0.11961722488038277%)
+Religion News Service: 1 (0.11961722488038277%)
+Slate: 1 (0.11961722488038277%)
+VOA News: 1 (0.11961722488038277%)
+Bangkok Post: 1 (0.11961722488038277%)
+Times Now: 1 (0.11961722488038277%)
+CBS Philly: 1 (0.11961722488038277%)
+Sydney Morning Herald: 1 (0.11961722488038277%)
+NME: 1 (0.11961722488038277%)
+Billboard: 1 (0.11961722488038277%)
+ThePrint: 1 (0.11961722488038277%)
+Times of India: 1 (0.11961722488038277%)
+WDIV ClickOnDetroit: 1 (0.11961722488038277%)
+The Times: 1 (0.11961722488038277%)
+New York Daily News: 1 (0.11961722488038277%)
+Brookings Institution: 1 (0.11961722488038277%)
+Tribune-Review: 1 (0.11961722488038277%)
+U.S. News & World Report: 1 (0.11961722488038277%)
+PennLive: 1 (0.11961722488038277%)
+Lowell Sun: 1 (0.11961722488038277%)
+KKTV 11 News: 1 (0.11961722488038277%)
+Philadelphia magazine: 1 (0.11961722488038277%)

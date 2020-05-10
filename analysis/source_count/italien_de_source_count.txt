@@ -1,106 +1,106 @@
-merkur.de: 30
-Süddeutsche Zeitung: 28
-Stol.it: 26
-ORF.at: 22
-FOCUS Online: 19
-Frankfurter Rundschau: 16
-Suedtirol News: 16
-FAZ - Frankfurter Allgemeine Zeitung: 14
-onvista: 13
-n-tv NACHRICHTEN: 12
-WELT: 12
-DER SPIEGEL: 11
-Vatican News: 10
-tagesschau.de: 9
-STERN.de: 9
-Deutschlandfunk: 8
-RTL Online: 8
-KURIER: 8
-Neue Zürcher Zeitung: 7
-domradio.de: 7
-Tagesspiegel: 6
-ZEIT ONLINE: 6
-Neues Volksblatt: 6
-Handelsblatt: 6
-RND: 6
-RP ONLINE: 5
-t-online.de: 5
-fr.de: 5
-RAN: 4
-Euronews: 4
-Oberösterreichisches Volksblatt: 4
-DW (Deutsch): 4
-F.A.Z. - Frankfurter Allgemeine Zeitung: 3
-Handelsblatt : 3
-Passauer Neue Presse: 3
-Wochenblatt.de: 3
-TAGESKARTE: 3
-oe24.at: 3
-Der Westen: 3
-watson: 3
-5 Minuten: 2
-taz.de: 2
-Telepolis: 2
-BR24: 2
-DAS INVESTMENT.com: 2
-ZDFheute: 2
-TRAVELBOOK: 2
-Merkur.de: 2
-hna.de: 2
-Berliner Zeitung: 2
-Salzburger Nachrichten: 2
-Deutschland Today: 2
-Augsburger Allgemeine: 2
-Kleine Zeitung: 2
-SÜDKURIER Online: 1
-Westdeutsche Zeitung: 1
- Cash: 1
-Nau.ch: 1
-owl24.de: 1
-Deutsches Ärzteblatt: 1
-futurezone.at: 1
-hpd.de: 1
-nachrichten.at: 1
-Zeitungsverlag Waiblingen: 1
-NDR.de: 1
-idowa: 1
-Sportbuzzer: 1
-Wiener Zeitung: 1
-DIE WELT: 1
-top agrar online: 1
-FIFA.com: 1
-Stuttgarter Zeitung: 1
-Die Presse: 1
-Kathpress: 1
-Hamburger Morgenpost: 1
-General-Anzeiger: 1
-Mühlacker Tagblatt: 1
-B.Z. Berlin: 1
-Braunschweiger Zeitung: 1
-unsertirol24: 1
-Krone.at: 1
-k.at: 1
-Schwäbische: 1
-sport.de: 1
-Main-Spitze: 1
-SPOX.com: 1
-Oberhessische Zeitung: 1
-LAOLA1.at: 1
-derStandard.de: 1
-Kreis-Anzeiger: 1
-Volksstimme: 1
-VOL.AT : 1
-Saarbrücker Zeitung: 1
-Abendzeitung: 1
-kicker: 1
-Bieler Tagblatt: 1
-Neues Ruhr-Wort: 1
-shz.de: 1
-Presseportal.de: 1
-lifepr.de: 1
-swp.de: 1
-SPORT1: 1
-Tages-Anzeiger: 1
-WirtschaftsWoche: 1
-Lippische Landes-Zeitung: 1
-finanzen.net: 1
+merkur.de: 30 (6.637168141592921%)
+Süddeutsche Zeitung: 28 (6.1946902654867255%)
+Stol.it: 26 (5.752212389380531%)
+ORF.at: 22 (4.867256637168142%)
+FOCUS Online: 19 (4.20353982300885%)
+Frankfurter Rundschau: 16 (3.5398230088495577%)
+Suedtirol News: 16 (3.5398230088495577%)
+FAZ - Frankfurter Allgemeine Zeitung: 14 (3.0973451327433628%)
+onvista: 13 (2.8761061946902653%)
+n-tv NACHRICHTEN: 12 (2.6548672566371683%)
+WELT: 12 (2.6548672566371683%)
+DER SPIEGEL: 11 (2.433628318584071%)
+Vatican News: 10 (2.2123893805309733%)
+tagesschau.de: 9 (1.991150442477876%)
+STERN.de: 9 (1.991150442477876%)
+Deutschlandfunk: 8 (1.7699115044247788%)
+RTL Online: 8 (1.7699115044247788%)
+KURIER: 8 (1.7699115044247788%)
+Neue Zürcher Zeitung: 7 (1.5486725663716814%)
+domradio.de: 7 (1.5486725663716814%)
+Tagesspiegel: 6 (1.3274336283185841%)
+ZEIT ONLINE: 6 (1.3274336283185841%)
+Neues Volksblatt: 6 (1.3274336283185841%)
+Handelsblatt: 6 (1.3274336283185841%)
+RND: 6 (1.3274336283185841%)
+RP ONLINE: 5 (1.1061946902654867%)
+t-online.de: 5 (1.1061946902654867%)
+fr.de: 5 (1.1061946902654867%)
+RAN: 4 (0.8849557522123894%)
+Euronews: 4 (0.8849557522123894%)
+Oberösterreichisches Volksblatt: 4 (0.8849557522123894%)
+DW (Deutsch): 4 (0.8849557522123894%)
+F.A.Z. - Frankfurter Allgemeine Zeitung: 3 (0.6637168141592921%)
+Handelsblatt : 3 (0.6637168141592921%)
+Passauer Neue Presse: 3 (0.6637168141592921%)
+Wochenblatt.de: 3 (0.6637168141592921%)
+TAGESKARTE: 3 (0.6637168141592921%)
+oe24.at: 3 (0.6637168141592921%)
+Der Westen: 3 (0.6637168141592921%)
+watson: 3 (0.6637168141592921%)
+5 Minuten: 2 (0.4424778761061947%)
+taz.de: 2 (0.4424778761061947%)
+Telepolis: 2 (0.4424778761061947%)
+BR24: 2 (0.4424778761061947%)
+DAS INVESTMENT.com: 2 (0.4424778761061947%)
+ZDFheute: 2 (0.4424778761061947%)
+TRAVELBOOK: 2 (0.4424778761061947%)
+Merkur.de: 2 (0.4424778761061947%)
+hna.de: 2 (0.4424778761061947%)
+Berliner Zeitung: 2 (0.4424778761061947%)
+Salzburger Nachrichten: 2 (0.4424778761061947%)
+Deutschland Today: 2 (0.4424778761061947%)
+Augsburger Allgemeine: 2 (0.4424778761061947%)
+Kleine Zeitung: 2 (0.4424778761061947%)
+SÜDKURIER Online: 1 (0.22123893805309736%)
+Westdeutsche Zeitung: 1 (0.22123893805309736%)
+ Cash: 1 (0.22123893805309736%)
+Nau.ch: 1 (0.22123893805309736%)
+owl24.de: 1 (0.22123893805309736%)
+Deutsches Ärzteblatt: 1 (0.22123893805309736%)
+futurezone.at: 1 (0.22123893805309736%)
+hpd.de: 1 (0.22123893805309736%)
+nachrichten.at: 1 (0.22123893805309736%)
+Zeitungsverlag Waiblingen: 1 (0.22123893805309736%)
+NDR.de: 1 (0.22123893805309736%)
+idowa: 1 (0.22123893805309736%)
+Sportbuzzer: 1 (0.22123893805309736%)
+Wiener Zeitung: 1 (0.22123893805309736%)
+DIE WELT: 1 (0.22123893805309736%)
+top agrar online: 1 (0.22123893805309736%)
+FIFA.com: 1 (0.22123893805309736%)
+Stuttgarter Zeitung: 1 (0.22123893805309736%)
+Die Presse: 1 (0.22123893805309736%)
+Kathpress: 1 (0.22123893805309736%)
+Hamburger Morgenpost: 1 (0.22123893805309736%)
+General-Anzeiger: 1 (0.22123893805309736%)
+Mühlacker Tagblatt: 1 (0.22123893805309736%)
+B.Z. Berlin: 1 (0.22123893805309736%)
+Braunschweiger Zeitung: 1 (0.22123893805309736%)
+unsertirol24: 1 (0.22123893805309736%)
+Krone.at: 1 (0.22123893805309736%)
+k.at: 1 (0.22123893805309736%)
+Schwäbische: 1 (0.22123893805309736%)
+sport.de: 1 (0.22123893805309736%)
+Main-Spitze: 1 (0.22123893805309736%)
+SPOX.com: 1 (0.22123893805309736%)
+Oberhessische Zeitung: 1 (0.22123893805309736%)
+LAOLA1.at: 1 (0.22123893805309736%)
+derStandard.de: 1 (0.22123893805309736%)
+Kreis-Anzeiger: 1 (0.22123893805309736%)
+Volksstimme: 1 (0.22123893805309736%)
+VOL.AT : 1 (0.22123893805309736%)
+Saarbrücker Zeitung: 1 (0.22123893805309736%)
+Abendzeitung: 1 (0.22123893805309736%)
+kicker: 1 (0.22123893805309736%)
+Bieler Tagblatt: 1 (0.22123893805309736%)
+Neues Ruhr-Wort: 1 (0.22123893805309736%)
+shz.de: 1 (0.22123893805309736%)
+Presseportal.de: 1 (0.22123893805309736%)
+lifepr.de: 1 (0.22123893805309736%)
+swp.de: 1 (0.22123893805309736%)
+SPORT1: 1 (0.22123893805309736%)
+Tages-Anzeiger: 1 (0.22123893805309736%)
+WirtschaftsWoche: 1 (0.22123893805309736%)
+Lippische Landes-Zeitung: 1 (0.22123893805309736%)
+finanzen.net: 1 (0.22123893805309736%)

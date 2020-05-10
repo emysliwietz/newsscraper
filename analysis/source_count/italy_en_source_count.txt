@@ -1,175 +1,175 @@
-The New York Times: 57
-BBC News: 50
-Bloomberg: 43
-The Guardian: 42
-Reuters: 30
-Daily Mail: 25
-Financial Times: 21
-Al Jazeera English: 19
-ABC News: 18
-Euronews: 18
-The Local Italy: 16
-Anadolu Agency: 16
-Telegraph.co.uk: 15
-Reuters UK: 14
-Forbes: 12
-Sky News: 11
-CNBC: 9
-DW (English): 8
-Express.co.uk: 8
-The Economist: 8
-TRT World: 7
-NPR: 7
-The Wall Street Journal: 6
-CNN: 6
-FRANCE 24 English: 6
-The Straits Times: 6
-Business Insider: 6
-The Sun: 6
-CNA: 6
-Aljazeera.com: 5
-The Loppy: 5
-The Hindu: 4
-RFI: 3
-INSIDER: 3
-Anadolu Ajansı: 3
-The Daily Beast: 3
-Fox News: 3
-Xinhua: 3
-EURACTIV: 3
-Express: 3
-U.S. News & World Report: 3
-CBC.ca: 3
-Los Angeles Times: 3
-Mirror Online: 3
-The Independent: 3
-NBCNews.com: 3
-CNBCTV18: 3
-The Washington Post: 3
-Times of India: 3
-The-Latest News: 2
-VOA News: 2
-Axios: 2
-The Irish Times: 2
-NewsClicks: 2
-Agenzia ANSA: 2
-artnet News: 2
-RTE.ie: 2
-inews: 2
-KIRO Seattle: 2
-The Associated Press: 2
-Livewire Markets: 2
-The Hill: 2
-nejm.org: 2
-The Brussels Times: 2
-Washington Post: 2
-The Newsopedia: 2
-FRANCE 24: 2
-Jakarta Post: 2
-Gulf News: 2
-ITV News: 2
-Sydney Morning Herald: 2
-News Info Park: 2
-Minneapolis Star Tribune: 2
-CMC Markets: 2
-The Times: 2
-Euro Weekly News: 2
-Variety: 2
-Football Italia: 1
-Politico: 1
-Vox.com: 1
-RFI English: 1
-Catholic Herald Online: 1
-The Drinks Business: 1
-dineshr: 1
-World Economic Forum: 1
-New York Post : 1
-National Post: 1
-Spectator.co.uk: 1
-GOV.UK: 1
-The Times of Israel: 1
-Post and Parcel: 1
-Yahoo Finance: 1
-NATO HQ: 1
-Edinburgh News: 1
-The Japan Times: 1
-Automotive News Europe: 1
-Lancashire Post: 1
-DER SPIEGEL: 1
-The Star Online: 1
-WSB Atlanta: 1
-The Statesman: 1
-24/7 Wall St.: 1
-WCVB Boston: 1
-Vatican News: 1
-wtkr.com: 1
-NW Evening Mail: 1
-TIME: 1
-India Today: 1
-MarketWatch: 1
-AS South Africa: 1
-ING Think: 1
-Trendinindia: 1
-The News International: 1
-New Statesman: 1
-FIFA.com: 1
-Fitch Ratings: 1
-Jamaica Observer: 1
-The Canberra Times: 1
-The Nation: 1
-SBS News: 1
-2oceansvibe News: 1
-Business Standard: 1
-The Globe and Mail: 1
-CBS News: 1
-Voice of America: 1
-WION: 1
-Metro.co.uk: 1
-Hertfordshire Mercury: 1
-Stars and Stripes: 1
-Imperial College London: 1
-European Council on Foreign Relations: 1
-Manchester City FC: 1
-Financial Post: 1
-Republic World: 1
-The Spirits Business: 1
-WKMG News 6 & ClickOrlando: 1
-WSAW: 1
-KTTC: 1
-ICIS: 1
-Firstpost: 1
-Open Democracy: 1
-India Gone Viral: 1
-CGTN: 1
-Cooling Post: 1
-Mumbai Mirror: 1
-The Tribune India: 1
-WCTI12.com: 1
-The Week (UK): 1
-Happytrips: 1
-WEAR: 1
-Irish Post: 1
-InfoMigrants: 1
-Morning Star Online: 1
-KVAL: 1
-Outlook India: 1
-nbcmontana.com: 1
-Kazinform: 1
-ThePrint: 1
-VentureBeat: 1
-Local Berkshire: 1
-The Tablet: 1
-HeraldScotland: 1
-Slate: 1
-GZERO Media: 1
-Daily Sabah: 1
-Politicopathy: 1
-Top Live News: 1
-Cumberland Times-News: 1
-Medical Xpress: 1
-WNWO NBC 24: 1
-WHTC News: 1
-Newsophilia: 1
-USA TODAY: 1
-The Philadelphia Inquirer: 1
-Newsweek: 1
+The New York Times: 57 (7.949790794979079%)
+BBC News: 50 (6.97350069735007%)
+Bloomberg: 43 (5.997210599721059%)
+The Guardian: 42 (5.857740585774058%)
+Reuters: 30 (4.184100418410042%)
+Daily Mail: 25 (3.486750348675035%)
+Financial Times: 21 (2.928870292887029%)
+Al Jazeera English: 19 (2.6499302649930265%)
+ABC News: 18 (2.510460251046025%)
+Euronews: 18 (2.510460251046025%)
+The Local Italy: 16 (2.2315202231520224%)
+Anadolu Agency: 16 (2.2315202231520224%)
+Telegraph.co.uk: 15 (2.092050209205021%)
+Reuters UK: 14 (1.9525801952580195%)
+Forbes: 12 (1.6736401673640167%)
+Sky News: 11 (1.5341701534170153%)
+CNBC: 9 (1.2552301255230125%)
+DW (English): 8 (1.1157601115760112%)
+Express.co.uk: 8 (1.1157601115760112%)
+The Economist: 8 (1.1157601115760112%)
+TRT World: 7 (0.9762900976290098%)
+NPR: 7 (0.9762900976290098%)
+The Wall Street Journal: 6 (0.8368200836820083%)
+CNN: 6 (0.8368200836820083%)
+FRANCE 24 English: 6 (0.8368200836820083%)
+The Straits Times: 6 (0.8368200836820083%)
+Business Insider: 6 (0.8368200836820083%)
+The Sun: 6 (0.8368200836820083%)
+CNA: 6 (0.8368200836820083%)
+Aljazeera.com: 5 (0.697350069735007%)
+The Loppy: 5 (0.697350069735007%)
+The Hindu: 4 (0.5578800557880056%)
+RFI: 3 (0.41841004184100417%)
+INSIDER: 3 (0.41841004184100417%)
+Anadolu Ajansı: 3 (0.41841004184100417%)
+The Daily Beast: 3 (0.41841004184100417%)
+Fox News: 3 (0.41841004184100417%)
+Xinhua: 3 (0.41841004184100417%)
+EURACTIV: 3 (0.41841004184100417%)
+Express: 3 (0.41841004184100417%)
+U.S. News & World Report: 3 (0.41841004184100417%)
+CBC.ca: 3 (0.41841004184100417%)
+Los Angeles Times: 3 (0.41841004184100417%)
+Mirror Online: 3 (0.41841004184100417%)
+The Independent: 3 (0.41841004184100417%)
+NBCNews.com: 3 (0.41841004184100417%)
+CNBCTV18: 3 (0.41841004184100417%)
+The Washington Post: 3 (0.41841004184100417%)
+Times of India: 3 (0.41841004184100417%)
+The-Latest News: 2 (0.2789400278940028%)
+VOA News: 2 (0.2789400278940028%)
+Axios: 2 (0.2789400278940028%)
+The Irish Times: 2 (0.2789400278940028%)
+NewsClicks: 2 (0.2789400278940028%)
+Agenzia ANSA: 2 (0.2789400278940028%)
+artnet News: 2 (0.2789400278940028%)
+RTE.ie: 2 (0.2789400278940028%)
+inews: 2 (0.2789400278940028%)
+KIRO Seattle: 2 (0.2789400278940028%)
+The Associated Press: 2 (0.2789400278940028%)
+Livewire Markets: 2 (0.2789400278940028%)
+The Hill: 2 (0.2789400278940028%)
+nejm.org: 2 (0.2789400278940028%)
+The Brussels Times: 2 (0.2789400278940028%)
+Washington Post: 2 (0.2789400278940028%)
+The Newsopedia: 2 (0.2789400278940028%)
+FRANCE 24: 2 (0.2789400278940028%)
+Jakarta Post: 2 (0.2789400278940028%)
+Gulf News: 2 (0.2789400278940028%)
+ITV News: 2 (0.2789400278940028%)
+Sydney Morning Herald: 2 (0.2789400278940028%)
+News Info Park: 2 (0.2789400278940028%)
+Minneapolis Star Tribune: 2 (0.2789400278940028%)
+CMC Markets: 2 (0.2789400278940028%)
+The Times: 2 (0.2789400278940028%)
+Euro Weekly News: 2 (0.2789400278940028%)
+Variety: 2 (0.2789400278940028%)
+Football Italia: 1 (0.1394700139470014%)
+Politico: 1 (0.1394700139470014%)
+Vox.com: 1 (0.1394700139470014%)
+RFI English: 1 (0.1394700139470014%)
+Catholic Herald Online: 1 (0.1394700139470014%)
+The Drinks Business: 1 (0.1394700139470014%)
+dineshr: 1 (0.1394700139470014%)
+World Economic Forum: 1 (0.1394700139470014%)
+New York Post : 1 (0.1394700139470014%)
+National Post: 1 (0.1394700139470014%)
+Spectator.co.uk: 1 (0.1394700139470014%)
+GOV.UK: 1 (0.1394700139470014%)
+The Times of Israel: 1 (0.1394700139470014%)
+Post and Parcel: 1 (0.1394700139470014%)
+Yahoo Finance: 1 (0.1394700139470014%)
+NATO HQ: 1 (0.1394700139470014%)
+Edinburgh News: 1 (0.1394700139470014%)
+The Japan Times: 1 (0.1394700139470014%)
+Automotive News Europe: 1 (0.1394700139470014%)
+Lancashire Post: 1 (0.1394700139470014%)
+DER SPIEGEL: 1 (0.1394700139470014%)
+The Star Online: 1 (0.1394700139470014%)
+WSB Atlanta: 1 (0.1394700139470014%)
+The Statesman: 1 (0.1394700139470014%)
+24/7 Wall St.: 1 (0.1394700139470014%)
+WCVB Boston: 1 (0.1394700139470014%)
+Vatican News: 1 (0.1394700139470014%)
+wtkr.com: 1 (0.1394700139470014%)
+NW Evening Mail: 1 (0.1394700139470014%)
+TIME: 1 (0.1394700139470014%)
+India Today: 1 (0.1394700139470014%)
+MarketWatch: 1 (0.1394700139470014%)
+AS South Africa: 1 (0.1394700139470014%)
+ING Think: 1 (0.1394700139470014%)
+Trendinindia: 1 (0.1394700139470014%)
+The News International: 1 (0.1394700139470014%)
+New Statesman: 1 (0.1394700139470014%)
+FIFA.com: 1 (0.1394700139470014%)
+Fitch Ratings: 1 (0.1394700139470014%)
+Jamaica Observer: 1 (0.1394700139470014%)
+The Canberra Times: 1 (0.1394700139470014%)
+The Nation: 1 (0.1394700139470014%)
+SBS News: 1 (0.1394700139470014%)
+2oceansvibe News: 1 (0.1394700139470014%)
+Business Standard: 1 (0.1394700139470014%)
+The Globe and Mail: 1 (0.1394700139470014%)
+CBS News: 1 (0.1394700139470014%)
+Voice of America: 1 (0.1394700139470014%)
+WION: 1 (0.1394700139470014%)
+Metro.co.uk: 1 (0.1394700139470014%)
+Hertfordshire Mercury: 1 (0.1394700139470014%)
+Stars and Stripes: 1 (0.1394700139470014%)
+Imperial College London: 1 (0.1394700139470014%)
+European Council on Foreign Relations: 1 (0.1394700139470014%)
+Manchester City FC: 1 (0.1394700139470014%)
+Financial Post: 1 (0.1394700139470014%)
+Republic World: 1 (0.1394700139470014%)
+The Spirits Business: 1 (0.1394700139470014%)
+WKMG News 6 & ClickOrlando: 1 (0.1394700139470014%)
+WSAW: 1 (0.1394700139470014%)
+KTTC: 1 (0.1394700139470014%)
+ICIS: 1 (0.1394700139470014%)
+Firstpost: 1 (0.1394700139470014%)
+Open Democracy: 1 (0.1394700139470014%)
+India Gone Viral: 1 (0.1394700139470014%)
+CGTN: 1 (0.1394700139470014%)
+Cooling Post: 1 (0.1394700139470014%)
+Mumbai Mirror: 1 (0.1394700139470014%)
+The Tribune India: 1 (0.1394700139470014%)
+WCTI12.com: 1 (0.1394700139470014%)
+The Week (UK): 1 (0.1394700139470014%)
+Happytrips: 1 (0.1394700139470014%)
+WEAR: 1 (0.1394700139470014%)
+Irish Post: 1 (0.1394700139470014%)
+InfoMigrants: 1 (0.1394700139470014%)
+Morning Star Online: 1 (0.1394700139470014%)
+KVAL: 1 (0.1394700139470014%)
+Outlook India: 1 (0.1394700139470014%)
+nbcmontana.com: 1 (0.1394700139470014%)
+Kazinform: 1 (0.1394700139470014%)
+ThePrint: 1 (0.1394700139470014%)
+VentureBeat: 1 (0.1394700139470014%)
+Local Berkshire: 1 (0.1394700139470014%)
+The Tablet: 1 (0.1394700139470014%)
+HeraldScotland: 1 (0.1394700139470014%)
+Slate: 1 (0.1394700139470014%)
+GZERO Media: 1 (0.1394700139470014%)
+Daily Sabah: 1 (0.1394700139470014%)
+Politicopathy: 1 (0.1394700139470014%)
+Top Live News: 1 (0.1394700139470014%)
+Cumberland Times-News: 1 (0.1394700139470014%)
+Medical Xpress: 1 (0.1394700139470014%)
+WNWO NBC 24: 1 (0.1394700139470014%)
+WHTC News: 1 (0.1394700139470014%)
+Newsophilia: 1 (0.1394700139470014%)
+USA TODAY: 1 (0.1394700139470014%)
+The Philadelphia Inquirer: 1 (0.1394700139470014%)
+Newsweek: 1 (0.1394700139470014%)

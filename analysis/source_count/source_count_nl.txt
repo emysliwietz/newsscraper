@@ -1,261 +1,261 @@
-AD.nl: 370
-NOS: 304
-NU.nl: 295
-Telegraaf.nl: 287
-RTL Nieuws: 208
-Volkskrant: 115
-Parool.nl: 99
-NRC: 86
-VRT NWS: 75
-De Stentor: 72
-Trouw: 68
-Omroep Brabant: 62
-Hartvannederland.nl: 58
-Het Laatste Nieuws: 58
-De Gelderlander: 53
-Dagblad van het Noorden: 50
-BD.nl: 40
-Nederlands Dagblad: 38
-Welingelichte Kringen: 38
-Omroep Gelderland: 34
-Leeuwarder Courant: 32
-Noordhollands Dagblad: 32
-De Limburger: 30
-Het Financieele Dagblad: 29
-De Dagelijkse Standaard: 27
-Eindhovens Dagblad: 25
-De Standaard: 24
-ThePostOnline: 24
-Het Nieuwsblad: 23
-Omroep West: 22
-BN DeStem: 22
-ICT&health.nl: 22
-De Tijd: 22
-Zeelandnet Nieuws: 22
-RTV Noord: 20
-De Morgen: 19
-Nieuws en sport uit Limburg: 19
-AT5: 19
-NH Nieuws: 18
-RTV Oost: 17
-Transport Online: 16
-Datanews: 16
-RTV Rijnmond: 15
-Boerderij: 15
-Metronieuws.nl: 15
-Telecompaper: 15
-Rijksoverheid.nl: 14
-Joop: 14
-wnl.tv: 14
-Geenstijl.nl: 13
-Bright.nl: 13
-Elsevier Weekblad: 13
-Reformatorisch Dagblad: 13
-Knack.be: 13
-BNR Nieuwsradio: 12
-NPO Radio 1: 12
-Security.nl: 11
-LINDA.: 10
-RTV Utrecht: 9
-Omroep Zeeland: 9
-Binnenlandsbestuur: 9
-ANWB: 9
-RTL Z: 9
-112 Groningen: 9
-Gazet van Antwerpen: 7
-Nieuwe Oogst: 7
-AG Connect: 7
-Tubantia: 7
-RTV Drenthe: 7
-Amstelveenz.nl: 6
-De Utrechtse Internet Courant: 6
-Emerce: 6
-DeOndernemer.nl: 6
-RTL Boulevard: 6
-Tweakers: 6
-Bladna.nl: 6
-Gids.tv: 6
-Crimesite: 6
-Politie: 6
-Plusonline: 5
-SpanjeVandaag: 5
-Blik op nieuws: 5
-Androidworld: 5
-InSpanje.nl: 5
-Business Insider: 5
-Dolcevia.com: 5
-EenVandaag: 5
-Omroep Flevoland: 4
-Oog TV: 4
-Dutch IT-channel: 4
-SCEPTR: 4
-Boerenbusiness.nl: 4
-Vakblad voor de Bloemisterij: 4
-VTBL: 4
-Ajax Showtime: 4
-FCUpdate mobiel: 4
-De Telegraaf: 4
-Panorama: 3
-Alkmaar Centraal: 3
-indebuurt: 3
-DIA-Duitslandweb: 3
-RTV Focus Zwolle: 3
-Friesch Dagblad: 3
-Medisch Contact: 3
-ZwolleNu: 3
-Want: 3
-Accountant.nl: 3
-AGF.nl: 3
-Het Belang van Limburg: 3
-Omrop Fryslan: 3
-Ditjes en Datjes: 3
-iCulture: 3
-Accountancy Vanmorgen: 3
-GelreNieuws: 3
-De Kaap: 3
-WNL: 3
-Alphens.nl: 3
-quotenet.nl: 3
-VoetbalPrimeur.nl: 2
-Barneveldse Krant: 2
-| SpanjeVandaag: 2
-Mashable NL: 2
-iGO.nl Nieuws Goeree Overflakkee: 2
-TaxiPro.nl: 2
-OVPro.nl: 2
-oosterhout.nieuws.nl: 2
-HCNieuws: 2
-GPfans: 2
-Festileaks: 2
-Medical facts: 2
-DeWereldMorgen.be: 2
-Nationale Zorggids: 2
-Sittard-Geleen.nieuws.nl: 2
-Autoblog.nl: 2
-Melkvee: 2
-Financieel management: 2
-Automobiel Management: 2
-CIDI: 2
-Voetbal International: 2
-Sportnieuws.nl: 2
-MotorsportZ: 2
-Luchtvaartnieuws.nl: 2
-Eos Wetenschap: 2
-De Groene Amsterdammer: 2
-One More Thing: 2
-TechPulse: 2
-Marketingfacts: 2
-Computable: 2
-CMweb - Controllers Magazine: 2
-FOK!: 2
-TaxLive: 2
-Nieuws.nl: 2
-HVZeeland.nl: 2
-DeDrontenaar.nl: 2
-Blauw Bloed: 2
-SIRIS.nl: 2
-Sneeker Nieuwsblad: 1
-Scientias.nl: 1
-inct: 1
-TTM.nl: 1
-Sprout: 1
-Hollands Kroon Actueel: 1
-de Tielenaar: 1
-Medemblik Actueel: 1
-Gawalo: 1
-Regio Purmerend: 1
-Eemskrant: 1
-Zorgkrant: 1
-De Nieuwkoper: 1
-DMG Deurne: 1
-Suriname Herald: 1
-SerieTotaal: 1
-Oor: 1
-Skipr: 1
-VPNgids: 1
-Duurzaamnieuws.nl: 1
-NPO 3FM: 1
-Vakblad fondsenwerving: 1
-MarketingTribune: 1
-newsmonkey: 1
-CustomerFirst: 1
-Entertainment Business: 1
-DroidApp: 1
-Hrpraktijk: 1
-GPToday.net: 1
-DutchCowboys: 1
-FilmTotaal: 1
-Vertigo: 1
-HP/De Tijd: 1
-Newsbit.nl: 1
-Pig Business: 1
-Twinkle: 1
-Nieuwsuur: 1
-Computable.be: 1
-NieuwsbladTransport.nl: 1
-Follow the Money: 1
-Nieuwsbureau Energeia: 1
-Horses.nl: 1
-H2O Waternetwerk: 1
-Circusweb: 1
-Buitenhof: 1
-Up in the Sky: 1
-Zakenreis: 1
-TravelPro: 1
-Landbouwleven: 1
-Independent Website Tilburg University: 1
-Villamedia: 1
-Advocatie: 1
-Zakelijk Dagblad: 1
-Vilt: 1
-Techzine.be: 1
-joods.nl: 1
-Sportgeschiedenis: 1
-Bestelauto.nl: 1
-Racexpress: 1
-Koerdisch Nieuws: 1
-IJmuider Courant: 1
-CorsaItalia Magazine: 1
-Wielerflits: 1
-Cobouw: 1
-VoetbalPrimeur.be: 1
-Arnhemse Koerier: 1
-WeesperNieuws: 1
-Test-Aankoop.be: 1
-Consultancy.nl: 1
-Nursing. Platform voor verpleegkundigen: 1
-bright.nl: 1
-DuurzaamBedrijfsleven.nl: 1
-Consumentenbond: 1
-MAX Vandaag: 1
-HetKompasHardinxveld-Giessendam.nl: 1
-XGN.nl: 1
-Techzine.nl: 1
-LekkerCryptisch: 1
-iPhoned.nl: 1
-Innovation Origins NL: 1
-Mr. Online: 1
-TNO: 1
-Vastgoedmarkt: 1
-Executive Finance: 1
-Service Management: 1
-TV Valkenburg: 1
-Kijk op Castricum: 1
-DeStadAmersfoort.nl: 1
-Breda nieuws: 1
-Waldnet: 1
-Kinderopvangtotaal: 1
-Opgelicht?!: 1
-112Arnhem: 1
-WOS.nl: 1
-Groninger Internet Courant: 1
-Historiek.net: 1
-telegraaf.nl: 1
-nos.nl: 1
-Horses: 1
-RTV Purmerend: 1
-DenHaagTV: 1
-Alles over Katwijk: 1
-Metro België: 1
-Unity Nu: 1
-UMC Utrecht: 1
+AD.nl: 370 (10.263522884882107%)
+NOS: 304 (8.432732316227462%)
+NU.nl: 295 (8.183079056865465%)
+Telegraaf.nl: 287 (7.961165048543689%)
+RTL Nieuws: 208 (5.769764216366157%)
+Volkskrant: 115 (3.19001386962552%)
+Parool.nl: 99 (2.746185852981969%)
+NRC: 86 (2.3855755894590844%)
+VRT NWS: 75 (2.0804438280166435%)
+De Stentor: 72 (1.9972260748959778%)
+Trouw: 68 (1.8862690707350902%)
+Omroep Brabant: 62 (1.7198335644937588%)
+Hartvannederland.nl: 58 (1.6088765603328712%)
+Het Laatste Nieuws: 58 (1.6088765603328712%)
+De Gelderlander: 53 (1.4701803051317615%)
+Dagblad van het Noorden: 50 (1.3869625520110958%)
+BD.nl: 40 (1.1095700416088765%)
+Nederlands Dagblad: 38 (1.0540915395284327%)
+Welingelichte Kringen: 38 (1.0540915395284327%)
+Omroep Gelderland: 34 (0.9431345353675451%)
+Leeuwarder Courant: 32 (0.8876560332871012%)
+Noordhollands Dagblad: 32 (0.8876560332871012%)
+De Limburger: 30 (0.8321775312066574%)
+Het Financieele Dagblad: 29 (0.8044382801664356%)
+De Dagelijkse Standaard: 27 (0.7489597780859917%)
+Eindhovens Dagblad: 25 (0.6934812760055479%)
+De Standaard: 24 (0.665742024965326%)
+ThePostOnline: 24 (0.665742024965326%)
+Het Nieuwsblad: 23 (0.6380027739251041%)
+Omroep West: 22 (0.6102635228848822%)
+BN DeStem: 22 (0.6102635228848822%)
+ICT&health.nl: 22 (0.6102635228848822%)
+De Tijd: 22 (0.6102635228848822%)
+Zeelandnet Nieuws: 22 (0.6102635228848822%)
+RTV Noord: 20 (0.5547850208044383%)
+De Morgen: 19 (0.5270457697642164%)
+Nieuws en sport uit Limburg: 19 (0.5270457697642164%)
+AT5: 19 (0.5270457697642164%)
+NH Nieuws: 18 (0.49930651872399445%)
+RTV Oost: 17 (0.47156726768377255%)
+Transport Online: 16 (0.4438280166435506%)
+Datanews: 16 (0.4438280166435506%)
+RTV Rijnmond: 15 (0.4160887656033287%)
+Boerderij: 15 (0.4160887656033287%)
+Metronieuws.nl: 15 (0.4160887656033287%)
+Telecompaper: 15 (0.4160887656033287%)
+Rijksoverheid.nl: 14 (0.3883495145631068%)
+Joop: 14 (0.3883495145631068%)
+wnl.tv: 14 (0.3883495145631068%)
+Geenstijl.nl: 13 (0.36061026352288483%)
+Bright.nl: 13 (0.36061026352288483%)
+Elsevier Weekblad: 13 (0.36061026352288483%)
+Reformatorisch Dagblad: 13 (0.36061026352288483%)
+Knack.be: 13 (0.36061026352288483%)
+BNR Nieuwsradio: 12 (0.332871012482663%)
+NPO Radio 1: 12 (0.332871012482663%)
+Security.nl: 11 (0.3051317614424411%)
+LINDA.: 10 (0.27739251040221913%)
+RTV Utrecht: 9 (0.24965325936199723%)
+Omroep Zeeland: 9 (0.24965325936199723%)
+Binnenlandsbestuur: 9 (0.24965325936199723%)
+ANWB: 9 (0.24965325936199723%)
+RTL Z: 9 (0.24965325936199723%)
+112 Groningen: 9 (0.24965325936199723%)
+Gazet van Antwerpen: 7 (0.1941747572815534%)
+Nieuwe Oogst: 7 (0.1941747572815534%)
+AG Connect: 7 (0.1941747572815534%)
+Tubantia: 7 (0.1941747572815534%)
+RTV Drenthe: 7 (0.1941747572815534%)
+Amstelveenz.nl: 6 (0.1664355062413315%)
+De Utrechtse Internet Courant: 6 (0.1664355062413315%)
+Emerce: 6 (0.1664355062413315%)
+DeOndernemer.nl: 6 (0.1664355062413315%)
+RTL Boulevard: 6 (0.1664355062413315%)
+Tweakers: 6 (0.1664355062413315%)
+Bladna.nl: 6 (0.1664355062413315%)
+Gids.tv: 6 (0.1664355062413315%)
+Crimesite: 6 (0.1664355062413315%)
+Politie: 6 (0.1664355062413315%)
+Plusonline: 5 (0.13869625520110956%)
+SpanjeVandaag: 5 (0.13869625520110956%)
+Blik op nieuws: 5 (0.13869625520110956%)
+Androidworld: 5 (0.13869625520110956%)
+InSpanje.nl: 5 (0.13869625520110956%)
+Business Insider: 5 (0.13869625520110956%)
+Dolcevia.com: 5 (0.13869625520110956%)
+EenVandaag: 5 (0.13869625520110956%)
+Omroep Flevoland: 4 (0.11095700416088765%)
+Oog TV: 4 (0.11095700416088765%)
+Dutch IT-channel: 4 (0.11095700416088765%)
+SCEPTR: 4 (0.11095700416088765%)
+Boerenbusiness.nl: 4 (0.11095700416088765%)
+Vakblad voor de Bloemisterij: 4 (0.11095700416088765%)
+VTBL: 4 (0.11095700416088765%)
+Ajax Showtime: 4 (0.11095700416088765%)
+FCUpdate mobiel: 4 (0.11095700416088765%)
+De Telegraaf: 4 (0.11095700416088765%)
+Panorama: 3 (0.08321775312066575%)
+Alkmaar Centraal: 3 (0.08321775312066575%)
+indebuurt: 3 (0.08321775312066575%)
+DIA-Duitslandweb: 3 (0.08321775312066575%)
+RTV Focus Zwolle: 3 (0.08321775312066575%)
+Friesch Dagblad: 3 (0.08321775312066575%)
+Medisch Contact: 3 (0.08321775312066575%)
+ZwolleNu: 3 (0.08321775312066575%)
+Want: 3 (0.08321775312066575%)
+Accountant.nl: 3 (0.08321775312066575%)
+AGF.nl: 3 (0.08321775312066575%)
+Het Belang van Limburg: 3 (0.08321775312066575%)
+Omrop Fryslan: 3 (0.08321775312066575%)
+Ditjes en Datjes: 3 (0.08321775312066575%)
+iCulture: 3 (0.08321775312066575%)
+Accountancy Vanmorgen: 3 (0.08321775312066575%)
+GelreNieuws: 3 (0.08321775312066575%)
+De Kaap: 3 (0.08321775312066575%)
+WNL: 3 (0.08321775312066575%)
+Alphens.nl: 3 (0.08321775312066575%)
+quotenet.nl: 3 (0.08321775312066575%)
+VoetbalPrimeur.nl: 2 (0.055478502080443824%)
+Barneveldse Krant: 2 (0.055478502080443824%)
+| SpanjeVandaag: 2 (0.055478502080443824%)
+Mashable NL: 2 (0.055478502080443824%)
+iGO.nl Nieuws Goeree Overflakkee: 2 (0.055478502080443824%)
+TaxiPro.nl: 2 (0.055478502080443824%)
+OVPro.nl: 2 (0.055478502080443824%)
+oosterhout.nieuws.nl: 2 (0.055478502080443824%)
+HCNieuws: 2 (0.055478502080443824%)
+GPfans: 2 (0.055478502080443824%)
+Festileaks: 2 (0.055478502080443824%)
+Medical facts: 2 (0.055478502080443824%)
+DeWereldMorgen.be: 2 (0.055478502080443824%)
+Nationale Zorggids: 2 (0.055478502080443824%)
+Sittard-Geleen.nieuws.nl: 2 (0.055478502080443824%)
+Autoblog.nl: 2 (0.055478502080443824%)
+Melkvee: 2 (0.055478502080443824%)
+Financieel management: 2 (0.055478502080443824%)
+Automobiel Management: 2 (0.055478502080443824%)
+CIDI: 2 (0.055478502080443824%)
+Voetbal International: 2 (0.055478502080443824%)
+Sportnieuws.nl: 2 (0.055478502080443824%)
+MotorsportZ: 2 (0.055478502080443824%)
+Luchtvaartnieuws.nl: 2 (0.055478502080443824%)
+Eos Wetenschap: 2 (0.055478502080443824%)
+De Groene Amsterdammer: 2 (0.055478502080443824%)
+One More Thing: 2 (0.055478502080443824%)
+TechPulse: 2 (0.055478502080443824%)
+Marketingfacts: 2 (0.055478502080443824%)
+Computable: 2 (0.055478502080443824%)
+CMweb - Controllers Magazine: 2 (0.055478502080443824%)
+FOK!: 2 (0.055478502080443824%)
+TaxLive: 2 (0.055478502080443824%)
+Nieuws.nl: 2 (0.055478502080443824%)
+HVZeeland.nl: 2 (0.055478502080443824%)
+DeDrontenaar.nl: 2 (0.055478502080443824%)
+Blauw Bloed: 2 (0.055478502080443824%)
+SIRIS.nl: 2 (0.055478502080443824%)
+Sneeker Nieuwsblad: 1 (0.027739251040221912%)
+Scientias.nl: 1 (0.027739251040221912%)
+inct: 1 (0.027739251040221912%)
+TTM.nl: 1 (0.027739251040221912%)
+Sprout: 1 (0.027739251040221912%)
+Hollands Kroon Actueel: 1 (0.027739251040221912%)
+de Tielenaar: 1 (0.027739251040221912%)
+Medemblik Actueel: 1 (0.027739251040221912%)
+Gawalo: 1 (0.027739251040221912%)
+Regio Purmerend: 1 (0.027739251040221912%)
+Eemskrant: 1 (0.027739251040221912%)
+Zorgkrant: 1 (0.027739251040221912%)
+De Nieuwkoper: 1 (0.027739251040221912%)
+DMG Deurne: 1 (0.027739251040221912%)
+Suriname Herald: 1 (0.027739251040221912%)
+SerieTotaal: 1 (0.027739251040221912%)
+Oor: 1 (0.027739251040221912%)
+Skipr: 1 (0.027739251040221912%)
+VPNgids: 1 (0.027739251040221912%)
+Duurzaamnieuws.nl: 1 (0.027739251040221912%)
+NPO 3FM: 1 (0.027739251040221912%)
+Vakblad fondsenwerving: 1 (0.027739251040221912%)
+MarketingTribune: 1 (0.027739251040221912%)
+newsmonkey: 1 (0.027739251040221912%)
+CustomerFirst: 1 (0.027739251040221912%)
+Entertainment Business: 1 (0.027739251040221912%)
+DroidApp: 1 (0.027739251040221912%)
+Hrpraktijk: 1 (0.027739251040221912%)
+GPToday.net: 1 (0.027739251040221912%)
+DutchCowboys: 1 (0.027739251040221912%)
+FilmTotaal: 1 (0.027739251040221912%)
+Vertigo: 1 (0.027739251040221912%)
+HP/De Tijd: 1 (0.027739251040221912%)
+Newsbit.nl: 1 (0.027739251040221912%)
+Pig Business: 1 (0.027739251040221912%)
+Twinkle: 1 (0.027739251040221912%)
+Nieuwsuur: 1 (0.027739251040221912%)
+Computable.be: 1 (0.027739251040221912%)
+NieuwsbladTransport.nl: 1 (0.027739251040221912%)
+Follow the Money: 1 (0.027739251040221912%)
+Nieuwsbureau Energeia: 1 (0.027739251040221912%)
+Horses.nl: 1 (0.027739251040221912%)
+H2O Waternetwerk: 1 (0.027739251040221912%)
+Circusweb: 1 (0.027739251040221912%)
+Buitenhof: 1 (0.027739251040221912%)
+Up in the Sky: 1 (0.027739251040221912%)
+Zakenreis: 1 (0.027739251040221912%)
+TravelPro: 1 (0.027739251040221912%)
+Landbouwleven: 1 (0.027739251040221912%)
+Independent Website Tilburg University: 1 (0.027739251040221912%)
+Villamedia: 1 (0.027739251040221912%)
+Advocatie: 1 (0.027739251040221912%)
+Zakelijk Dagblad: 1 (0.027739251040221912%)
+Vilt: 1 (0.027739251040221912%)
+Techzine.be: 1 (0.027739251040221912%)
+joods.nl: 1 (0.027739251040221912%)
+Sportgeschiedenis: 1 (0.027739251040221912%)
+Bestelauto.nl: 1 (0.027739251040221912%)
+Racexpress: 1 (0.027739251040221912%)
+Koerdisch Nieuws: 1 (0.027739251040221912%)
+IJmuider Courant: 1 (0.027739251040221912%)
+CorsaItalia Magazine: 1 (0.027739251040221912%)
+Wielerflits: 1 (0.027739251040221912%)
+Cobouw: 1 (0.027739251040221912%)
+VoetbalPrimeur.be: 1 (0.027739251040221912%)
+Arnhemse Koerier: 1 (0.027739251040221912%)
+WeesperNieuws: 1 (0.027739251040221912%)
+Test-Aankoop.be: 1 (0.027739251040221912%)
+Consultancy.nl: 1 (0.027739251040221912%)
+Nursing. Platform voor verpleegkundigen: 1 (0.027739251040221912%)
+bright.nl: 1 (0.027739251040221912%)
+DuurzaamBedrijfsleven.nl: 1 (0.027739251040221912%)
+Consumentenbond: 1 (0.027739251040221912%)
+MAX Vandaag: 1 (0.027739251040221912%)
+HetKompasHardinxveld-Giessendam.nl: 1 (0.027739251040221912%)
+XGN.nl: 1 (0.027739251040221912%)
+Techzine.nl: 1 (0.027739251040221912%)
+LekkerCryptisch: 1 (0.027739251040221912%)
+iPhoned.nl: 1 (0.027739251040221912%)
+Innovation Origins NL: 1 (0.027739251040221912%)
+Mr. Online: 1 (0.027739251040221912%)
+TNO: 1 (0.027739251040221912%)
+Vastgoedmarkt: 1 (0.027739251040221912%)
+Executive Finance: 1 (0.027739251040221912%)
+Service Management: 1 (0.027739251040221912%)
+TV Valkenburg: 1 (0.027739251040221912%)
+Kijk op Castricum: 1 (0.027739251040221912%)
+DeStadAmersfoort.nl: 1 (0.027739251040221912%)
+Breda nieuws: 1 (0.027739251040221912%)
+Waldnet: 1 (0.027739251040221912%)
+Kinderopvangtotaal: 1 (0.027739251040221912%)
+Opgelicht?!: 1 (0.027739251040221912%)
+112Arnhem: 1 (0.027739251040221912%)
+WOS.nl: 1 (0.027739251040221912%)
+Groninger Internet Courant: 1 (0.027739251040221912%)
+Historiek.net: 1 (0.027739251040221912%)
+telegraaf.nl: 1 (0.027739251040221912%)
+nos.nl: 1 (0.027739251040221912%)
+Horses: 1 (0.027739251040221912%)
+RTV Purmerend: 1 (0.027739251040221912%)
+DenHaagTV: 1 (0.027739251040221912%)
+Alles over Katwijk: 1 (0.027739251040221912%)
+Metro België: 1 (0.027739251040221912%)
+Unity Nu: 1 (0.027739251040221912%)
+UMC Utrecht: 1 (0.027739251040221912%)

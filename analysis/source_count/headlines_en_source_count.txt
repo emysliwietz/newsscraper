@@ -1,97 +1,97 @@
-BBC News: 281
-The Guardian: 244
-Daily Mail: 180
-The Sun: 144
-Mirror Online: 139
-Sky News: 122
-The Independent: 89
-Express: 72
-Metro.co.uk: 71
-Telegraph.co.uk: 67
-Evening Standard: 61
-ITV News: 54
-The Telegraph: 51
-BBC South East Wales: 48
-Financial Times: 37
-Express.co.uk: 32
-The Times: 29
-Manchester Evening News: 27
-Guardian News: 26
-The New York Times: 17
-Wales Online: 15
-Daily Record: 14
-The Washington Post: 14
-The Scotsman: 11
-Al Jazeera English: 11
-The Loppy: 11
-Fox News: 11
-inews: 10
-CNN: 7
-BBC: 7
-WalesOnline: 5
-NBC News: 4
-Mirror.co.uk: 4
-Devon Live: 4
-Liverpool Echo: 4
-HuffPost UK: 3
-Belfast Telegraph: 3
-Washington Post: 3
-News Info Park: 3
-India Gone Viral: 3
-Newsweek: 3
-Leicestershire Live: 3
-Edinburgh News: 3
-Essex Live: 2
-NDTV News: 2
-Daily Star: 2
-Chard & Ilminster News: 2
-NBCNews.com: 2
-Cornwall Live: 2
-Chronicle Live: 2
-NEWS.com.au: 2
-Birmingham Live: 2
-Sky Sports: 2
-Harrow Times: 1
-Business Insider: 1
-Reuters UK: 1
-The Age: 1
-East London and West Essex Guardian Series: 1
-Newham Recorder: 1
-Spire FM: 1
-The London Economic: 1
-This Morning: 1
-TIME: 1
-Worksop Guardian: 1
-WABC-TV: 1
-News 12 Bronx: 1
-USA TODAY: 1
-Gadgets 360: 1
-NDTV: 1
-The Bolton News: 1
-York Press: 1
-letsrecycle.com: 1
-AOL UK: 1
-PoliticsHome.com: 1
-Swindon Advertiser: 1
-Spectator.co.uk: 1
-CNA: 1
-AOL Travel UK: 1
-World Socialist Web Site: 1
-Daily Echo: 1
-Yorkshire Evening Post: 1
-Gloucestershire Live: 1
-Cheshire Live: 1
-HeraldScotland: 1
-Channel 4 News: 1
-BBC Newsnight: 1
-FOX 29 News Philadelphia: 1
-Euro Weekly News: 1
-Smash Newz: 1
-Runner's World (UK): 1
-Wirral Globe: 1
-BBC Sport: 1
-Football365.com: 1
-NewsClicks: 1
-Scotland on Sunday: 1
-indy100: 1
-Plymouth Live: 1
+BBC News: 281 (13.95926477893691%)
+The Guardian: 244 (12.121212121212121%)
+Daily Mail: 180 (8.941877794336811%)
+The Sun: 144 (7.153502235469449%)
+Mirror Online: 139 (6.905116741182315%)
+Sky News: 122 (6.0606060606060606%)
+The Independent: 89 (4.4212617983109785%)
+Express: 72 (3.5767511177347244%)
+Metro.co.uk: 71 (3.5270740188772978%)
+Telegraph.co.uk: 67 (3.3283656234475907%)
+Evening Standard: 61 (3.0303030303030303%)
+ITV News: 54 (2.682563338301043%)
+The Telegraph: 51 (2.533532041728763%)
+BBC South East Wales: 48 (2.384500745156483%)
+Financial Times: 37 (1.8380526577247889%)
+Express.co.uk: 32 (1.5896671634376554%)
+The Times: 29 (1.4406358668653751%)
+Manchester Evening News: 27 (1.3412816691505216%)
+Guardian News: 26 (1.291604570293095%)
+The New York Times: 17 (0.8445106805762544%)
+Wales Online: 15 (0.7451564828614009%)
+Daily Record: 14 (0.6954793840039741%)
+The Washington Post: 14 (0.6954793840039741%)
+The Scotsman: 11 (0.546448087431694%)
+Al Jazeera English: 11 (0.546448087431694%)
+The Loppy: 11 (0.546448087431694%)
+Fox News: 11 (0.546448087431694%)
+inews: 10 (0.49677098857426727%)
+CNN: 7 (0.34773969200198707%)
+BBC: 7 (0.34773969200198707%)
+WalesOnline: 5 (0.24838549428713363%)
+NBC News: 4 (0.19870839542970692%)
+Mirror.co.uk: 4 (0.19870839542970692%)
+Devon Live: 4 (0.19870839542970692%)
+Liverpool Echo: 4 (0.19870839542970692%)
+HuffPost UK: 3 (0.14903129657228018%)
+Belfast Telegraph: 3 (0.14903129657228018%)
+Washington Post: 3 (0.14903129657228018%)
+News Info Park: 3 (0.14903129657228018%)
+India Gone Viral: 3 (0.14903129657228018%)
+Newsweek: 3 (0.14903129657228018%)
+Leicestershire Live: 3 (0.14903129657228018%)
+Edinburgh News: 3 (0.14903129657228018%)
+Essex Live: 2 (0.09935419771485346%)
+NDTV News: 2 (0.09935419771485346%)
+Daily Star: 2 (0.09935419771485346%)
+Chard & Ilminster News: 2 (0.09935419771485346%)
+NBCNews.com: 2 (0.09935419771485346%)
+Cornwall Live: 2 (0.09935419771485346%)
+Chronicle Live: 2 (0.09935419771485346%)
+NEWS.com.au: 2 (0.09935419771485346%)
+Birmingham Live: 2 (0.09935419771485346%)
+Sky Sports: 2 (0.09935419771485346%)
+Harrow Times: 1 (0.04967709885742673%)
+Business Insider: 1 (0.04967709885742673%)
+Reuters UK: 1 (0.04967709885742673%)
+The Age: 1 (0.04967709885742673%)
+East London and West Essex Guardian Series: 1 (0.04967709885742673%)
+Newham Recorder: 1 (0.04967709885742673%)
+Spire FM: 1 (0.04967709885742673%)
+The London Economic: 1 (0.04967709885742673%)
+This Morning: 1 (0.04967709885742673%)
+TIME: 1 (0.04967709885742673%)
+Worksop Guardian: 1 (0.04967709885742673%)
+WABC-TV: 1 (0.04967709885742673%)
+News 12 Bronx: 1 (0.04967709885742673%)
+USA TODAY: 1 (0.04967709885742673%)
+Gadgets 360: 1 (0.04967709885742673%)
+NDTV: 1 (0.04967709885742673%)
+The Bolton News: 1 (0.04967709885742673%)
+York Press: 1 (0.04967709885742673%)
+letsrecycle.com: 1 (0.04967709885742673%)
+AOL UK: 1 (0.04967709885742673%)
+PoliticsHome.com: 1 (0.04967709885742673%)
+Swindon Advertiser: 1 (0.04967709885742673%)
+Spectator.co.uk: 1 (0.04967709885742673%)
+CNA: 1 (0.04967709885742673%)
+AOL Travel UK: 1 (0.04967709885742673%)
+World Socialist Web Site: 1 (0.04967709885742673%)
+Daily Echo: 1 (0.04967709885742673%)
+Yorkshire Evening Post: 1 (0.04967709885742673%)
+Gloucestershire Live: 1 (0.04967709885742673%)
+Cheshire Live: 1 (0.04967709885742673%)
+HeraldScotland: 1 (0.04967709885742673%)
+Channel 4 News: 1 (0.04967709885742673%)
+BBC Newsnight: 1 (0.04967709885742673%)
+FOX 29 News Philadelphia: 1 (0.04967709885742673%)
+Euro Weekly News: 1 (0.04967709885742673%)
+Smash Newz: 1 (0.04967709885742673%)
+Runner's World (UK): 1 (0.04967709885742673%)
+Wirral Globe: 1 (0.04967709885742673%)
+BBC Sport: 1 (0.04967709885742673%)
+Football365.com: 1 (0.04967709885742673%)
+NewsClicks: 1 (0.04967709885742673%)
+Scotland on Sunday: 1 (0.04967709885742673%)
+indy100: 1 (0.04967709885742673%)
+Plymouth Live: 1 (0.04967709885742673%)

@@ -1,70 +1,70 @@
-NOS: 55
-RTL Nieuws: 39
-Hartvannederland.nl: 19
-Telegraaf.nl: 18
-NU.nl: 17
-VRT NWS: 16
-AD.nl: 13
-ANWB: 9
-Dagblad van het Noorden: 8
-Rijksoverheid.nl: 7
-Omroep Brabant: 7
-Volkskrant: 6
-Omroep West: 6
-NRC: 5
-RTV Utrecht: 5
-Amstelveenz.nl: 4
-Plusonline: 4
-NH Nieuws: 4
-Blik op nieuws: 4
-RTV Oost: 3
-Parool.nl: 3
-Binnenlandsbestuur: 3
-RTV Rijnmond: 3
-De Utrechtse Internet Courant: 2
-VoetbalPrimeur.nl: 2
-BD.nl: 2
-Panorama: 2
-Het Laatste Nieuws: 2
-Alkmaar Centraal: 2
-Oog TV: 2
-RTV Noord: 2
-DIA-Duitslandweb: 2
-iGO.nl Nieuws Goeree Overflakkee: 2
-HCNieuws: 2
-Trouw: 1
-Barneveldse Krant: 1
-Eindhovens Dagblad: 1
-Sneeker Nieuwsblad: 1
-| SpanjeVandaag: 1
-SpanjeVandaag: 1
-Scientias.nl: 1
-Emerce: 1
-inct: 1
-Omroep Zeeland: 1
-TTM.nl: 1
-Nederlands Dagblad: 1
-Omroep Flevoland: 1
-Sprout: 1
-De Morgen: 1
-Hollands Kroon Actueel: 1
-BN DeStem: 1
-De Gelderlander: 1
-De Limburger: 1
-Mashable NL: 1
-indebuurt: 1
-de Tielenaar: 1
-Medemblik Actueel: 1
-Gawalo: 1
-Regio Purmerend: 1
-DeOndernemer.nl: 1
-TaxiPro.nl: 1
-OVPro.nl: 1
-oosterhout.nieuws.nl: 1
-Eemskrant: 1
-RTV Focus Zwolle: 1
-Zorgkrant: 1
-Nieuws en sport uit Limburg: 1
-De Nieuwkoper: 1
-Joop: 1
-GPfans: 1
+NOS: 55 (17.29559748427673%)
+RTL Nieuws: 39 (12.264150943396226%)
+Hartvannederland.nl: 19 (5.9748427672955975%)
+Telegraaf.nl: 18 (5.660377358490567%)
+NU.nl: 17 (5.345911949685535%)
+VRT NWS: 16 (5.031446540880504%)
+AD.nl: 13 (4.088050314465408%)
+ANWB: 9 (2.8301886792452833%)
+Dagblad van het Noorden: 8 (2.515723270440252%)
+Rijksoverheid.nl: 7 (2.20125786163522%)
+Omroep Brabant: 7 (2.20125786163522%)
+Volkskrant: 6 (1.8867924528301887%)
+Omroep West: 6 (1.8867924528301887%)
+NRC: 5 (1.5723270440251573%)
+RTV Utrecht: 5 (1.5723270440251573%)
+Amstelveenz.nl: 4 (1.257861635220126%)
+Plusonline: 4 (1.257861635220126%)
+NH Nieuws: 4 (1.257861635220126%)
+Blik op nieuws: 4 (1.257861635220126%)
+RTV Oost: 3 (0.9433962264150944%)
+Parool.nl: 3 (0.9433962264150944%)
+Binnenlandsbestuur: 3 (0.9433962264150944%)
+RTV Rijnmond: 3 (0.9433962264150944%)
+De Utrechtse Internet Courant: 2 (0.628930817610063%)
+VoetbalPrimeur.nl: 2 (0.628930817610063%)
+BD.nl: 2 (0.628930817610063%)
+Panorama: 2 (0.628930817610063%)
+Het Laatste Nieuws: 2 (0.628930817610063%)
+Alkmaar Centraal: 2 (0.628930817610063%)
+Oog TV: 2 (0.628930817610063%)
+RTV Noord: 2 (0.628930817610063%)
+DIA-Duitslandweb: 2 (0.628930817610063%)
+iGO.nl Nieuws Goeree Overflakkee: 2 (0.628930817610063%)
+HCNieuws: 2 (0.628930817610063%)
+Trouw: 1 (0.3144654088050315%)
+Barneveldse Krant: 1 (0.3144654088050315%)
+Eindhovens Dagblad: 1 (0.3144654088050315%)
+Sneeker Nieuwsblad: 1 (0.3144654088050315%)
+| SpanjeVandaag: 1 (0.3144654088050315%)
+SpanjeVandaag: 1 (0.3144654088050315%)
+Scientias.nl: 1 (0.3144654088050315%)
+Emerce: 1 (0.3144654088050315%)
+inct: 1 (0.3144654088050315%)
+Omroep Zeeland: 1 (0.3144654088050315%)
+TTM.nl: 1 (0.3144654088050315%)
+Nederlands Dagblad: 1 (0.3144654088050315%)
+Omroep Flevoland: 1 (0.3144654088050315%)
+Sprout: 1 (0.3144654088050315%)
+De Morgen: 1 (0.3144654088050315%)
+Hollands Kroon Actueel: 1 (0.3144654088050315%)
+BN DeStem: 1 (0.3144654088050315%)
+De Gelderlander: 1 (0.3144654088050315%)
+De Limburger: 1 (0.3144654088050315%)
+Mashable NL: 1 (0.3144654088050315%)
+indebuurt: 1 (0.3144654088050315%)
+de Tielenaar: 1 (0.3144654088050315%)
+Medemblik Actueel: 1 (0.3144654088050315%)
+Gawalo: 1 (0.3144654088050315%)
+Regio Purmerend: 1 (0.3144654088050315%)
+DeOndernemer.nl: 1 (0.3144654088050315%)
+TaxiPro.nl: 1 (0.3144654088050315%)
+OVPro.nl: 1 (0.3144654088050315%)
+oosterhout.nieuws.nl: 1 (0.3144654088050315%)
+Eemskrant: 1 (0.3144654088050315%)
+RTV Focus Zwolle: 1 (0.3144654088050315%)
+Zorgkrant: 1 (0.3144654088050315%)
+Nieuws en sport uit Limburg: 1 (0.3144654088050315%)
+De Nieuwkoper: 1 (0.3144654088050315%)
+Joop: 1 (0.3144654088050315%)
+GPfans: 1 (0.3144654088050315%)

@@ -1,81 +1,81 @@
-The New York Times: 19
-Financial Times: 12
-The Guardian: 9
-USA TODAY: 7
-The Washington Post: 5
-KGO-TV: 5
-CNBC: 4
-MarketWatch: 4
-Los Angeles Times: 4
-NBC10 Boston: 4
-Al Jazeera English: 4
-The Philadelphia Inquirer: 3
-The Local Germany: 3
-CNN International: 3
-The Sun: 3
-WLS-TV: 3
-Austin American-Statesman: 3
-nbcboston.com: 3
-NBC Chicago: 3
-Press-Enterprise: 3
-WBUR: 3
-Las Cruces Sun-News: 3
-Chicago Sun-Times: 3
-Vox.com: 2
-Business Insider: 2
-Colorado Public Radio: 2
-Daily Mail: 2
-Global News: 2
-Courier Journal: 2
-NPR: 2
-BBC News: 2
-The Hill: 2
-ABC News: 2
-CBS Pittsburgh: 2
-Fox News: 2
-The Atlantic: 2
-KOMO News: 2
-Telegraph.co.uk: 2
-STAT: 1
-Crosscut: 1
-Spectrum News: 1
-GoodHousekeeping.com: 1
-CNN: 1
-The National Interest : 1
-MassLive.com: 1
-BuzzFeed News: 1
-DW (English): 1
-Euronews: 1
-The Local Europe: 1
-The Independent: 1
-Rivard Report: 1
-Reuters: 1
-The Dallas Morning News: 1
-FactCheck.org: 1
-CALmatters: 1
-Durham Herald Sun: 1
-WKMG News 6 & ClickOrlando: 1
-The Straits Times: 1
-New York Magazine: 1
-CBS News 8: 1
-lehighvalleylive.com: 1
-The-Latest News: 1
-Patch.com: 1
-CBS Los Angeles: 1
-The Mercury News: 1
-KOKH FOX25: 1
-The Verge: 1
-NJ.com: 1
-NBC Connecticut: 1
-International Law Lawyer News: 1
-RailFreight.com: 1
-Livemint: 1
-The Columbus Dispatch: 1
-WGN TV Chicago: 1
-Forbes: 1
-Express: 1
-KIRO Seattle: 1
-The Boston Globe: 1
-Boston 25 News: 1
-WAMU 88.5: 1
-Condé Nast Traveler: 1
+The New York Times: 19 (10.106382978723403%)
+Financial Times: 12 (6.382978723404255%)
+The Guardian: 9 (4.787234042553192%)
+USA TODAY: 7 (3.723404255319149%)
+The Washington Post: 5 (2.6595744680851063%)
+KGO-TV: 5 (2.6595744680851063%)
+CNBC: 4 (2.127659574468085%)
+MarketWatch: 4 (2.127659574468085%)
+Los Angeles Times: 4 (2.127659574468085%)
+NBC10 Boston: 4 (2.127659574468085%)
+Al Jazeera English: 4 (2.127659574468085%)
+The Philadelphia Inquirer: 3 (1.5957446808510638%)
+The Local Germany: 3 (1.5957446808510638%)
+CNN International: 3 (1.5957446808510638%)
+The Sun: 3 (1.5957446808510638%)
+WLS-TV: 3 (1.5957446808510638%)
+Austin American-Statesman: 3 (1.5957446808510638%)
+nbcboston.com: 3 (1.5957446808510638%)
+NBC Chicago: 3 (1.5957446808510638%)
+Press-Enterprise: 3 (1.5957446808510638%)
+WBUR: 3 (1.5957446808510638%)
+Las Cruces Sun-News: 3 (1.5957446808510638%)
+Chicago Sun-Times: 3 (1.5957446808510638%)
+Vox.com: 2 (1.0638297872340425%)
+Business Insider: 2 (1.0638297872340425%)
+Colorado Public Radio: 2 (1.0638297872340425%)
+Daily Mail: 2 (1.0638297872340425%)
+Global News: 2 (1.0638297872340425%)
+Courier Journal: 2 (1.0638297872340425%)
+NPR: 2 (1.0638297872340425%)
+BBC News: 2 (1.0638297872340425%)
+The Hill: 2 (1.0638297872340425%)
+ABC News: 2 (1.0638297872340425%)
+CBS Pittsburgh: 2 (1.0638297872340425%)
+Fox News: 2 (1.0638297872340425%)
+The Atlantic: 2 (1.0638297872340425%)
+KOMO News: 2 (1.0638297872340425%)
+Telegraph.co.uk: 2 (1.0638297872340425%)
+STAT: 1 (0.5319148936170213%)
+Crosscut: 1 (0.5319148936170213%)
+Spectrum News: 1 (0.5319148936170213%)
+GoodHousekeeping.com: 1 (0.5319148936170213%)
+CNN: 1 (0.5319148936170213%)
+The National Interest : 1 (0.5319148936170213%)
+MassLive.com: 1 (0.5319148936170213%)
+BuzzFeed News: 1 (0.5319148936170213%)
+DW (English): 1 (0.5319148936170213%)
+Euronews: 1 (0.5319148936170213%)
+The Local Europe: 1 (0.5319148936170213%)
+The Independent: 1 (0.5319148936170213%)
+Rivard Report: 1 (0.5319148936170213%)
+Reuters: 1 (0.5319148936170213%)
+The Dallas Morning News: 1 (0.5319148936170213%)
+FactCheck.org: 1 (0.5319148936170213%)
+CALmatters: 1 (0.5319148936170213%)
+Durham Herald Sun: 1 (0.5319148936170213%)
+WKMG News 6 & ClickOrlando: 1 (0.5319148936170213%)
+The Straits Times: 1 (0.5319148936170213%)
+New York Magazine: 1 (0.5319148936170213%)
+CBS News 8: 1 (0.5319148936170213%)
+lehighvalleylive.com: 1 (0.5319148936170213%)
+The-Latest News: 1 (0.5319148936170213%)
+Patch.com: 1 (0.5319148936170213%)
+CBS Los Angeles: 1 (0.5319148936170213%)
+The Mercury News: 1 (0.5319148936170213%)
+KOKH FOX25: 1 (0.5319148936170213%)
+The Verge: 1 (0.5319148936170213%)
+NJ.com: 1 (0.5319148936170213%)
+NBC Connecticut: 1 (0.5319148936170213%)
+International Law Lawyer News: 1 (0.5319148936170213%)
+RailFreight.com: 1 (0.5319148936170213%)
+Livemint: 1 (0.5319148936170213%)
+The Columbus Dispatch: 1 (0.5319148936170213%)
+WGN TV Chicago: 1 (0.5319148936170213%)
+Forbes: 1 (0.5319148936170213%)
+Express: 1 (0.5319148936170213%)
+KIRO Seattle: 1 (0.5319148936170213%)
+The Boston Globe: 1 (0.5319148936170213%)
+Boston 25 News: 1 (0.5319148936170213%)
+WAMU 88.5: 1 (0.5319148936170213%)
+Condé Nast Traveler: 1 (0.5319148936170213%)

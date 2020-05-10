@@ -1,63 +1,63 @@
-Financial Times: 152
-BBC News: 67
-Metro.co.uk: 26
-The Guardian: 25
-Al Jazeera English: 24
-CNN: 22
-Telegraph.co.uk: 21
-The New York Times: 18
-BBC South East Wales: 14
-The Sun: 14
-The Washington Post: 14
-ABC News: 12
-CNN International: 12
-Sky News: 11
-Daily Mail: 9
-The Berlin Spectator: 7
-CNBC: 7
-The Telegraph: 7
-The Local Germany: 7
-NPR: 5
-Times of India: 4
-The Local Sweden: 3
-ITV News: 3
-AS.com Móvil: 3
-The Loppy: 3
-PoliticsHome.com: 3
-The Conversation UK: 2
-Wales Online: 2
-The News International: 2
-The Scottish Sun: 2
-DW (English): 2
-talkSPORT.com: 2
-Eindhoven News: 2
-Liverpool Echo: 2
-EUobserver: 1
-GOV.UK: 1
-Imperial College London: 1
-expressandstar.com: 1
-The Slovak Spectator: 1
-Daily Monitor: 1
-Hurriyet Daily News: 1
-India Gone Viral: 1
-The Nation: 1
-Scottish Government News: 1
-EU News: 1
-Coventry Observer: 1
-theloadstar.com: 1
-The Verge: 1
-Dublin Live: 1
-EURACTIV: 1
-Science Magazine: 1
-Retail Detail Europe: 1
-Wired.co.uk: 1
-Gulf News: 1
-World Socialist Web Site: 1
-THE CITY: 1
-ReliefWeb: 1
-NewsEverything: 1
-Africanews English: 1
-Jakarta Post: 1
-MyLondon: 1
-The Times: 1
-Kent Online: 1
+Financial Times: 152 (28.14814814814815%)
+BBC News: 67 (12.407407407407407%)
+Metro.co.uk: 26 (4.814814814814815%)
+The Guardian: 25 (4.62962962962963%)
+Al Jazeera English: 24 (4.444444444444445%)
+CNN: 22 (4.074074074074074%)
+Telegraph.co.uk: 21 (3.888888888888889%)
+The New York Times: 18 (3.3333333333333335%)
+BBC South East Wales: 14 (2.5925925925925926%)
+The Sun: 14 (2.5925925925925926%)
+The Washington Post: 14 (2.5925925925925926%)
+ABC News: 12 (2.2222222222222223%)
+CNN International: 12 (2.2222222222222223%)
+Sky News: 11 (2.037037037037037%)
+Daily Mail: 9 (1.6666666666666667%)
+The Berlin Spectator: 7 (1.2962962962962963%)
+CNBC: 7 (1.2962962962962963%)
+The Telegraph: 7 (1.2962962962962963%)
+The Local Germany: 7 (1.2962962962962963%)
+NPR: 5 (0.9259259259259258%)
+Times of India: 4 (0.7407407407407408%)
+The Local Sweden: 3 (0.5555555555555556%)
+ITV News: 3 (0.5555555555555556%)
+AS.com Móvil: 3 (0.5555555555555556%)
+The Loppy: 3 (0.5555555555555556%)
+PoliticsHome.com: 3 (0.5555555555555556%)
+The Conversation UK: 2 (0.3703703703703704%)
+Wales Online: 2 (0.3703703703703704%)
+The News International: 2 (0.3703703703703704%)
+The Scottish Sun: 2 (0.3703703703703704%)
+DW (English): 2 (0.3703703703703704%)
+talkSPORT.com: 2 (0.3703703703703704%)
+Eindhoven News: 2 (0.3703703703703704%)
+Liverpool Echo: 2 (0.3703703703703704%)
+EUobserver: 1 (0.1851851851851852%)
+GOV.UK: 1 (0.1851851851851852%)
+Imperial College London: 1 (0.1851851851851852%)
+expressandstar.com: 1 (0.1851851851851852%)
+The Slovak Spectator: 1 (0.1851851851851852%)
+Daily Monitor: 1 (0.1851851851851852%)
+Hurriyet Daily News: 1 (0.1851851851851852%)
+India Gone Viral: 1 (0.1851851851851852%)
+The Nation: 1 (0.1851851851851852%)
+Scottish Government News: 1 (0.1851851851851852%)
+EU News: 1 (0.1851851851851852%)
+Coventry Observer: 1 (0.1851851851851852%)
+theloadstar.com: 1 (0.1851851851851852%)
+The Verge: 1 (0.1851851851851852%)
+Dublin Live: 1 (0.1851851851851852%)
+EURACTIV: 1 (0.1851851851851852%)
+Science Magazine: 1 (0.1851851851851852%)
+Retail Detail Europe: 1 (0.1851851851851852%)
+Wired.co.uk: 1 (0.1851851851851852%)
+Gulf News: 1 (0.1851851851851852%)
+World Socialist Web Site: 1 (0.1851851851851852%)
+THE CITY: 1 (0.1851851851851852%)
+ReliefWeb: 1 (0.1851851851851852%)
+NewsEverything: 1 (0.1851851851851852%)
+Africanews English: 1 (0.1851851851851852%)
+Jakarta Post: 1 (0.1851851851851852%)
+MyLondon: 1 (0.1851851851851852%)
+The Times: 1 (0.1851851851851852%)
+Kent Online: 1 (0.1851851851851852%)

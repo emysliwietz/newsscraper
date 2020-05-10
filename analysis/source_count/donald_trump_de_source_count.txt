@@ -1,64 +1,64 @@
-fr.de: 89
-DER SPIEGEL: 43
-t-online.de: 40
-merkur.de: 27
-Nau.ch: 20
-STERN.de: 18
-RND: 16
-BILD: 14
-ZEIT ONLINE: 13
-WELT: 9
-Tagesspiegel: 8
-Berliner Morgenpost: 8
-Tages-Anzeiger: 8
-FAZ - Frankfurter Allgemeine Zeitung: 8
-tz.de: 6
-WEB.DE News: 6
-Frankfurter Rundschau: 6
-RP ONLINE: 5
-FOCUS Online: 4
-Süddeutsche Zeitung: 4
-COMPUTER BILD: 4
- Cash: 3
-watson: 3
-F.A.Z. - Frankfurter Allgemeine Zeitung: 3
-Merkur.de: 2
-Derwesten.de: 2
-RTL Online: 2
-DiePresse.com: 2
-tagesschau.de: 2
-WAZ News: 2
-Stuttgarter Zeitung: 2
-Handelsblatt: 2
-Kölner Stadt-Anzeiger: 2
-inSüdthüringen.de: 2
-Nordwest-Zeitung: 2
-Der Westen: 1
-ZDFheute: 1
-etailment.de: 1
-Metal Hammer: 1
-n-tv NACHRICHTEN: 1
-Stuttgarter Nachrichten: 1
-Braunschweiger Zeitung: 1
-TAG24: 1
-20 Minuten: 1
-Sportbuzzer: 1
-Tiroler Tageszeitung Online: 1
-SALZBURG24: 1
-EXPRESS: 1
-wa.de: 1
-MANNHEIM24: 1
-Neue Presse Coburg: 1
-Kleine Zeitung: 1
-Frankenpost: 1
-Gießener Allgemeine: 1
-Stol.it: 1
-Augsburger Allgemeine: 1
-Handelsblatt : 1
-NZZ - Neue Zürcher Zeitung: 1
-cash.ch: 1
-KURIER: 1
-TVMovie: 1
-manager magazin: 1
-Westdeutsche Allgemeine Zeitung: 1
-SWP: 1
+fr.de: 89 (21.291866028708135%)
+DER SPIEGEL: 43 (10.287081339712918%)
+t-online.de: 40 (9.569377990430622%)
+merkur.de: 27 (6.4593301435406705%)
+Nau.ch: 20 (4.784688995215311%)
+STERN.de: 18 (4.30622009569378%)
+RND: 16 (3.827751196172249%)
+BILD: 14 (3.349282296650718%)
+ZEIT ONLINE: 13 (3.110047846889952%)
+WELT: 9 (2.15311004784689%)
+Tagesspiegel: 8 (1.9138755980861244%)
+Berliner Morgenpost: 8 (1.9138755980861244%)
+Tages-Anzeiger: 8 (1.9138755980861244%)
+FAZ - Frankfurter Allgemeine Zeitung: 8 (1.9138755980861244%)
+tz.de: 6 (1.4354066985645932%)
+WEB.DE News: 6 (1.4354066985645932%)
+Frankfurter Rundschau: 6 (1.4354066985645932%)
+RP ONLINE: 5 (1.1961722488038278%)
+FOCUS Online: 4 (0.9569377990430622%)
+Süddeutsche Zeitung: 4 (0.9569377990430622%)
+COMPUTER BILD: 4 (0.9569377990430622%)
+ Cash: 3 (0.7177033492822966%)
+watson: 3 (0.7177033492822966%)
+F.A.Z. - Frankfurter Allgemeine Zeitung: 3 (0.7177033492822966%)
+Merkur.de: 2 (0.4784688995215311%)
+Derwesten.de: 2 (0.4784688995215311%)
+RTL Online: 2 (0.4784688995215311%)
+DiePresse.com: 2 (0.4784688995215311%)
+tagesschau.de: 2 (0.4784688995215311%)
+WAZ News: 2 (0.4784688995215311%)
+Stuttgarter Zeitung: 2 (0.4784688995215311%)
+Handelsblatt: 2 (0.4784688995215311%)
+Kölner Stadt-Anzeiger: 2 (0.4784688995215311%)
+inSüdthüringen.de: 2 (0.4784688995215311%)
+Nordwest-Zeitung: 2 (0.4784688995215311%)
+Der Westen: 1 (0.23923444976076555%)
+ZDFheute: 1 (0.23923444976076555%)
+etailment.de: 1 (0.23923444976076555%)
+Metal Hammer: 1 (0.23923444976076555%)
+n-tv NACHRICHTEN: 1 (0.23923444976076555%)
+Stuttgarter Nachrichten: 1 (0.23923444976076555%)
+Braunschweiger Zeitung: 1 (0.23923444976076555%)
+TAG24: 1 (0.23923444976076555%)
+20 Minuten: 1 (0.23923444976076555%)
+Sportbuzzer: 1 (0.23923444976076555%)
+Tiroler Tageszeitung Online: 1 (0.23923444976076555%)
+SALZBURG24: 1 (0.23923444976076555%)
+EXPRESS: 1 (0.23923444976076555%)
+wa.de: 1 (0.23923444976076555%)
+MANNHEIM24: 1 (0.23923444976076555%)
+Neue Presse Coburg: 1 (0.23923444976076555%)
+Kleine Zeitung: 1 (0.23923444976076555%)
+Frankenpost: 1 (0.23923444976076555%)
+Gießener Allgemeine: 1 (0.23923444976076555%)
+Stol.it: 1 (0.23923444976076555%)
+Augsburger Allgemeine: 1 (0.23923444976076555%)
+Handelsblatt : 1 (0.23923444976076555%)
+NZZ - Neue Zürcher Zeitung: 1 (0.23923444976076555%)
+cash.ch: 1 (0.23923444976076555%)
+KURIER: 1 (0.23923444976076555%)
+TVMovie: 1 (0.23923444976076555%)
+manager magazin: 1 (0.23923444976076555%)
+Westdeutsche Allgemeine Zeitung: 1 (0.23923444976076555%)
+SWP: 1 (0.23923444976076555%)

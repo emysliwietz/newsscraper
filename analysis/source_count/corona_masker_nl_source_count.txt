@@ -1,54 +1,54 @@
-VRT NWS: 22
-AD.nl: 20
-RTL Nieuws: 13
-NOS: 11
-De Gelderlander: 10
-Het Nieuwsblad: 9
-NRC: 9
-Het Laatste Nieuws: 8
-Volkskrant: 7
-Parool.nl: 5
-Datanews: 5
-Trouw: 4
-NU.nl: 4
-Dagblad van het Noorden: 3
-Omroep Brabant: 3
-Bright.nl: 3
-Eos Wetenschap: 2
-BN DeStem: 2
-Nieuws en sport uit Limburg: 2
-RTV Rijnmond: 2
-Telegraaf.nl: 2
-De Tijd: 2
-Het Financieele Dagblad: 2
-Tubantia: 2
-Ditjes en Datjes: 2
-Gazet van Antwerpen: 2
-Hartvannederland.nl: 2
-De Limburger: 1
-Cobouw: 1
-De Stentor: 1
-VoetbalPrimeur.be: 1
-De Morgen: 1
-Blik op nieuws: 1
-Arnhemse Koerier: 1
-NH Nieuws: 1
-Reformatorisch Dagblad: 1
-WeesperNieuws: 1
-Test-Aankoop.be: 1
-Consultancy.nl: 1
-De Groene Amsterdammer: 1
-Nursing. Platform voor verpleegkundigen: 1
-RTV Oost: 1
-Joop: 1
-bright.nl: 1
-DeWereldMorgen.be: 1
-BD.nl: 1
-Mashable NL: 1
-DuurzaamBedrijfsleven.nl: 1
-AT5: 1
-Consumentenbond: 1
-MAX Vandaag: 1
-Metronieuws.nl: 1
-Noordhollands Dagblad: 1
-Omroep West: 1
+VRT NWS: 22 (11.76470588235294%)
+AD.nl: 20 (10.695187165775401%)
+RTL Nieuws: 13 (6.951871657754011%)
+NOS: 11 (5.88235294117647%)
+De Gelderlander: 10 (5.347593582887701%)
+Het Nieuwsblad: 9 (4.81283422459893%)
+NRC: 9 (4.81283422459893%)
+Het Laatste Nieuws: 8 (4.27807486631016%)
+Volkskrant: 7 (3.7433155080213902%)
+Parool.nl: 5 (2.6737967914438503%)
+Datanews: 5 (2.6737967914438503%)
+Trouw: 4 (2.13903743315508%)
+NU.nl: 4 (2.13903743315508%)
+Dagblad van het Noorden: 3 (1.6042780748663104%)
+Omroep Brabant: 3 (1.6042780748663104%)
+Bright.nl: 3 (1.6042780748663104%)
+Eos Wetenschap: 2 (1.06951871657754%)
+BN DeStem: 2 (1.06951871657754%)
+Nieuws en sport uit Limburg: 2 (1.06951871657754%)
+RTV Rijnmond: 2 (1.06951871657754%)
+Telegraaf.nl: 2 (1.06951871657754%)
+De Tijd: 2 (1.06951871657754%)
+Het Financieele Dagblad: 2 (1.06951871657754%)
+Tubantia: 2 (1.06951871657754%)
+Ditjes en Datjes: 2 (1.06951871657754%)
+Gazet van Antwerpen: 2 (1.06951871657754%)
+Hartvannederland.nl: 2 (1.06951871657754%)
+De Limburger: 1 (0.53475935828877%)
+Cobouw: 1 (0.53475935828877%)
+De Stentor: 1 (0.53475935828877%)
+VoetbalPrimeur.be: 1 (0.53475935828877%)
+De Morgen: 1 (0.53475935828877%)
+Blik op nieuws: 1 (0.53475935828877%)
+Arnhemse Koerier: 1 (0.53475935828877%)
+NH Nieuws: 1 (0.53475935828877%)
+Reformatorisch Dagblad: 1 (0.53475935828877%)
+WeesperNieuws: 1 (0.53475935828877%)
+Test-Aankoop.be: 1 (0.53475935828877%)
+Consultancy.nl: 1 (0.53475935828877%)
+De Groene Amsterdammer: 1 (0.53475935828877%)
+Nursing. Platform voor verpleegkundigen: 1 (0.53475935828877%)
+RTV Oost: 1 (0.53475935828877%)
+Joop: 1 (0.53475935828877%)
+bright.nl: 1 (0.53475935828877%)
+DeWereldMorgen.be: 1 (0.53475935828877%)
+BD.nl: 1 (0.53475935828877%)
+Mashable NL: 1 (0.53475935828877%)
+DuurzaamBedrijfsleven.nl: 1 (0.53475935828877%)
+AT5: 1 (0.53475935828877%)
+Consumentenbond: 1 (0.53475935828877%)
+MAX Vandaag: 1 (0.53475935828877%)
+Metronieuws.nl: 1 (0.53475935828877%)
+Noordhollands Dagblad: 1 (0.53475935828877%)
+Omroep West: 1 (0.53475935828877%)

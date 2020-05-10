@@ -1,72 +1,72 @@
-Business Today: 46
-ABC News: 27
-Financial Times: 24
-BBC News: 23
-India Today: 15
-The Guardian: 14
-Times of India: 13
-DW (English): 11
-The Local Germany: 9
-The Hindu: 8
-CNN: 8
-The Indian Express: 8
-The New York Times: 6
-CNBC: 5
-Sky News: 4
-dineshr: 4
-Economic Times: 4
-ABP Live: 4
-Al Jazeera English: 4
-The Statesman: 4
-CNN International: 3
-BBC South East Wales: 3
-Outlook India: 2
-ITV News: 2
-Daijiworld.com: 2
-Business Standard: 2
-Jagran English: 2
-News18: 2
-Newsjok: 2
-India Gone Viral: 2
-Deccan Herald: 2
-The Sun: 2
-citytoday: 2
-The Nation: 2
-Livemint: 2
-India TV News: 1
-The Washington Post: 1
-MarketWatch: 1
-BusinessLine: 1
-DutchNews.nl: 1
-Reuters: 1
-CNET: 1
-Free Press Journal: 1
-Pune Mirror: 1
-Belfast Live: 1
-THE WEEK: 1
-The Newsopedia: 1
-NL Times: 1
-GPblog: 1
-The Next Web: 1
-HW News English: 1
-Kalinga TV: 1
-Todaynewspaper: 1
-NBC News: 1
-FOX 5 San Diego: 1
-The Canberra Times: 1
-Cyprus Mail: 1
-Express: 1
-News Info Park: 1
-Mumbai Mirror: 1
-Business Insider: 1
-Sportstar: 1
-India.com: 1
-Hindustan Times: 1
-Reuters UK: 1
-The New Indian Express: 1
-All India Radio: 1
-The Local Switzerland: 1
-NewsClicks: 1
-EURACTIV: 1
-Express.co.uk: 1
-EL PAÍS in English: 1
+Business Today: 46 (14.743589743589745%)
+ABC News: 27 (8.653846153846153%)
+Financial Times: 24 (7.6923076923076925%)
+BBC News: 23 (7.371794871794872%)
+India Today: 15 (4.807692307692308%)
+The Guardian: 14 (4.487179487179487%)
+Times of India: 13 (4.166666666666666%)
+DW (English): 11 (3.5256410256410255%)
+The Local Germany: 9 (2.8846153846153846%)
+The Hindu: 8 (2.564102564102564%)
+CNN: 8 (2.564102564102564%)
+The Indian Express: 8 (2.564102564102564%)
+The New York Times: 6 (1.9230769230769231%)
+CNBC: 5 (1.6025641025641024%)
+Sky News: 4 (1.282051282051282%)
+dineshr: 4 (1.282051282051282%)
+Economic Times: 4 (1.282051282051282%)
+ABP Live: 4 (1.282051282051282%)
+Al Jazeera English: 4 (1.282051282051282%)
+The Statesman: 4 (1.282051282051282%)
+CNN International: 3 (0.9615384615384616%)
+BBC South East Wales: 3 (0.9615384615384616%)
+Outlook India: 2 (0.641025641025641%)
+ITV News: 2 (0.641025641025641%)
+Daijiworld.com: 2 (0.641025641025641%)
+Business Standard: 2 (0.641025641025641%)
+Jagran English: 2 (0.641025641025641%)
+News18: 2 (0.641025641025641%)
+Newsjok: 2 (0.641025641025641%)
+India Gone Viral: 2 (0.641025641025641%)
+Deccan Herald: 2 (0.641025641025641%)
+The Sun: 2 (0.641025641025641%)
+citytoday: 2 (0.641025641025641%)
+The Nation: 2 (0.641025641025641%)
+Livemint: 2 (0.641025641025641%)
+India TV News: 1 (0.3205128205128205%)
+The Washington Post: 1 (0.3205128205128205%)
+MarketWatch: 1 (0.3205128205128205%)
+BusinessLine: 1 (0.3205128205128205%)
+DutchNews.nl: 1 (0.3205128205128205%)
+Reuters: 1 (0.3205128205128205%)
+CNET: 1 (0.3205128205128205%)
+Free Press Journal: 1 (0.3205128205128205%)
+Pune Mirror: 1 (0.3205128205128205%)
+Belfast Live: 1 (0.3205128205128205%)
+THE WEEK: 1 (0.3205128205128205%)
+The Newsopedia: 1 (0.3205128205128205%)
+NL Times: 1 (0.3205128205128205%)
+GPblog: 1 (0.3205128205128205%)
+The Next Web: 1 (0.3205128205128205%)
+HW News English: 1 (0.3205128205128205%)
+Kalinga TV: 1 (0.3205128205128205%)
+Todaynewspaper: 1 (0.3205128205128205%)
+NBC News: 1 (0.3205128205128205%)
+FOX 5 San Diego: 1 (0.3205128205128205%)
+The Canberra Times: 1 (0.3205128205128205%)
+Cyprus Mail: 1 (0.3205128205128205%)
+Express: 1 (0.3205128205128205%)
+News Info Park: 1 (0.3205128205128205%)
+Mumbai Mirror: 1 (0.3205128205128205%)
+Business Insider: 1 (0.3205128205128205%)
+Sportstar: 1 (0.3205128205128205%)
+India.com: 1 (0.3205128205128205%)
+Hindustan Times: 1 (0.3205128205128205%)
+Reuters UK: 1 (0.3205128205128205%)
+The New Indian Express: 1 (0.3205128205128205%)
+All India Radio: 1 (0.3205128205128205%)
+The Local Switzerland: 1 (0.3205128205128205%)
+NewsClicks: 1 (0.3205128205128205%)
+EURACTIV: 1 (0.3205128205128205%)
+Express.co.uk: 1 (0.3205128205128205%)
+EL PAÍS in English: 1 (0.3205128205128205%)

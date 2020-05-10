@@ -1,72 +1,72 @@
-Deutschlandfunk: 14
-Berliner Morgenpost: 8
-connect.de: 8
-WELT: 7
-Tagesspiegel: 7
-taz.de: 6
-tagesschau.de: 5
-Die Presse: 5
-Handelsblatt: 5
-heise online: 4
-BR24: 4
-rbb|24: 4
-CHIP Online: 4
-Süddeutsche Zeitung: 4
-COMPUTER BILD: 4
-InfoDigital / INFOSAT: 4
-inFranken.de: 3
-mannheim24.de: 3
-n-tv NACHRICHTEN: 3
-Netzpolitik.org: 3
-Mac & i: 3
-SWR: 3
-oe24.at: 3
-SWP: 3
- Cash: 3
-Westdeutsche Allgemeine Zeitung: 2
-ZEIT ONLINE: 2
-WinFuture: 2
-inside digital: 2
-Netzpiloten: 2
-Business Insider Deutschland: 2
-CHIP Online Deutschland: 2
-it-daily.net: 2
-news.de: 2
-DER SPIEGEL: 2
-hessenschau.de: 2
-TECHBOOK: 2
-FAZ - Frankfurter Allgemeine Zeitung: 2
-RND: 1
-Westdeutsche Zeitung: 1
-STERN.de: 1
-RP ONLINE: 1
-Cicero Online: 1
-inSüdthüringen.de: 1
-appgefahren.de: 1
-Der Westen: 1
-NRZ: 1
-heise Security: 1
-DW (Deutsch): 1
-t3n Magazin: 1
-RTL Online: 1
-Notebookcheck: 1
-zm online: 1
-turi2: 1
-SÃ¼ddeutsche Zeitung: 1
-derStandard.de: 1
-Deutschland Today: 1
-futurezone.at: 1
-OnlineMarketing.de: 1
-Android User: 1
-Nordwest-Zeitung: 1
-F.A.Z. - Frankfurter Allgemeine Zeitung: 1
-Kleine Zeitung: 1
-BLICK.CH: 1
-Schweizer Radio und Fernsehen (SRF): 1
-Wuppertaler-Rundschau.de: 1
-SÜDKURIER Online: 1
-Caschys Blog: 1
-merkur.de: 1
-BNN - Badische Neueste Nachrichten: 1
-Handelsblatt : 1
-Passauer Neue Presse: 1
+Deutschlandfunk: 14 (7.6923076923076925%)
+Berliner Morgenpost: 8 (4.395604395604396%)
+connect.de: 8 (4.395604395604396%)
+WELT: 7 (3.8461538461538463%)
+Tagesspiegel: 7 (3.8461538461538463%)
+taz.de: 6 (3.296703296703297%)
+tagesschau.de: 5 (2.7472527472527473%)
+Die Presse: 5 (2.7472527472527473%)
+Handelsblatt: 5 (2.7472527472527473%)
+heise online: 4 (2.197802197802198%)
+BR24: 4 (2.197802197802198%)
+rbb|24: 4 (2.197802197802198%)
+CHIP Online: 4 (2.197802197802198%)
+Süddeutsche Zeitung: 4 (2.197802197802198%)
+COMPUTER BILD: 4 (2.197802197802198%)
+InfoDigital / INFOSAT: 4 (2.197802197802198%)
+inFranken.de: 3 (1.6483516483516485%)
+mannheim24.de: 3 (1.6483516483516485%)
+n-tv NACHRICHTEN: 3 (1.6483516483516485%)
+Netzpolitik.org: 3 (1.6483516483516485%)
+Mac & i: 3 (1.6483516483516485%)
+SWR: 3 (1.6483516483516485%)
+oe24.at: 3 (1.6483516483516485%)
+SWP: 3 (1.6483516483516485%)
+ Cash: 3 (1.6483516483516485%)
+Westdeutsche Allgemeine Zeitung: 2 (1.098901098901099%)
+ZEIT ONLINE: 2 (1.098901098901099%)
+WinFuture: 2 (1.098901098901099%)
+inside digital: 2 (1.098901098901099%)
+Netzpiloten: 2 (1.098901098901099%)
+Business Insider Deutschland: 2 (1.098901098901099%)
+CHIP Online Deutschland: 2 (1.098901098901099%)
+it-daily.net: 2 (1.098901098901099%)
+news.de: 2 (1.098901098901099%)
+DER SPIEGEL: 2 (1.098901098901099%)
+hessenschau.de: 2 (1.098901098901099%)
+TECHBOOK: 2 (1.098901098901099%)
+FAZ - Frankfurter Allgemeine Zeitung: 2 (1.098901098901099%)
+RND: 1 (0.5494505494505495%)
+Westdeutsche Zeitung: 1 (0.5494505494505495%)
+STERN.de: 1 (0.5494505494505495%)
+RP ONLINE: 1 (0.5494505494505495%)
+Cicero Online: 1 (0.5494505494505495%)
+inSüdthüringen.de: 1 (0.5494505494505495%)
+appgefahren.de: 1 (0.5494505494505495%)
+Der Westen: 1 (0.5494505494505495%)
+NRZ: 1 (0.5494505494505495%)
+heise Security: 1 (0.5494505494505495%)
+DW (Deutsch): 1 (0.5494505494505495%)
+t3n Magazin: 1 (0.5494505494505495%)
+RTL Online: 1 (0.5494505494505495%)
+Notebookcheck: 1 (0.5494505494505495%)
+zm online: 1 (0.5494505494505495%)
+turi2: 1 (0.5494505494505495%)
+SÃ¼ddeutsche Zeitung: 1 (0.5494505494505495%)
+derStandard.de: 1 (0.5494505494505495%)
+Deutschland Today: 1 (0.5494505494505495%)
+futurezone.at: 1 (0.5494505494505495%)
+OnlineMarketing.de: 1 (0.5494505494505495%)
+Android User: 1 (0.5494505494505495%)
+Nordwest-Zeitung: 1 (0.5494505494505495%)
+F.A.Z. - Frankfurter Allgemeine Zeitung: 1 (0.5494505494505495%)
+Kleine Zeitung: 1 (0.5494505494505495%)
+BLICK.CH: 1 (0.5494505494505495%)
+Schweizer Radio und Fernsehen (SRF): 1 (0.5494505494505495%)
+Wuppertaler-Rundschau.de: 1 (0.5494505494505495%)
+SÜDKURIER Online: 1 (0.5494505494505495%)
+Caschys Blog: 1 (0.5494505494505495%)
+merkur.de: 1 (0.5494505494505495%)
+BNN - Badische Neueste Nachrichten: 1 (0.5494505494505495%)
+Handelsblatt : 1 (0.5494505494505495%)
+Passauer Neue Presse: 1 (0.5494505494505495%)

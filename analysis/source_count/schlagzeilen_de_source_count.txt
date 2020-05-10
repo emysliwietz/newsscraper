@@ -1,66 +1,66 @@
-t-online.de: 189
-DER SPIEGEL: 155
-BILD: 144
-n-tv NACHRICHTEN: 118
-WELT: 117
-merkur.de: 95
-FAZ - Frankfurter Allgemeine Zeitung: 81
-WEB.DE News: 77
-tagesschau.de: 77
-Tagesspiegel: 70
-WELT Nachrichtensender: 64
-Süddeutsche Zeitung: 57
-ZEIT ONLINE: 47
-STERN.de: 45
-NDR.de: 41
-DIE WELT: 40
-BR24: 38
-FOCUS Online: 37
-RTL Online: 37
-B.Z. Berlin: 34
-Berliner Morgenpost: 34
-Merkur.de: 23
-RP ONLINE: 22
-EXPRESS: 20
-TAG24: 19
-Handelsblatt: 16
-Kölner Stadt-Anzeiger: 14
-tagesschau: 14
-noz.de - Neue Osnabrücker Zeitung: 14
-Berliner Zeitung: 13
-tz.de: 12
-MDR: 11
-Handelsblatt : 10
-ZDFheute: 10
-Mitteldeutsche Zeitung: 10
-F.A.Z. - Frankfurter Allgemeine Zeitung: 9
-Derwesten.de: 9
-fr.de: 8
-Der Westen: 7
-WAZ News: 7
-Schwäbische: 6
-Abendzeitung: 5
-Stuttgarter Nachrichten: 5
-Frankfurter Rundschau: 5
-SWR: 4
-Stuttgarter Zeitung: 4
-faz: 4
-shz.de: 4
-WDR Nachrichten: 4
-Westdeutsche Allgemeine Zeitung: 4
-Augsburger Allgemeine: 3
-Neue Westfälische: 3
-HNA.de: 3
-Hannoversche Allgemeine: 3
-Presseportal.de: 3
-Nordwest-Zeitung: 2
-Neue Osnabrücker Zeitung: 2
-Hamburger Abendblatt: 1
-Panorama: 1
-Express.de: 1
-rosenheim24.de: 1
-turi2: 1
-wa.de: 1
-General-Anzeiger: 1
-Leipziger Volkszeitung: 1
-focus.de: 1
+t-online.de: 189 (9.84375%)
+DER SPIEGEL: 155 (8.072916666666668%)
+BILD: 144 (7.5%)
+n-tv NACHRICHTEN: 118 (6.145833333333333%)
+WELT: 117 (6.09375%)
+merkur.de: 95 (4.947916666666666%)
+FAZ - Frankfurter Allgemeine Zeitung: 81 (4.21875%)
+WEB.DE News: 77 (4.010416666666667%)
+tagesschau.de: 77 (4.010416666666667%)
+Tagesspiegel: 70 (3.6458333333333335%)
+WELT Nachrichtensender: 64 (3.3333333333333335%)
+Süddeutsche Zeitung: 57 (2.96875%)
+ZEIT ONLINE: 47 (2.4479166666666665%)
+STERN.de: 45 (2.34375%)
+NDR.de: 41 (2.1354166666666665%)
+DIE WELT: 40 (2.083333333333333%)
+BR24: 38 (1.9791666666666665%)
+FOCUS Online: 37 (1.9270833333333335%)
+RTL Online: 37 (1.9270833333333335%)
+B.Z. Berlin: 34 (1.7708333333333333%)
+Berliner Morgenpost: 34 (1.7708333333333333%)
+Merkur.de: 23 (1.1979166666666667%)
+RP ONLINE: 22 (1.1458333333333333%)
+EXPRESS: 20 (1.0416666666666665%)
+TAG24: 19 (0.9895833333333333%)
+Handelsblatt: 16 (0.8333333333333334%)
+Kölner Stadt-Anzeiger: 14 (0.7291666666666666%)
+tagesschau: 14 (0.7291666666666666%)
+noz.de - Neue Osnabrücker Zeitung: 14 (0.7291666666666666%)
+Berliner Zeitung: 13 (0.6770833333333334%)
+tz.de: 12 (0.625%)
+MDR: 11 (0.5729166666666666%)
+Handelsblatt : 10 (0.5208333333333333%)
+ZDFheute: 10 (0.5208333333333333%)
+Mitteldeutsche Zeitung: 10 (0.5208333333333333%)
+F.A.Z. - Frankfurter Allgemeine Zeitung: 9 (0.46875%)
+Derwesten.de: 9 (0.46875%)
+fr.de: 8 (0.4166666666666667%)
+Der Westen: 7 (0.3645833333333333%)
+WAZ News: 7 (0.3645833333333333%)
+Schwäbische: 6 (0.3125%)
+Abendzeitung: 5 (0.26041666666666663%)
+Stuttgarter Nachrichten: 5 (0.26041666666666663%)
+Frankfurter Rundschau: 5 (0.26041666666666663%)
+SWR: 4 (0.20833333333333334%)
+Stuttgarter Zeitung: 4 (0.20833333333333334%)
+faz: 4 (0.20833333333333334%)
+shz.de: 4 (0.20833333333333334%)
+WDR Nachrichten: 4 (0.20833333333333334%)
+Westdeutsche Allgemeine Zeitung: 4 (0.20833333333333334%)
+Augsburger Allgemeine: 3 (0.15625%)
+Neue Westfälische: 3 (0.15625%)
+HNA.de: 3 (0.15625%)
+Hannoversche Allgemeine: 3 (0.15625%)
+Presseportal.de: 3 (0.15625%)
+Nordwest-Zeitung: 2 (0.10416666666666667%)
+Neue Osnabrücker Zeitung: 2 (0.10416666666666667%)
+Hamburger Abendblatt: 1 (0.052083333333333336%)
+Panorama: 1 (0.052083333333333336%)
+Express.de: 1 (0.052083333333333336%)
+rosenheim24.de: 1 (0.052083333333333336%)
+turi2: 1 (0.052083333333333336%)
+wa.de: 1 (0.052083333333333336%)
+General-Anzeiger: 1 (0.052083333333333336%)
+Leipziger Volkszeitung: 1 (0.052083333333333336%)
+focus.de: 1 (0.052083333333333336%)

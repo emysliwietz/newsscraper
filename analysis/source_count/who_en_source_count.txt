@@ -1,208 +1,208 @@
-The Guardian: 110
-BBC News: 81
-Daily Mail: 54
-BBC Sport: 50
-CNN: 33
-CNBC: 31
-Sky News: 24
-The New York Times: 21
-expressandstar.com: 21
-Metro.co.uk: 20
-World Health Organization: 19
-Reuters: 15
-Al Jazeera English: 12
-Fox News: 11
-Mirror Online: 11
-Manchester Evening News: 11
-Reuters UK: 9
-ITV News: 8
-World Economic Forum: 8
-New York Post : 8
-NPR: 7
-The New Yorker: 7
-CNA: 7
-Liverpool Echo: 7
-NBC News: 6
-Financial Times: 6
-The Washington Post: 6
-Bloomberg: 6
-NewsClicks: 6
-The Sun: 5
-BBC South East Wales: 5
-ABC News: 5
-Wales Online: 5
-Sky Sports: 5
-Bradford Telegraph and Argus: 4
-LeaderLive: 4
-The Star Online: 4
-The Wall Street Journal: 4
-shropshirestar.com: 4
-NBCNews.com: 4
-Formula 1: 4
-Express.co.uk: 3
-GOV.UK: 3
-Cycling Weekly: 3
-Telegraph.co.uk: 3
-The Register: 3
-MarketWatch: 3
-TheChronicleHerald.ca: 3
-The Loppy: 3
-The Hill: 3
-CBC.ca: 3
-The Globe and Mail: 3
-CIDRAP: 3
-Anadolu Agency: 3
-The Japan Times: 3
-Jakarta Post: 3
-Forbes: 3
-Derbyshire Live: 3
-Hindustan Times: 3
-CBBC Newsround: 2
-7NEWS.com.au: 2
-Chronicle Live: 2
-Warrington Guardian: 2
-St Helens Star: 2
-Plymouth Live: 2
-The Northern Echo: 2
-The Brussels Times: 2
-Eastern Daily Press: 2
-Daily Record: 2
-POLITICO: 2
-News Shopper: 2
-BT Sport: 2
-Foreign Policy: 2
-The Conversation UK: 2
-USA TODAY: 2
-RTE.ie: 2
-The Straits Times: 2
-National Post: 2
-Formula 1 RSS UK: 2
-News Info Park: 2
-Manchester City FC: 2
-Bury Times: 2
-Focus Taiwan News Channel: 2
-Cheshire Live: 2
-cgtn.com: 2
-The Economist: 2
-ThePrint: 2
-MyLondon: 2
-Vox.com: 1
-talkSPORT.com: 1
-East Anglian Daily Times: 1
-Morning Star Online: 1
-Cambridge News: 1
-Seattle Times: 1
-Spiked: 1
-中国日报: 1
-CALmatters: 1
-DW (English): 1
-syracuse.com: 1
-Tufts Daily: 1
-Exit - Explain Albania: 1
-FierceBiotech: 1
-RadioTimes: 1
-Hereford Times: 1
-Federal News Network: 1
-WKRG News 5: 1
-HuffPost UK: 1
-Science News: 1
-News & Star: 1
-Wigan Today: 1
-The Irish Times: 1
-Gazette: 1
-Heart: 1
-The Mercury News: 1
-Civil Service World: 1
-Voice of America: 1
-Medical News Today: 1
-Lawfare: 1
-Oxford Mail: 1
-TechCrunch: 1
-CTV News: 1
-KBTX: 1
-Common Dreams: 1
-straits times: 1
-The Moscow Times: 1
-Washington Post: 1
-WGME: 1
-The New European: 1
-NJ.com: 1
-WILX-TV: 1
-New Scientist: 1
-AFP Factcheck: 1
-Greeley Tribune: 1
-Lancashire Telegraph: 1
-New Scientist News: 1
-EWN: 1
-Business Insider: 1
-Press Herald: 1
-Livescience.com: 1
-The Argus: 1
-NBC 5 Dallas-Fort Worth: 1
-WRTV Indianapolis: 1
-Human Rights Watch: 1
-Herald-Mail Media: 1
-WKBW-TV: 1
-Global News: 1
-UN News: 1
-U.S. News & World Report: 1
-National Review: 1
-Evening Telegraph: 1
-Los Angeles Times: 1
-Echo: 1
-TheBlaze: 1
-The Canberra Times: 1
-City A.M.: 1
-Khaleej Times: 1
-Aljazeera.com: 1
-Romford Recorder: 1
-Edmonton Journal: 1
-9News: 1
-The Age: 1
-Nursing Times: 1
-LancsLive: 1
-South Wales Argus: 1
-Daily Echo: 1
-The Logical Indian: 1
-Great Yarmouth Mercury: 1
-Scroll.in: 1
-www.ekathimerini.com: 1
-Belfast Telegraph: 1
-Full Fact: 1
-The Courier: 1
-Aberdeen Evening Express: 1
-ActionNewsJax.com: 1
-India Gone Viral: 1
-AirQualityNews: 1
-Dunfermline Press: 1
-The Wiltshire Gazette and Herald: 1
-Skift: 1
-Your Local Guardian: 1
-Leicestershire Live: 1
-Milton Keynes Citizen: 1
-Nikkei Asian Review: 1
-Hong Kong Free Press: 1
-Deccan Herald: 1
-BloombergQuint: 1
-ScienceAlert: 1
-Southwark News: 1
-Lincolnshire Reporter: 1
-Science Daily: 1
-Wiltshire Times: 1
-The Hindu: 1
-Express: 1
-Anadolu Ajansı: 1
-The Africa Report: 1
-University of Stirling: 1
-wgbh.org: 1
-Science Magazine: 1
-NW Evening Mail: 1
-Republic World: 1
-National Geographic UK: 1
-Trends Wide: 1
-CNBCTV18: 1
-Tampa Bay Times: 1
-Borehamwood Times: 1
-MKFM: 1
-Global Times: 1
-India TV News: 1
+The Guardian: 110 (12.181616832779623%)
+BBC News: 81 (8.970099667774086%)
+Daily Mail: 54 (5.980066445182724%)
+BBC Sport: 50 (5.537098560354374%)
+CNN: 33 (3.6544850498338874%)
+CNBC: 31 (3.433001107419712%)
+Sky News: 24 (2.6578073089700998%)
+The New York Times: 21 (2.3255813953488373%)
+expressandstar.com: 21 (2.3255813953488373%)
+Metro.co.uk: 20 (2.2148394241417497%)
+World Health Organization: 19 (2.104097452934662%)
+Reuters: 15 (1.6611295681063125%)
+Al Jazeera English: 12 (1.3289036544850499%)
+Fox News: 11 (1.2181616832779625%)
+Mirror Online: 11 (1.2181616832779625%)
+Manchester Evening News: 11 (1.2181616832779625%)
+Reuters UK: 9 (0.9966777408637874%)
+ITV News: 8 (0.8859357696566998%)
+World Economic Forum: 8 (0.8859357696566998%)
+New York Post : 8 (0.8859357696566998%)
+NPR: 7 (0.7751937984496124%)
+The New Yorker: 7 (0.7751937984496124%)
+CNA: 7 (0.7751937984496124%)
+Liverpool Echo: 7 (0.7751937984496124%)
+NBC News: 6 (0.6644518272425249%)
+Financial Times: 6 (0.6644518272425249%)
+The Washington Post: 6 (0.6644518272425249%)
+Bloomberg: 6 (0.6644518272425249%)
+NewsClicks: 6 (0.6644518272425249%)
+The Sun: 5 (0.5537098560354374%)
+BBC South East Wales: 5 (0.5537098560354374%)
+ABC News: 5 (0.5537098560354374%)
+Wales Online: 5 (0.5537098560354374%)
+Sky Sports: 5 (0.5537098560354374%)
+Bradford Telegraph and Argus: 4 (0.4429678848283499%)
+LeaderLive: 4 (0.4429678848283499%)
+The Star Online: 4 (0.4429678848283499%)
+The Wall Street Journal: 4 (0.4429678848283499%)
+shropshirestar.com: 4 (0.4429678848283499%)
+NBCNews.com: 4 (0.4429678848283499%)
+Formula 1: 4 (0.4429678848283499%)
+Express.co.uk: 3 (0.33222591362126247%)
+GOV.UK: 3 (0.33222591362126247%)
+Cycling Weekly: 3 (0.33222591362126247%)
+Telegraph.co.uk: 3 (0.33222591362126247%)
+The Register: 3 (0.33222591362126247%)
+MarketWatch: 3 (0.33222591362126247%)
+TheChronicleHerald.ca: 3 (0.33222591362126247%)
+The Loppy: 3 (0.33222591362126247%)
+The Hill: 3 (0.33222591362126247%)
+CBC.ca: 3 (0.33222591362126247%)
+The Globe and Mail: 3 (0.33222591362126247%)
+CIDRAP: 3 (0.33222591362126247%)
+Anadolu Agency: 3 (0.33222591362126247%)
+The Japan Times: 3 (0.33222591362126247%)
+Jakarta Post: 3 (0.33222591362126247%)
+Forbes: 3 (0.33222591362126247%)
+Derbyshire Live: 3 (0.33222591362126247%)
+Hindustan Times: 3 (0.33222591362126247%)
+CBBC Newsround: 2 (0.22148394241417496%)
+7NEWS.com.au: 2 (0.22148394241417496%)
+Chronicle Live: 2 (0.22148394241417496%)
+Warrington Guardian: 2 (0.22148394241417496%)
+St Helens Star: 2 (0.22148394241417496%)
+Plymouth Live: 2 (0.22148394241417496%)
+The Northern Echo: 2 (0.22148394241417496%)
+The Brussels Times: 2 (0.22148394241417496%)
+Eastern Daily Press: 2 (0.22148394241417496%)
+Daily Record: 2 (0.22148394241417496%)
+POLITICO: 2 (0.22148394241417496%)
+News Shopper: 2 (0.22148394241417496%)
+BT Sport: 2 (0.22148394241417496%)
+Foreign Policy: 2 (0.22148394241417496%)
+The Conversation UK: 2 (0.22148394241417496%)
+USA TODAY: 2 (0.22148394241417496%)
+RTE.ie: 2 (0.22148394241417496%)
+The Straits Times: 2 (0.22148394241417496%)
+National Post: 2 (0.22148394241417496%)
+Formula 1 RSS UK: 2 (0.22148394241417496%)
+News Info Park: 2 (0.22148394241417496%)
+Manchester City FC: 2 (0.22148394241417496%)
+Bury Times: 2 (0.22148394241417496%)
+Focus Taiwan News Channel: 2 (0.22148394241417496%)
+Cheshire Live: 2 (0.22148394241417496%)
+cgtn.com: 2 (0.22148394241417496%)
+The Economist: 2 (0.22148394241417496%)
+ThePrint: 2 (0.22148394241417496%)
+MyLondon: 2 (0.22148394241417496%)
+Vox.com: 1 (0.11074197120708748%)
+talkSPORT.com: 1 (0.11074197120708748%)
+East Anglian Daily Times: 1 (0.11074197120708748%)
+Morning Star Online: 1 (0.11074197120708748%)
+Cambridge News: 1 (0.11074197120708748%)
+Seattle Times: 1 (0.11074197120708748%)
+Spiked: 1 (0.11074197120708748%)
+中国日报: 1 (0.11074197120708748%)
+CALmatters: 1 (0.11074197120708748%)
+DW (English): 1 (0.11074197120708748%)
+syracuse.com: 1 (0.11074197120708748%)
+Tufts Daily: 1 (0.11074197120708748%)
+Exit - Explain Albania: 1 (0.11074197120708748%)
+FierceBiotech: 1 (0.11074197120708748%)
+RadioTimes: 1 (0.11074197120708748%)
+Hereford Times: 1 (0.11074197120708748%)
+Federal News Network: 1 (0.11074197120708748%)
+WKRG News 5: 1 (0.11074197120708748%)
+HuffPost UK: 1 (0.11074197120708748%)
+Science News: 1 (0.11074197120708748%)
+News & Star: 1 (0.11074197120708748%)
+Wigan Today: 1 (0.11074197120708748%)
+The Irish Times: 1 (0.11074197120708748%)
+Gazette: 1 (0.11074197120708748%)
+Heart: 1 (0.11074197120708748%)
+The Mercury News: 1 (0.11074197120708748%)
+Civil Service World: 1 (0.11074197120708748%)
+Voice of America: 1 (0.11074197120708748%)
+Medical News Today: 1 (0.11074197120708748%)
+Lawfare: 1 (0.11074197120708748%)
+Oxford Mail: 1 (0.11074197120708748%)
+TechCrunch: 1 (0.11074197120708748%)
+CTV News: 1 (0.11074197120708748%)
+KBTX: 1 (0.11074197120708748%)
+Common Dreams: 1 (0.11074197120708748%)
+straits times: 1 (0.11074197120708748%)
+The Moscow Times: 1 (0.11074197120708748%)
+Washington Post: 1 (0.11074197120708748%)
+WGME: 1 (0.11074197120708748%)
+The New European: 1 (0.11074197120708748%)
+NJ.com: 1 (0.11074197120708748%)
+WILX-TV: 1 (0.11074197120708748%)
+New Scientist: 1 (0.11074197120708748%)
+AFP Factcheck: 1 (0.11074197120708748%)
+Greeley Tribune: 1 (0.11074197120708748%)
+Lancashire Telegraph: 1 (0.11074197120708748%)
+New Scientist News: 1 (0.11074197120708748%)
+EWN: 1 (0.11074197120708748%)
+Business Insider: 1 (0.11074197120708748%)
+Press Herald: 1 (0.11074197120708748%)
+Livescience.com: 1 (0.11074197120708748%)
+The Argus: 1 (0.11074197120708748%)
+NBC 5 Dallas-Fort Worth: 1 (0.11074197120708748%)
+WRTV Indianapolis: 1 (0.11074197120708748%)
+Human Rights Watch: 1 (0.11074197120708748%)
+Herald-Mail Media: 1 (0.11074197120708748%)
+WKBW-TV: 1 (0.11074197120708748%)
+Global News: 1 (0.11074197120708748%)
+UN News: 1 (0.11074197120708748%)
+U.S. News & World Report: 1 (0.11074197120708748%)
+National Review: 1 (0.11074197120708748%)
+Evening Telegraph: 1 (0.11074197120708748%)
+Los Angeles Times: 1 (0.11074197120708748%)
+Echo: 1 (0.11074197120708748%)
+TheBlaze: 1 (0.11074197120708748%)
+The Canberra Times: 1 (0.11074197120708748%)
+City A.M.: 1 (0.11074197120708748%)
+Khaleej Times: 1 (0.11074197120708748%)
+Aljazeera.com: 1 (0.11074197120708748%)
+Romford Recorder: 1 (0.11074197120708748%)
+Edmonton Journal: 1 (0.11074197120708748%)
+9News: 1 (0.11074197120708748%)
+The Age: 1 (0.11074197120708748%)
+Nursing Times: 1 (0.11074197120708748%)
+LancsLive: 1 (0.11074197120708748%)
+South Wales Argus: 1 (0.11074197120708748%)
+Daily Echo: 1 (0.11074197120708748%)
+The Logical Indian: 1 (0.11074197120708748%)
+Great Yarmouth Mercury: 1 (0.11074197120708748%)
+Scroll.in: 1 (0.11074197120708748%)
+www.ekathimerini.com: 1 (0.11074197120708748%)
+Belfast Telegraph: 1 (0.11074197120708748%)
+Full Fact: 1 (0.11074197120708748%)
+The Courier: 1 (0.11074197120708748%)
+Aberdeen Evening Express: 1 (0.11074197120708748%)
+ActionNewsJax.com: 1 (0.11074197120708748%)
+India Gone Viral: 1 (0.11074197120708748%)
+AirQualityNews: 1 (0.11074197120708748%)
+Dunfermline Press: 1 (0.11074197120708748%)
+The Wiltshire Gazette and Herald: 1 (0.11074197120708748%)
+Skift: 1 (0.11074197120708748%)
+Your Local Guardian: 1 (0.11074197120708748%)
+Leicestershire Live: 1 (0.11074197120708748%)
+Milton Keynes Citizen: 1 (0.11074197120708748%)
+Nikkei Asian Review: 1 (0.11074197120708748%)
+Hong Kong Free Press: 1 (0.11074197120708748%)
+Deccan Herald: 1 (0.11074197120708748%)
+BloombergQuint: 1 (0.11074197120708748%)
+ScienceAlert: 1 (0.11074197120708748%)
+Southwark News: 1 (0.11074197120708748%)
+Lincolnshire Reporter: 1 (0.11074197120708748%)
+Science Daily: 1 (0.11074197120708748%)
+Wiltshire Times: 1 (0.11074197120708748%)
+The Hindu: 1 (0.11074197120708748%)
+Express: 1 (0.11074197120708748%)
+Anadolu Ajansı: 1 (0.11074197120708748%)
+The Africa Report: 1 (0.11074197120708748%)
+University of Stirling: 1 (0.11074197120708748%)
+wgbh.org: 1 (0.11074197120708748%)
+Science Magazine: 1 (0.11074197120708748%)
+NW Evening Mail: 1 (0.11074197120708748%)
+Republic World: 1 (0.11074197120708748%)
+National Geographic UK: 1 (0.11074197120708748%)
+Trends Wide: 1 (0.11074197120708748%)
+CNBCTV18: 1 (0.11074197120708748%)
+Tampa Bay Times: 1 (0.11074197120708748%)
+Borehamwood Times: 1 (0.11074197120708748%)
+MKFM: 1 (0.11074197120708748%)
+Global Times: 1 (0.11074197120708748%)
+India TV News: 1 (0.11074197120708748%)

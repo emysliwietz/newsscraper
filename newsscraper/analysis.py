@@ -96,6 +96,27 @@ def sort_lines(lines):
     return lines_for_file
 
 
+def calculate_percentages(lines, total_headlines):
+    lines_split = lines.split("\n")
+    percentages = []
+    lines_for_file = ""
+    for line in lines_split:
+        if line == '':
+            break
+
+        index = lines.index(line)
+        numbers = line.split(": ")
+        num = int(numbers[1])
+        percentages.append(num/total_headlines * 100)
+
+    length = len(lines_split) - 1
+    for i in range(length):
+        line = "{} ({}%)\n".format(lines_split[i], str(percentages[i]))
+        lines_for_file += line
+
+    return lines_for_file
+
+
 def source_count_per_file():
     for file in files:
         filename = file.replace('.txt', '')
@@ -111,7 +132,7 @@ def source_count_per_file():
         lines = lines_in_file.split("\n")
         sources = []
         occurences = []
-        print("Total number of headlines: " + str(len(lines)))
+        print("Total number of headlines: " + str(len(lines) - 1))
         for line in lines:
             if line == '':
                 break
@@ -134,6 +155,7 @@ def source_count_per_file():
             lines_to_sort += line
 
         lines_to_append = sort_lines(lines_to_sort)
+        lines_to_append = calculate_percentages(lines_to_append, len(lines) - 1)
         with open(filepath, write_mode, encoding='utf-8') as f:
             f.write(lines_to_append)
 
@@ -170,7 +192,7 @@ def source_count_de():
                 index = sources.index(source)
                 occurences[index] += 1
 
-    print("Total number of headlines: " + str(total_headlines))
+    print("Total number of headlines: " + str(total_headlines - 1))
     num_sources = len(sources) - 1
     lines_to_append = ""
     lines_to_sort = ""
@@ -179,6 +201,7 @@ def source_count_de():
         lines_to_sort += line
 
     lines_to_append = sort_lines(lines_to_sort)
+    lines_to_append = calculate_percentages(lines_to_append, total_headlines - 1)
     with open(filepath, write_mode, encoding='utf-8') as f:
         f.write(lines_to_append)
 
@@ -215,7 +238,7 @@ def source_count_en():
                 index = sources.index(source)
                 occurences[index] += 1
 
-    print("Total number of headlines: " + str(total_headlines))
+    print("Total number of headlines: " + str(total_headlines - 1))
     num_sources = len(sources) - 1
     lines_to_append = ""
     lines_to_sort = ""
@@ -224,6 +247,7 @@ def source_count_en():
         lines_to_sort += line
 
     lines_to_append = sort_lines(lines_to_sort)
+    lines_to_append = calculate_percentages(lines_to_append, total_headlines - 1)
     with open(filepath, write_mode, encoding='utf-8') as f:
         f.write(lines_to_append)
 
@@ -260,7 +284,7 @@ def source_count_nl():
                 index = sources.index(source)
                 occurences[index] += 1
 
-    print("Total number of headlines: " + str(total_headlines))
+    print("Total number of headlines: " + str(total_headlines - 1))
     num_sources = len(sources) - 1
     lines_to_append = ""
     lines_to_sort = ""
@@ -269,6 +293,7 @@ def source_count_nl():
         lines_to_sort += line
 
     lines_to_append = sort_lines(lines_to_sort)
+    lines_to_append = calculate_percentages(lines_to_append, total_headlines - 1)
     with open(filepath, write_mode, encoding='utf-8') as f:
         f.write(lines_to_append)
 

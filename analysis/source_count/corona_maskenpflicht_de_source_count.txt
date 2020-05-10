@@ -1,85 +1,85 @@
-merkur.de: 65
-NDR.de: 31
-Berliner Morgenpost: 20
-Merkur.de: 19
-hna.de: 18
-SWP: 18
-WELT: 15
-tz.de: 14
-DER SPIEGEL: 13
-RTL Online: 12
-RP ONLINE: 10
-tagesschau.de: 8
-rbb|24: 8
-ruhr24.de: 8
-HNA.de: 8
-BILD: 7
-buten un binnen: 7
-t-online.de: 6
-kreiszeitung.de: 6
-RND: 6
-watson: 6
-heidelberg24.de: 5
-fnp.de: 5
-STERN.de: 5
-inFranken.de: 5
-Tagesspiegel: 5
-MDR: 5
-BNN - Badische Neueste Nachrichten: 4
-Frankfurter Rundschau: 4
-owl24.de: 4
-ZDFheute: 3
-Süddeutsche Zeitung: 3
-Westfälischer Anzeiger: 3
-Westfalenpost: 3
-SWR: 3
-taz.de: 3
-FAZ - Frankfurter Allgemeine Zeitung: 3
-Hamburger Abendblatt: 3
-Meinerzhagener Zeitung: 2
-Gießener Allgemeine: 2
-ZEIT ONLINE: 2
-Panorama: 2
-mannheim24.de: 2
-Heilpraxisnet.de: 2
-extratipp.com: 2
-wa.de: 2
-Stuttgarter Zeitung: 2
-DIE WELT: 2
-Wolfsburger Allgemeine: 2
-SÜDKURIER Online: 2
-FOCUS Online: 2
-Heilbronner Stimme: 2
-Lübecker Nachrichten: 2
-General-Anzeiger: 1
-Tichys Einblick: 1
-Der Westen: 1
-hamburg.de: 1
-WP News: 1
-hallo-muenchen.de: 1
-Saarbrücker Zeitung: 1
-op-online.de: 1
-WDR Nachrichten: 1
-Haufe - News & Fachwissen: 1
-B.Z. Berlin: 1
-Berliner Zeitung: 1
-shz.de: 1
-WESER-KURIER: 1
-Derwesten.de: 1
-az-online.de: 1
-Sächsische Zeitung: 1
-Kreisbote: 1
-n-tv NACHRICHTEN: 1
-ludwigshafen24.de: 1
-Deutschlandfunk: 1
-rbb-online.de: 1
-Märkische Allgemeine: 1
-nordbuzz.de: 1
-BR24: 1
-Göttinger Tageblatt: 1
-Braunschweiger Zeitung: 1
-Westdeutsche Allgemeine Zeitung: 1
-NRZ: 1
-Volksstimme: 1
-hessenschau.de: 1
-Nordwest-Zeitung: 1
+merkur.de: 65 (14.942528735632186%)
+NDR.de: 31 (7.126436781609195%)
+Berliner Morgenpost: 20 (4.597701149425287%)
+Merkur.de: 19 (4.3678160919540225%)
+hna.de: 18 (4.137931034482759%)
+SWP: 18 (4.137931034482759%)
+WELT: 15 (3.4482758620689653%)
+tz.de: 14 (3.218390804597701%)
+DER SPIEGEL: 13 (2.9885057471264367%)
+RTL Online: 12 (2.7586206896551726%)
+RP ONLINE: 10 (2.2988505747126435%)
+tagesschau.de: 8 (1.839080459770115%)
+rbb|24: 8 (1.839080459770115%)
+ruhr24.de: 8 (1.839080459770115%)
+HNA.de: 8 (1.839080459770115%)
+BILD: 7 (1.6091954022988506%)
+buten un binnen: 7 (1.6091954022988506%)
+t-online.de: 6 (1.3793103448275863%)
+kreiszeitung.de: 6 (1.3793103448275863%)
+RND: 6 (1.3793103448275863%)
+watson: 6 (1.3793103448275863%)
+heidelberg24.de: 5 (1.1494252873563218%)
+fnp.de: 5 (1.1494252873563218%)
+STERN.de: 5 (1.1494252873563218%)
+inFranken.de: 5 (1.1494252873563218%)
+Tagesspiegel: 5 (1.1494252873563218%)
+MDR: 5 (1.1494252873563218%)
+BNN - Badische Neueste Nachrichten: 4 (0.9195402298850575%)
+Frankfurter Rundschau: 4 (0.9195402298850575%)
+owl24.de: 4 (0.9195402298850575%)
+ZDFheute: 3 (0.6896551724137931%)
+Süddeutsche Zeitung: 3 (0.6896551724137931%)
+Westfälischer Anzeiger: 3 (0.6896551724137931%)
+Westfalenpost: 3 (0.6896551724137931%)
+SWR: 3 (0.6896551724137931%)
+taz.de: 3 (0.6896551724137931%)
+FAZ - Frankfurter Allgemeine Zeitung: 3 (0.6896551724137931%)
+Hamburger Abendblatt: 3 (0.6896551724137931%)
+Meinerzhagener Zeitung: 2 (0.45977011494252873%)
+Gießener Allgemeine: 2 (0.45977011494252873%)
+ZEIT ONLINE: 2 (0.45977011494252873%)
+Panorama: 2 (0.45977011494252873%)
+mannheim24.de: 2 (0.45977011494252873%)
+Heilpraxisnet.de: 2 (0.45977011494252873%)
+extratipp.com: 2 (0.45977011494252873%)
+wa.de: 2 (0.45977011494252873%)
+Stuttgarter Zeitung: 2 (0.45977011494252873%)
+DIE WELT: 2 (0.45977011494252873%)
+Wolfsburger Allgemeine: 2 (0.45977011494252873%)
+SÜDKURIER Online: 2 (0.45977011494252873%)
+FOCUS Online: 2 (0.45977011494252873%)
+Heilbronner Stimme: 2 (0.45977011494252873%)
+Lübecker Nachrichten: 2 (0.45977011494252873%)
+General-Anzeiger: 1 (0.22988505747126436%)
+Tichys Einblick: 1 (0.22988505747126436%)
+Der Westen: 1 (0.22988505747126436%)
+hamburg.de: 1 (0.22988505747126436%)
+WP News: 1 (0.22988505747126436%)
+hallo-muenchen.de: 1 (0.22988505747126436%)
+Saarbrücker Zeitung: 1 (0.22988505747126436%)
+op-online.de: 1 (0.22988505747126436%)
+WDR Nachrichten: 1 (0.22988505747126436%)
+Haufe - News & Fachwissen: 1 (0.22988505747126436%)
+B.Z. Berlin: 1 (0.22988505747126436%)
+Berliner Zeitung: 1 (0.22988505747126436%)
+shz.de: 1 (0.22988505747126436%)
+WESER-KURIER: 1 (0.22988505747126436%)
+Derwesten.de: 1 (0.22988505747126436%)
+az-online.de: 1 (0.22988505747126436%)
+Sächsische Zeitung: 1 (0.22988505747126436%)
+Kreisbote: 1 (0.22988505747126436%)
+n-tv NACHRICHTEN: 1 (0.22988505747126436%)
+ludwigshafen24.de: 1 (0.22988505747126436%)
+Deutschlandfunk: 1 (0.22988505747126436%)
+rbb-online.de: 1 (0.22988505747126436%)
+Märkische Allgemeine: 1 (0.22988505747126436%)
+nordbuzz.de: 1 (0.22988505747126436%)
+BR24: 1 (0.22988505747126436%)
+Göttinger Tageblatt: 1 (0.22988505747126436%)
+Braunschweiger Zeitung: 1 (0.22988505747126436%)
+Westdeutsche Allgemeine Zeitung: 1 (0.22988505747126436%)
+NRZ: 1 (0.22988505747126436%)
+Volksstimme: 1 (0.22988505747126436%)
+hessenschau.de: 1 (0.22988505747126436%)
+Nordwest-Zeitung: 1 (0.22988505747126436%)
