@@ -1,120 +1,125 @@
-The Guardian: 601
-BBC News: 584
-Daily Mail: 322
-Financial Times: 293
-CNN: 245
-The Sun: 185
-The New York Times: 177
-Sky News: 168
-Mirror Online: 152
-Metro.co.uk: 133
-Telegraph.co.uk: 125
-The Independent: 103
-Express.co.uk: 96
-CNBC: 92
-Express: 88
-ABC News: 81
-BBC South East Wales: 73
-Al Jazeera English: 73
-Bloomberg: 73
-ITV News: 66
-Reuters: 66
-The Telegraph: 59
+The Guardian: 632
+BBC News: 618
+Daily Mail: 345
+Financial Times: 310
+CNN: 268
+The Sun: 196
+The New York Times: 182
+Sky News: 179
+Mirror Online: 168
+Metro.co.uk: 145
+Telegraph.co.uk: 132
+The Independent: 105
+Express.co.uk: 103
+Express: 94
+CNBC: 93
+ABC News: 89
+Al Jazeera English: 78
+Bloomberg: 78
+BBC South East Wales: 77
+ITV News: 71
+Reuters: 70
+Evening Standard: 64
+The Telegraph: 62
+The Washington Post: 60
 EU News: 58
-The Washington Post: 58
-Evening Standard: 56
-BBC Sport: 46
+BBC Sport: 51
+POLITICO: 48
 Business Today: 46
-POLITICO: 44
-DW (English): 38
-Reuters UK: 38
-The Times: 35
-Manchester Evening News: 35
-Fox News: 28
+DW (English): 40
+Reuters UK: 40
+The Times: 39
+Manchester Evening News: 38
+Euronews: 31
+Fox News: 29
+Anadolu Agency: 29
 EURACTIV: 27
-Anadolu Agency: 27
-USA TODAY: 26
+USA TODAY: 27
 Forbes: 26
-Euronews: 26
 Guardian News: 26
 expressandstar.com: 25
 NPR: 25
+The Atlantic: 25
 The Loppy: 23
-The Atlantic: 23
+Wales Online: 22
+Times of India: 22
+The Irish Times: 22
+Business Insider: 22
 EUobserver: 21
-Wales Online: 21
-Business Insider: 21
-The Irish Times: 20
+Deadline: 20
 The Local Germany: 19
-Times of India: 19
-Deadline: 19
-World Health Organization: 18
+World Health Organization: 19
+CNN International: 18
 NBC News: 17
-CNN International: 16
-Daily Record: 16
+Daily Record: 17
+NBCNews.com: 16
+The Hindu: 16
+The Indian Express: 16
 The Local Italy: 16
 India Today: 16
 The Wall Street Journal: 15
 CNA: 15
-The Indian Express: 15
-NBCNews.com: 14
+RTE.ie: 14
 Liverpool Echo: 13
 New York Post : 13
 MarketWatch: 13
-RTE.ie: 13
 9News: 13
-The Hindu: 13
+inews: 13
 The Hill: 12
 The Straits Times: 12
+Jakarta Post: 11
 Vox.com: 11
 The Brussels Times: 11
 NewsClicks: 11
 Aljazeera.com: 11
 Vanity Fair: 11
-inews: 11
+The Scotsman: 11
 India Gone Viral: 10
-Jakarta Post: 10
+The New Yorker: 10
 The New European: 10
+Global News: 10
 The Economist: 10
 Economic Times: 10
-The Scotsman: 10
 World Economic Forum: 9
-The New Yorker: 9
-Global News: 9
+VOA News: 9
 Los Angeles Times: 8
+News Info Park: 8
 Hindustan Times: 8
+Xinhua: 8
+TRT World: 8
 The Berlin Spectator: 7
 The Verge: 7
 The Star Online: 7
 Washington Post: 7
-News Info Park: 7
+CBC.ca: 7
 Sky Sports: 7
+Deccan Herald: 7
 The Associated Press: 7
 SBS News: 7
-VOA News: 7
+BBC: 7
 GOV.UK: 6
 The Conversation UK: 6
-Deccan Herald: 6
+PoliticsHome.com: 6
 Livemint: 6
 Whitehouse.gov: 6
 TIME: 6
 Politico: 6
+Newsweek: 6
 WKMG News 6 & ClickOrlando: 6
-Xinhua: 6
+SchengenVisaInfo.com: 6
 EU Reporter: 6
 FRANCE 24 English: 6
 7NEWS.com.au: 5
-CBC.ca: 5
+U.S. News & World Report: 5
 The Japan Times: 5
 Belfast Telegraph: 5
 Anadolu Ajansı: 5
+Edinburgh News: 5
 Smash Newz: 5
-Newsweek: 5
-SchengenVisaInfo.com: 5
 European Western Balkans: 5
 The Parliament Magazine: 5
-TRT World: 5
 dineshr: 5
+The Statesman: 5
 KGO-TV: 5
 The Next Web: 5
 CNET: 5
@@ -123,7 +128,6 @@ The Local Sweden: 4
 The Nation: 4
 Wired.co.uk: 4
 Gulf News: 4
-PoliticsHome.com: 4
 Bradford Telegraph and Argus: 4
 LeaderLive: 4
 The Register: 4
@@ -132,32 +136,38 @@ HuffPost UK: 4
 shropshirestar.com: 4
 The Globe and Mail: 4
 NJ.com: 4
-U.S. News & World Report: 4
 National Review: 4
+Formula 1: 4
 The Age: 4
 Leicestershire Live: 4
+ThePrint: 4
 CNBCTV18: 4
 South China Morning Post: 4
-Edinburgh News: 4
 HuffPost: 4
 Sydney Morning Herald: 4
 Financial Post: 4
+CGTN: 4
+Chicago Sun-Times: 4
 The-Latest News: 4
 DefenseNews.com: 4
 FRANCE 24: 4
 RFI: 4
-The Statesman: 4
+Business Standard: 4
+The Philadelphia Inquirer: 4
 NBC10 Boston: 4
 Inkstone: 4
 ABP Live: 4
 Mirror.co.uk: 4
-BBC: 4
+Devon Live: 4
 AS.com Móvil: 3
 The News International: 3
+The Scottish Sun: 3
 World Socialist Web Site: 3
 talkSPORT.com: 3
+MyLondon: 3
 Cycling Weekly: 3
 中国日报: 3
+Plymouth Live: 3
 TheChronicleHerald.ca: 3
 The Mercury News: 3
 CTV News: 3
@@ -165,30 +175,27 @@ CIDRAP: 3
 National Post: 3
 The Canberra Times: 3
 Manchester City FC: 3
-Formula 1: 3
 Derbyshire Live: 3
 Cheshire Live: 3
-ThePrint: 3
 Republic World: 3
 Cyprus Mail: 3
 Yahoo Finance: 3
+Daily Sabah: 3
 NDTV: 3
 The Boston Globe: 3
 Salt Lake Tribune: 3
 Axios: 3
 edie.net: 3
 Carnegie Europe: 3
-CGTN: 3
 Mondaq News Alerts: 3
+Reuters India: 3
 INSIDER: 3
 The Daily Beast: 3
 KIRO Seattle: 3
 The Newsopedia: 3
-Business Standard: 3
 Euro Weekly News: 3
 Outlook India: 3
 HeraldScotland: 3
-The Philadelphia Inquirer: 3
 WLS-TV: 3
 Austin American-Statesman: 3
 nbcboston.com: 3
@@ -196,12 +203,9 @@ NBC Chicago: 3
 Press-Enterprise: 3
 WBUR: 3
 Las Cruces Sun-News: 3
-Chicago Sun-Times: 3
 NL Times: 3
-Devon Live: 3
 Imperial College London: 2
 Science Magazine: 2
-The Scottish Sun: 2
 Eindhoven News: 2
 CBBC Newsround: 2
 Morning Star Online: 2
@@ -209,7 +213,6 @@ CALmatters: 2
 WKRG News 5: 2
 Warrington Guardian: 2
 St Helens Star: 2
-Plymouth Live: 2
 The Northern Echo: 2
 Voice of America: 2
 Eastern Daily Press: 2
@@ -227,6 +230,8 @@ www.ekathimerini.com: 2
 Full Fact: 2
 cgtn.com: 2
 NW Evening Mail: 2
+India TV News: 2
+Nottinghamshire Live: 2
 Quartz: 2
 The Australian: 2
 AZCentral: 2
@@ -243,6 +248,7 @@ Haaretz: 2
 The Dallas Morning News: 2
 Slate: 2
 Des Moines Register: 2
+Yahoo Sports: 2
 IPS Journal: 2
 ShareCast: 2
 New Statesman: 2
@@ -253,10 +259,13 @@ Emerging Europe: 2
 Deutsche Welle: 2
 ING Think: 2
 Fitch Ratings: 2
-Reuters India: 2
+Yahoo Finance UK: 2
+WHTC News: 2
 European Council on Foreign Relations: 2
 EUROPP - European Politics and Policy: 2
 InfoMigrants: 2
+Medical Xpress: 2
+Vatican News: 2
 Agenzia ANSA: 2
 artnet News: 2
 Spectator.co.uk: 2
@@ -275,6 +284,7 @@ ComputerWeekly.com: 2
 The Local Switzerland: 2
 The West Australian: 2
 MacRumors: 2
+Isle of Wight County Press: 2
 MIT Technology Review: 2
 Daijiworld.com: 2
 Jagran English: 2
@@ -283,8 +293,10 @@ Newsjok: 2
 citytoday: 2
 Essex Live: 2
 NDTV News: 2
+Daily Star: 2
 Chard & Ilminster News: 2
 Cornwall Live: 2
+NEWS.com.au: 2
 Birmingham Live: 2
 The Slovak Spectator: 1
 Daily Monitor: 1
@@ -298,7 +310,6 @@ THE CITY: 1
 ReliefWeb: 1
 NewsEverything: 1
 Africanews English: 1
-MyLondon: 1
 Kent Online: 1
 East Anglian Daily Times: 1
 Cambridge News: 1
@@ -374,6 +385,11 @@ University of Stirling: 1
 wgbh.org: 1
 National Geographic UK: 1
 Trends Wide: 1
+Tampa Bay Times: 1
+Borehamwood Times: 1
+MKFM: 1
+Global Times: 1
+Taiwan News: 1
 The Texas Tribune: 1
 Florida Politics: 1
 Esquire.com: 1
@@ -391,7 +407,6 @@ Newstalk ZB: 1
 The Spokesman-Review: 1
 Appleton Post Crescent: 1
 FXStreet: 1
-Daily Sabah: 1
 Bulletin Mail: 1
 Washington Times: 1
 Stuff.co.nz: 1
@@ -405,8 +420,12 @@ NME: 1
 Billboard: 1
 WDIV ClickOnDetroit: 1
 New York Daily News: 1
-Yahoo Sports: 1
 Brookings Institution: 1
+Tribune-Review: 1
+PennLive: 1
+Lowell Sun: 1
+KKTV 11 News: 1
+Philadelphia magazine: 1
 Chinadaily USA: 1
 POLITICO.eu: 1
 TTG: 1
@@ -421,9 +440,7 @@ This is Local London: 1
 Fortune: 1
 Farming Life: 1
 Risk.net: 1
-Yahoo Finance UK: 1
 Reuters.com: 1
-WHTC News: 1
 Prospect: 1
 The Asian Age: 1
 Deccan Chronicle: 1
@@ -445,9 +462,11 @@ JD Supra: 1
 Carbon Pulse: 1
 The European Sting: 1
 World Politics Review: 1
-Medical Xpress: 1
 Infosecurity Magazine: 1
 thejournal.ie: 1
+The First News: 1
+Israel Hayom: 1
+Jewish News: 1
 Football Italia: 1
 RFI English: 1
 Catholic Herald Online: 1
@@ -460,7 +479,6 @@ DER SPIEGEL: 1
 WSB Atlanta: 1
 24/7 Wall St.: 1
 WCVB Boston: 1
-Vatican News: 1
 wtkr.com: 1
 Trendinindia: 1
 FIFA.com: 1
@@ -489,6 +507,13 @@ Kazinform: 1
 Local Berkshire: 1
 The Tablet: 1
 GZERO Media: 1
+Politicopathy: 1
+Top Live News: 1
+Cumberland Times-News: 1
+WNWO NBC 24: 1
+Newsophilia: 1
+Alabama's News Leader: 1
+Yahoo Canada Finance: 1
 STAT: 1
 Crosscut: 1
 Spectrum News: 1
@@ -511,6 +536,7 @@ WGN TV Chicago: 1
 Boston 25 News: 1
 WAMU 88.5: 1
 Condé Nast Traveler: 1
+NBC Southern California: 1
 ZDNet: 1
 Mashable: 1
 The New Daily: 1
@@ -524,7 +550,6 @@ Business Insider India: 1
 The Canary: 1
 SmartCompany.com.au: 1
 On The Wight: 1
-Isle of Wight County Press: 1
 Northamptonshire Telegraph: 1
 Northampton Chronicle and Echo: 1
 News Mail: 1
@@ -539,7 +564,6 @@ Benzinga: 1
 Law.com: 1
 Eurasianet: 1
 FUTURE TV: 1
-India TV News: 1
 BusinessLine: 1
 DutchNews.nl: 1
 Free Press Journal: 1
@@ -557,7 +581,6 @@ EL PAÍS in English: 1
 FreshPlaza.com: 1
 Harrow Times: 1
 East London and West Essex Guardian Series: 1
-Daily Star: 1
 Newham Recorder: 1
 Spire FM: 1
 The London Economic: 1
@@ -571,7 +594,6 @@ York Press: 1
 letsrecycle.com: 1
 AOL UK: 1
 Swindon Advertiser: 1
-NEWS.com.au: 1
 AOL Travel UK: 1
 Yorkshire Evening Post: 1
 Gloucestershire Live: 1
@@ -581,3 +603,4 @@ FOX 29 News Philadelphia: 1
 Runner's World (UK): 1
 Wirral Globe: 1
 Football365.com: 1
+Scotland on Sunday: 1

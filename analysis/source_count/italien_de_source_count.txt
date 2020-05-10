@@ -1,29 +1,29 @@
 merkur.de: 30
-Süddeutsche Zeitung: 26
-Stol.it: 22
+Süddeutsche Zeitung: 28
+Stol.it: 26
+ORF.at: 22
 FOCUS Online: 19
-ORF.at: 19
 Frankfurter Rundschau: 16
-Suedtirol News: 14
-FAZ - Frankfurter Allgemeine Zeitung: 13
+Suedtirol News: 16
+FAZ - Frankfurter Allgemeine Zeitung: 14
 onvista: 13
 n-tv NACHRICHTEN: 12
 WELT: 12
+DER SPIEGEL: 11
 Vatican News: 10
-DER SPIEGEL: 9
+tagesschau.de: 9
 STERN.de: 9
-tagesschau.de: 8
-Deutschlandfunk: 7
-RTL Online: 7
+Deutschlandfunk: 8
+RTL Online: 8
+KURIER: 8
+Neue Zürcher Zeitung: 7
 domradio.de: 7
 Tagesspiegel: 6
 ZEIT ONLINE: 6
-Neue Zürcher Zeitung: 6
 Neues Volksblatt: 6
 Handelsblatt: 6
 RND: 6
 RP ONLINE: 5
-KURIER: 5
 t-online.de: 5
 fr.de: 5
 RAN: 4
@@ -37,6 +37,7 @@ Wochenblatt.de: 3
 TAGESKARTE: 3
 oe24.at: 3
 Der Westen: 3
+watson: 3
 5 Minuten: 2
 taz.de: 2
 Telepolis: 2
@@ -48,7 +49,9 @@ Merkur.de: 2
 hna.de: 2
 Berliner Zeitung: 2
 Salzburger Nachrichten: 2
+Deutschland Today: 2
 Augsburger Allgemeine: 2
+Kleine Zeitung: 2
 SÜDKURIER Online: 1
 Westdeutsche Zeitung: 1
  Cash: 1
@@ -90,13 +93,14 @@ VOL.AT : 1
 Saarbrücker Zeitung: 1
 Abendzeitung: 1
 kicker: 1
-Deutschland Today: 1
 Bieler Tagblatt: 1
 Neues Ruhr-Wort: 1
 shz.de: 1
 Presseportal.de: 1
 lifepr.de: 1
-Kleine Zeitung: 1
 swp.de: 1
 SPORT1: 1
 Tages-Anzeiger: 1
+WirtschaftsWoche: 1
+Lippische Landes-Zeitung: 1
+finanzen.net: 1

@@ -24,6 +24,7 @@ Chicago Sun-Times: 3
 Vox.com: 2
 Business Insider: 2
 Colorado Public Radio: 2
+Daily Mail: 2
 Global News: 2
 Courier Journal: 2
 NPR: 2
@@ -32,7 +33,9 @@ The Hill: 2
 ABC News: 2
 CBS Pittsburgh: 2
 Fox News: 2
+The Atlantic: 2
 KOMO News: 2
+Telegraph.co.uk: 2
 STAT: 1
 Crosscut: 1
 Spectrum News: 1
@@ -52,7 +55,6 @@ FactCheck.org: 1
 CALmatters: 1
 Durham Herald Sun: 1
 WKMG News 6 & ClickOrlando: 1
-Daily Mail: 1
 The Straits Times: 1
 New York Magazine: 1
 CBS News 8: 1
@@ -66,7 +68,6 @@ The Verge: 1
 NJ.com: 1
 NBC Connecticut: 1
 International Law Lawyer News: 1
-The Atlantic: 1
 RailFreight.com: 1
 Livemint: 1
 The Columbus Dispatch: 1
@@ -76,3 +77,5 @@ Express: 1
 KIRO Seattle: 1
 The Boston Globe: 1
 Boston 25 News: 1
+WAMU 88.5: 1
+Condé Nast Traveler: 1

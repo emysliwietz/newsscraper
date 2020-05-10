@@ -1,59 +1,59 @@
-t-online.de: 175
-DER SPIEGEL: 142
-BILD: 132
-n-tv NACHRICHTEN: 108
-WELT: 103
-merkur.de: 94
-FAZ - Frankfurter Allgemeine Zeitung: 77
-tagesschau.de: 75
-WEB.DE News: 71
-Tagesspiegel: 68
-WELT Nachrichtensender: 59
-Süddeutsche Zeitung: 53
-ZEIT ONLINE: 46
-STERN.de: 43
-NDR.de: 40
+t-online.de: 189
+DER SPIEGEL: 155
+BILD: 144
+n-tv NACHRICHTEN: 118
+WELT: 117
+merkur.de: 95
+FAZ - Frankfurter Allgemeine Zeitung: 81
+WEB.DE News: 77
+tagesschau.de: 77
+Tagesspiegel: 70
+WELT Nachrichtensender: 64
+Süddeutsche Zeitung: 57
+ZEIT ONLINE: 47
+STERN.de: 45
+NDR.de: 41
+DIE WELT: 40
+BR24: 38
 FOCUS Online: 37
-DIE WELT: 35
-RTL Online: 34
-B.Z. Berlin: 32
-Berliner Morgenpost: 32
-BR24: 26
-Merkur.de: 22
+RTL Online: 37
+B.Z. Berlin: 34
+Berliner Morgenpost: 34
+Merkur.de: 23
 RP ONLINE: 22
 EXPRESS: 20
-Handelsblatt: 15
-TAG24: 15
+TAG24: 19
+Handelsblatt: 16
 Kölner Stadt-Anzeiger: 14
 tagesschau: 14
 noz.de - Neue Osnabrücker Zeitung: 14
 Berliner Zeitung: 13
 tz.de: 12
+MDR: 11
 Handelsblatt : 10
-MDR: 10
+ZDFheute: 10
+Mitteldeutsche Zeitung: 10
 F.A.Z. - Frankfurter Allgemeine Zeitung: 9
-Mitteldeutsche Zeitung: 9
-Derwesten.de: 8
-ZDFheute: 8
+Derwesten.de: 9
+fr.de: 8
 Der Westen: 7
 WAZ News: 7
-fr.de: 7
 Schwäbische: 6
+Abendzeitung: 5
 Stuttgarter Nachrichten: 5
 Frankfurter Rundschau: 5
-Abendzeitung: 4
 SWR: 4
 Stuttgarter Zeitung: 4
+faz: 4
 shz.de: 4
 WDR Nachrichten: 4
 Westdeutsche Allgemeine Zeitung: 4
 Augsburger Allgemeine: 3
 Neue Westfälische: 3
-faz: 3
+HNA.de: 3
 Hannoversche Allgemeine: 3
 Presseportal.de: 3
 Nordwest-Zeitung: 2
-HNA.de: 2
 Neue Osnabrücker Zeitung: 2
 Hamburger Abendblatt: 1
 Panorama: 1
@@ -63,3 +63,4 @@ turi2: 1
 wa.de: 1
 General-Anzeiger: 1
 Leipziger Volkszeitung: 1
+focus.de: 1

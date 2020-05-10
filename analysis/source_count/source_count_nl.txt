@@ -1,59 +1,59 @@
-AD.nl: 342
-NOS: 293
-NU.nl: 279
-Telegraaf.nl: 267
-RTL Nieuws: 196
-Volkskrant: 112
-Parool.nl: 93
-NRC: 85
-VRT NWS: 73
-De Stentor: 68
-Trouw: 67
-Omroep Brabant: 60
-Hartvannederland.nl: 56
-Het Laatste Nieuws: 56
-Dagblad van het Noorden: 48
-De Gelderlander: 47
-BD.nl: 38
-Nederlands Dagblad: 37
-Welingelichte Kringen: 35
-Leeuwarder Courant: 31
+AD.nl: 370
+NOS: 304
+NU.nl: 295
+Telegraaf.nl: 287
+RTL Nieuws: 208
+Volkskrant: 115
+Parool.nl: 99
+NRC: 86
+VRT NWS: 75
+De Stentor: 72
+Trouw: 68
+Omroep Brabant: 62
+Hartvannederland.nl: 58
+Het Laatste Nieuws: 58
+De Gelderlander: 53
+Dagblad van het Noorden: 50
+BD.nl: 40
+Nederlands Dagblad: 38
+Welingelichte Kringen: 38
+Omroep Gelderland: 34
+Leeuwarder Courant: 32
+Noordhollands Dagblad: 32
 De Limburger: 30
-Noordhollands Dagblad: 29
-Het Financieele Dagblad: 28
-Omroep Gelderland: 26
+Het Financieele Dagblad: 29
+De Dagelijkse Standaard: 27
 Eindhovens Dagblad: 25
-De Dagelijkse Standaard: 25
+De Standaard: 24
 ThePostOnline: 24
-De Standaard: 23
 Het Nieuwsblad: 23
+Omroep West: 22
+BN DeStem: 22
+ICT&health.nl: 22
 De Tijd: 22
-Omroep West: 21
-ICT&health.nl: 21
+Zeelandnet Nieuws: 22
 RTV Noord: 20
-Zeelandnet Nieuws: 20
-BN DeStem: 19
+De Morgen: 19
 Nieuws en sport uit Limburg: 19
-De Morgen: 18
+AT5: 19
+NH Nieuws: 18
 RTV Oost: 17
-NH Nieuws: 16
+Transport Online: 16
 Datanews: 16
-Transport Online: 15
+RTV Rijnmond: 15
 Boerderij: 15
-AT5: 15
+Metronieuws.nl: 15
+Telecompaper: 15
 Rijksoverheid.nl: 14
-RTV Rijnmond: 14
-Metronieuws.nl: 14
-Telecompaper: 14
-Joop: 13
+Joop: 14
+wnl.tv: 14
 Geenstijl.nl: 13
-wnl.tv: 13
+Bright.nl: 13
+Elsevier Weekblad: 13
 Reformatorisch Dagblad: 13
 Knack.be: 13
 BNR Nieuwsradio: 12
-Bright.nl: 12
-Elsevier Weekblad: 12
-NPO Radio 1: 11
+NPO Radio 1: 12
 Security.nl: 11
 LINDA.: 10
 RTV Utrecht: 9
@@ -65,24 +65,26 @@ RTL Z: 9
 Gazet van Antwerpen: 7
 Nieuwe Oogst: 7
 AG Connect: 7
+Tubantia: 7
 RTV Drenthe: 7
 Amstelveenz.nl: 6
 De Utrechtse Internet Courant: 6
 Emerce: 6
 DeOndernemer.nl: 6
 RTL Boulevard: 6
+Tweakers: 6
+Bladna.nl: 6
 Gids.tv: 6
-Tubantia: 6
 Crimesite: 6
+Politie: 6
 Plusonline: 5
 SpanjeVandaag: 5
 Blik op nieuws: 5
 Androidworld: 5
 InSpanje.nl: 5
 Business Insider: 5
-Bladna.nl: 5
-Tweakers: 5
-Politie: 5
+Dolcevia.com: 5
+EenVandaag: 5
 Omroep Flevoland: 4
 Oog TV: 4
 Dutch IT-channel: 4
@@ -90,8 +92,8 @@ SCEPTR: 4
 Boerenbusiness.nl: 4
 Vakblad voor de Bloemisterij: 4
 VTBL: 4
+Ajax Showtime: 4
 FCUpdate mobiel: 4
-EenVandaag: 4
 De Telegraaf: 4
 Panorama: 3
 Alkmaar Centraal: 3
@@ -105,8 +107,7 @@ Want: 3
 Accountant.nl: 3
 AGF.nl: 3
 Het Belang van Limburg: 3
-Ajax Showtime: 3
-Dolcevia.com: 3
+Omrop Fryslan: 3
 Ditjes en Datjes: 3
 iCulture: 3
 Accountancy Vanmorgen: 3
@@ -124,6 +125,7 @@ TaxiPro.nl: 2
 OVPro.nl: 2
 oosterhout.nieuws.nl: 2
 HCNieuws: 2
+GPfans: 2
 Festileaks: 2
 Medical facts: 2
 DeWereldMorgen.be: 2
@@ -136,7 +138,6 @@ Automobiel Management: 2
 CIDI: 2
 Voetbal International: 2
 Sportnieuws.nl: 2
-Omrop Fryslan: 2
 MotorsportZ: 2
 Luchtvaartnieuws.nl: 2
 Eos Wetenschap: 2
@@ -166,6 +167,7 @@ Regio Purmerend: 1
 Eemskrant: 1
 Zorgkrant: 1
 De Nieuwkoper: 1
+DMG Deurne: 1
 Suriname Herald: 1
 SerieTotaal: 1
 Oor: 1
@@ -180,6 +182,8 @@ CustomerFirst: 1
 Entertainment Business: 1
 DroidApp: 1
 Hrpraktijk: 1
+GPToday.net: 1
+DutchCowboys: 1
 FilmTotaal: 1
 Vertigo: 1
 HP/De Tijd: 1
@@ -208,11 +212,11 @@ Techzine.be: 1
 joods.nl: 1
 Sportgeschiedenis: 1
 Bestelauto.nl: 1
-GPfans: 1
 Racexpress: 1
 Koerdisch Nieuws: 1
 IJmuider Courant: 1
 CorsaItalia Magazine: 1
+Wielerflits: 1
 Cobouw: 1
 VoetbalPrimeur.be: 1
 Arnhemse Koerier: 1
@@ -231,6 +235,7 @@ LekkerCryptisch: 1
 iPhoned.nl: 1
 Innovation Origins NL: 1
 Mr. Online: 1
+TNO: 1
 Vastgoedmarkt: 1
 Executive Finance: 1
 Service Management: 1
@@ -253,3 +258,4 @@ DenHaagTV: 1
 Alles over Katwijk: 1
 Metro België: 1
 Unity Nu: 1
+UMC Utrecht: 1

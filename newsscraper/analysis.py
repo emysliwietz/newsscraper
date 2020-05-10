@@ -111,6 +111,7 @@ def source_count_per_file():
         lines = lines_in_file.split("\n")
         sources = []
         occurences = []
+        print("Total number of headlines: " + str(len(lines)))
         for line in lines:
             if line == '':
                 break
@@ -142,6 +143,7 @@ def source_count_per_file():
 def source_count_de():
     sources = []
     occurences = []
+    total_headlines = 0
     filepath = os.path.join("analysis/source_count", "source_count_de.txt")
     if os.path.exists(filepath):
         os.remove(filepath)
@@ -153,6 +155,7 @@ def source_count_de():
             lines_in_file = f.read()
 
         lines = lines_in_file.split("\n")
+        total_headlines += len(lines)
         for line in lines:
             if line == '':
                 break
@@ -167,6 +170,7 @@ def source_count_de():
                 index = sources.index(source)
                 occurences[index] += 1
 
+    print("Total number of headlines: " + str(total_headlines))
     num_sources = len(sources) - 1
     lines_to_append = ""
     lines_to_sort = ""
@@ -184,6 +188,7 @@ def source_count_de():
 def source_count_en():
     sources = []
     occurences = []
+    total_headlines = 0
     filepath = os.path.join("analysis/source_count", "source_count_en.txt")
     if os.path.exists(filepath):
         os.remove(filepath)
@@ -195,6 +200,7 @@ def source_count_en():
             lines_in_file = f.read()
 
         lines = lines_in_file.split("\n")
+        total_headlines += len(lines)
         for line in lines:
             if line == '':
                 break
@@ -209,6 +215,7 @@ def source_count_en():
                 index = sources.index(source)
                 occurences[index] += 1
 
+    print("Total number of headlines: " + str(total_headlines))
     num_sources = len(sources) - 1
     lines_to_append = ""
     lines_to_sort = ""
@@ -226,6 +233,7 @@ def source_count_en():
 def source_count_nl():
     sources = []
     occurences = []
+    total_headlines = 0
     filepath = os.path.join("analysis/source_count", "source_count_nl.txt")
     if os.path.exists(filepath):
         os.remove(filepath)
@@ -237,6 +245,7 @@ def source_count_nl():
             lines_in_file = f.read()
 
         lines = lines_in_file.split("\n")
+        total_headlines += len(lines)
         for line in lines:
             if line == '':
                 break
@@ -251,6 +260,7 @@ def source_count_nl():
                 index = sources.index(source)
                 occurences[index] += 1
 
+    print("Total number of headlines: " + str(total_headlines))
     num_sources = len(sources) - 1
     lines_to_append = ""
     lines_to_sort = ""

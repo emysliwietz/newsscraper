@@ -1,41 +1,43 @@
 EU News: 57
 Financial Times: 48
-Express.co.uk: 41
-The Guardian: 33
-BBC News: 28
+Express.co.uk: 46
+The Guardian: 35
+BBC News: 32
 The New York Times: 27
 EURACTIV: 22
 EUobserver: 20
 Reuters: 17
-Express: 15
-The Irish Times: 15
-Bloomberg: 13
-Reuters UK: 13
-DW (English): 13
+The Irish Times: 17
+Express: 16
+Reuters UK: 15
+Bloomberg: 14
+DW (English): 14
+Telegraph.co.uk: 12
 Daily Mail: 11
-Telegraph.co.uk: 11
 Euronews: 11
+Anadolu Agency: 10
 The Sun: 9
-Anadolu Agency: 9
-CNBC: 7
+CNBC: 8
 The New European: 7
+SchengenVisaInfo.com: 6
 The Brussels Times: 6
+VOA News: 6
 EU Reporter: 6
-SchengenVisaInfo.com: 5
 The Independent: 5
+Jakarta Post: 5
 European Western Balkans: 5
 The Parliament Magazine: 5
 Politico: 4
 RTE.ie: 4
 DefenseNews.com: 4
-Jakarta Post: 4
-VOA News: 4
 Forbes: 4
 Aljazeera.com: 4
+Xinhua: 4
 Al Jazeera English: 3
 edie.net: 3
 Carnegie Europe: 3
 Mondaq News Alerts: 3
+Reuters India: 3
 The Indian Express: 3
 The Hill: 2
 The Straits Times: 2
@@ -47,12 +49,12 @@ Mirror Online: 2
 JURIST: 2
 Science Business: 2
 Emerging Europe: 2
+Deccan Herald: 2
 CNN: 2
 FRANCE 24: 2
 Deutsche Welle: 2
-Xinhua: 2
 CGTN: 2
-Reuters India: 2
+Yahoo Finance UK: 2
 The Wall Street Journal: 2
 EUROPP - European Politics and Policy: 2
 NPR: 2
@@ -81,7 +83,6 @@ Responsible-Investor.com: 1
 The Conversation UK: 1
 Cordis News: 1
 Reason: 1
-Deccan Herald: 1
 Olive Oil Times: 1
 Full Fact: 1
 Tech.eu: 1
@@ -99,7 +100,6 @@ ING Think: 1
 Fitch Ratings: 1
 The Star Online: 1
 South China Morning Post: 1
-Yahoo Finance UK: 1
 Reuters.com: 1
 WHTC News: 1
 Prospect: 1
@@ -137,3 +137,10 @@ Medical Xpress: 1
 Infosecurity Magazine: 1
 TRT World: 1
 Metro.co.uk: 1
+thejournal.ie: 1
+Yahoo Finance: 1
+The First News: 1
+Fox News: 1
+Israel Hayom: 1
+Jewish News: 1
+Business Standard: 1

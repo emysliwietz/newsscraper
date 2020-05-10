@@ -1,60 +1,61 @@
-BBC News: 257
-The Guardian: 233
-Daily Mail: 164
-The Sun: 135
-Mirror Online: 127
-Sky News: 113
-The Independent: 87
-Express: 67
-Metro.co.uk: 64
-Telegraph.co.uk: 64
-Evening Standard: 54
-ITV News: 49
-The Telegraph: 48
-BBC South East Wales: 46
-Financial Times: 35
-Express.co.uk: 31
-The Times: 27
+BBC News: 281
+The Guardian: 244
+Daily Mail: 180
+The Sun: 144
+Mirror Online: 139
+Sky News: 122
+The Independent: 89
+Express: 72
+Metro.co.uk: 71
+Telegraph.co.uk: 67
+Evening Standard: 61
+ITV News: 54
+The Telegraph: 51
+BBC South East Wales: 48
+Financial Times: 37
+Express.co.uk: 32
+The Times: 29
+Manchester Evening News: 27
 Guardian News: 26
-Manchester Evening News: 24
 The New York Times: 17
-Wales Online: 14
+Wales Online: 15
+Daily Record: 14
 The Washington Post: 14
-Daily Record: 13
+The Scotsman: 11
 Al Jazeera English: 11
 The Loppy: 11
 Fox News: 11
-The Scotsman: 10
-inews: 8
+inews: 10
 CNN: 7
+BBC: 7
 WalesOnline: 5
 NBC News: 4
 Mirror.co.uk: 4
-BBC: 4
+Devon Live: 4
 Liverpool Echo: 4
 HuffPost UK: 3
 Belfast Telegraph: 3
-Devon Live: 3
 Washington Post: 3
+News Info Park: 3
 India Gone Viral: 3
 Newsweek: 3
 Leicestershire Live: 3
+Edinburgh News: 3
 Essex Live: 2
 NDTV News: 2
+Daily Star: 2
 Chard & Ilminster News: 2
 NBCNews.com: 2
 Cornwall Live: 2
 Chronicle Live: 2
-News Info Park: 2
+NEWS.com.au: 2
 Birmingham Live: 2
-Edinburgh News: 2
 Sky Sports: 2
 Harrow Times: 1
 Business Insider: 1
 Reuters UK: 1
 The Age: 1
 East London and West Essex Guardian Series: 1
-Daily Star: 1
 Newham Recorder: 1
 Spire FM: 1
 The London Economic: 1
@@ -74,7 +75,6 @@ PoliticsHome.com: 1
 Swindon Advertiser: 1
 Spectator.co.uk: 1
 CNA: 1
-NEWS.com.au: 1
 AOL Travel UK: 1
 World Socialist Web Site: 1
 Daily Echo: 1
@@ -92,3 +92,6 @@ Wirral Globe: 1
 BBC Sport: 1
 Football365.com: 1
 NewsClicks: 1
+Scotland on Sunday: 1
+indy100: 1
+Plymouth Live: 1

@@ -1,14 +1,14 @@
-The Guardian: 107
-BBC News: 78
-Daily Mail: 50
-BBC Sport: 45
+The Guardian: 110
+BBC News: 81
+Daily Mail: 54
+BBC Sport: 50
+CNN: 33
 CNBC: 31
-CNN: 26
-Sky News: 23
+Sky News: 24
+The New York Times: 21
 expressandstar.com: 21
 Metro.co.uk: 20
-The New York Times: 19
-World Health Organization: 18
+World Health Organization: 19
 Reuters: 15
 Al Jazeera English: 12
 Fox News: 11
@@ -25,18 +25,20 @@ Liverpool Echo: 7
 NBC News: 6
 Financial Times: 6
 The Washington Post: 6
+Bloomberg: 6
 NewsClicks: 6
 The Sun: 5
 BBC South East Wales: 5
 ABC News: 5
 Wales Online: 5
-Bloomberg: 5
 Sky Sports: 5
 Bradford Telegraph and Argus: 4
 LeaderLive: 4
 The Star Online: 4
 The Wall Street Journal: 4
 shropshirestar.com: 4
+NBCNews.com: 4
+Formula 1: 4
 Express.co.uk: 3
 GOV.UK: 3
 Cycling Weekly: 3
@@ -48,11 +50,10 @@ The Loppy: 3
 The Hill: 3
 CBC.ca: 3
 The Globe and Mail: 3
-NBCNews.com: 3
 CIDRAP: 3
+Anadolu Agency: 3
 The Japan Times: 3
 Jakarta Post: 3
-Formula 1: 3
 Forbes: 3
 Derbyshire Live: 3
 Hindustan Times: 3
@@ -75,7 +76,6 @@ USA TODAY: 2
 RTE.ie: 2
 The Straits Times: 2
 National Post: 2
-Anadolu Agency: 2
 Formula 1 RSS UK: 2
 News Info Park: 2
 Manchester City FC: 2
@@ -84,6 +84,8 @@ Focus Taiwan News Channel: 2
 Cheshire Live: 2
 cgtn.com: 2
 The Economist: 2
+ThePrint: 2
+MyLondon: 2
 Vox.com: 1
 talkSPORT.com: 1
 East Anglian Daily Times: 1
@@ -192,9 +194,15 @@ Express: 1
 Anadolu Ajansı: 1
 The Africa Report: 1
 University of Stirling: 1
-ThePrint: 1
 wgbh.org: 1
 Science Magazine: 1
 NW Evening Mail: 1
 Republic World: 1
 National Geographic UK: 1
+Trends Wide: 1
+CNBCTV18: 1
+Tampa Bay Times: 1
+Borehamwood Times: 1
+MKFM: 1
+Global Times: 1
+India TV News: 1

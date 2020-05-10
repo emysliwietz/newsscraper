@@ -1,53 +1,58 @@
-tagesschau.de: 27
-merkur.de: 21
+tagesschau.de: 29
+merkur.de: 27
+Süddeutsche Zeitung: 20
+DW (Deutsch): 17
 t-online.de: 17
-Süddeutsche Zeitung: 17
-DW (Deutsch): 15
 Nau.ch: 15
-FOCUS Online: 14
-Tagesspiegel: 13
-Deutschlandfunk: 13
+FOCUS Online: 15
+Tagesspiegel: 14
+Deutschlandfunk: 14
+onvista: 12
+WELT: 12
 DER SPIEGEL: 11
+FAZ - Frankfurter Allgemeine Zeitung: 11
 n-tv NACHRICHTEN: 11
-onvista: 11
-WELT: 11
 Business Insider Deutschland: 10
 ZDFheute: 10
-FAZ - Frankfurter Allgemeine Zeitung: 9
+Telepolis: 9
 RND: 9
 Die Presse: 8
-Telepolis: 7
-UNRIC: 7
-STERN.de: 6
-ORF.at: 6
+UNRIC: 8
+STERN.de: 7
+ORF.at: 7
+Reuters Deutschland: 6
 Lippische Landes-Zeitung: 5
 Heilbronner Stimme: 5
 DIE WELT: 5
 Handelsblatt : 5
 Suedtirol News: 5
-Reuters Deutschland: 5
+Deutschlandfunk Kultur: 5
 Saarbrücker Zeitung: 5
 BILD: 5
+MDR: 5
+ZEIT ONLINE: 5
 Berliner Zeitung: 4
 WEB.DE News: 4
 Deutsches Ärzteblatt: 4
+t3n Magazin: 4
 General-Anzeiger: 4
 Stuttgarter Nachrichten: 4
-ZEIT ONLINE: 4
+Frankenpost: 4
+derStandard.at: 4
+Zeitungsverlag Waiblingen: 4
 kreisbote.de: 3
-Deutschlandfunk Kultur: 3
+futurezone.at: 3
 Kleine Zeitung: 3
 nachrichten.at: 3
-MDR: 3
 Merkur.de: 3
 Neue Zürcher Zeitung: 3
 BNN - Badische Neueste Nachrichten: 3
-derStandard.at: 3
-Zeitungsverlag Waiblingen: 3
+DAZ.online: 3
+Musikexpress: 3
+WESER-KURIER: 3
 SWR: 3
 Stuttgarter Zeitung: 2
 Neue Westfälische: 2
-futurezone.at: 2
 Badische Zeitung: 2
 Serienjunkies: 2
 taz.de: 2
@@ -55,24 +60,25 @@ Rolling Stone: 2
 Cicero Online: 2
  Cash: 2
 Apotheken Umschau: 2
-t3n Magazin: 2
 filmstarts: 2
 inFranken.de: 2
 VOL.AT : 2
+KURIER: 2
 derStandard.de: 2
 Tiroler Tageszeitung Online: 2
 Neue Presse Coburg: 2
+F.A.Z. - Frankfurter Allgemeine Zeitung: 2
 Deutsche Welle: 2
-Frankenpost: 2
 RP ONLINE: 2
+www.verlagshaus-jaumann.de: 2
 Augsburger Allgemeine: 2
-DAZ.online: 2
 amerika21.de: 2
-WESER-KURIER: 2
 APOTHEKE ADHOC: 2
 finanzen.net: 2
 inSüdthüringen.de: 2
 Neues Volksblatt: 2
+Pharmazeutische Zeitung online: 2
+MSN Unterhaltung: 2
 W&V - Werben & Verkaufen: 1
 B.Z. Berlin: 1
 PC-WELT: 1
@@ -83,11 +89,9 @@ Usinger Anzeiger: 1
 oe24.at: 1
 Telebasel: 1
 Nordbayern.de: 1
-KURIER: 1
 Mannheimer Morgen: 1
 Infosperber: 1
 Mittelhessen: 1
-F.A.Z. - Frankfurter Allgemeine Zeitung: 1
 Legal Tribune Online: 1
 Das Wochenblatt aus Paraguay: 1
 Frankfurter Rundschau: 1
@@ -101,7 +105,6 @@ fr.de: 1
 Hürriyet.de: 1
 noz.de - Neue Osnabrücker Zeitung: 1
 Traunsteiner Tagblatt: 1
-www.verlagshaus-jaumann.de: 1
 TrekZone Network: 1
 Der Westen: 1
 Yahoo Nachrichten Deutschland: 1
@@ -110,7 +113,6 @@ echo24.de: 1
 svz.de: 1
 Allgemeine Zeitung: 1
 Frankfurter Neue Presse: 1
-Musikexpress: 1
 DWDL.de: 1
 Capital - Wirtschaft ist Gesellschaft: 1
 Salzburger Nachrichten: 1
@@ -128,3 +130,8 @@ elektro.at: 1
 Handelsblatt: 1
 GrenzEcho.net: 1
 EURACTIV Germany: 1
+Westdeutsche Zeitung: 1
+handelszeitung.ch: 1
+Lauterbacher Anzeiger: 1
+SWP: 1
+Caschys Blog: 1

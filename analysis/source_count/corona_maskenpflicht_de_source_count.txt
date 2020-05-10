@@ -1,26 +1,26 @@
 merkur.de: 65
-NDR.de: 30
+NDR.de: 31
 Berliner Morgenpost: 20
 Merkur.de: 19
+hna.de: 18
 SWP: 18
-hna.de: 16
 WELT: 15
 tz.de: 14
+DER SPIEGEL: 13
 RTL Online: 12
-DER SPIEGEL: 12
 RP ONLINE: 10
+tagesschau.de: 8
+rbb|24: 8
+ruhr24.de: 8
+HNA.de: 8
 BILD: 7
-tagesschau.de: 7
-rbb|24: 7
-ruhr24.de: 7
 buten un binnen: 7
-HNA.de: 7
 t-online.de: 6
 kreiszeitung.de: 6
+RND: 6
 watson: 6
 heidelberg24.de: 5
 fnp.de: 5
-RND: 5
 STERN.de: 5
 inFranken.de: 5
 Tagesspiegel: 5
@@ -38,6 +38,7 @@ FAZ - Frankfurter Allgemeine Zeitung: 3
 Hamburger Abendblatt: 3
 Meinerzhagener Zeitung: 2
 Gießener Allgemeine: 2
+ZEIT ONLINE: 2
 Panorama: 2
 mannheim24.de: 2
 Heilpraxisnet.de: 2
@@ -54,7 +55,6 @@ General-Anzeiger: 1
 Tichys Einblick: 1
 Der Westen: 1
 hamburg.de: 1
-ZEIT ONLINE: 1
 WP News: 1
 hallo-muenchen.de: 1
 Saarbrücker Zeitung: 1
@@ -82,3 +82,4 @@ Westdeutsche Allgemeine Zeitung: 1
 NRZ: 1
 Volksstimme: 1
 hessenschau.de: 1
+Nordwest-Zeitung: 1

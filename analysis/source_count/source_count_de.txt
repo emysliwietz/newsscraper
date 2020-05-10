@@ -1,215 +1,223 @@
-merkur.de: 475
-t-online.de: 289
-DER SPIEGEL: 273
-WELT: 223
-tagesschau.de: 203
-Süddeutsche Zeitung: 188
-BILD: 175
-NDR.de: 163
-Tagesspiegel: 160
-n-tv NACHRICHTEN: 151
-FAZ - Frankfurter Allgemeine Zeitung: 150
-fr.de: 120
-Berliner Morgenpost: 115
-ZEIT ONLINE: 107
-RP ONLINE: 96
-Deutschlandfunk: 90
-STERN.de: 90
-Merkur.de: 86
-RTL Online: 84
-WEB.DE News: 83
-FOCUS Online: 82
-DIE WELT: 64
-RND: 63
-WELT Nachrichtensender: 59
-BR24: 56
-MDR: 50
-rbb|24: 46
-ZDFheute: 45
-Handelsblatt : 44
+merkur.de: 491
+t-online.de: 308
+DER SPIEGEL: 296
+WELT: 241
+tagesschau.de: 218
+Süddeutsche Zeitung: 200
+BILD: 188
+NDR.de: 171
+Tagesspiegel: 166
+n-tv NACHRICHTEN: 161
+FAZ - Frankfurter Allgemeine Zeitung: 159
+fr.de: 124
+Berliner Morgenpost: 119
+ZEIT ONLINE: 115
+Deutschlandfunk: 101
+RP ONLINE: 99
+STERN.de: 96
+Merkur.de: 89
+WEB.DE News: 89
+RTL Online: 89
+FOCUS Online: 84
+DIE WELT: 69
+BR24: 68
+RND: 66
+WELT Nachrichtensender: 64
+MDR: 54
+rbb|24: 47
+ZDFheute: 47
+ORF.at: 46
+Handelsblatt : 45
 Frankfurter Rundschau: 44
-Nau.ch: 43
-ORF.at: 42
-B.Z. Berlin: 41
-SWR: 39
+Nau.ch: 44
+B.Z. Berlin: 43
+SWR: 41
 tz.de: 38
-onvista: 36
-Handelsblatt: 34
-DW (Deutsch): 34
-taz.de: 33
-SWP: 31
-Nordbayern.de: 31
-hna.de: 28
-buten un binnen: 27
-Stol.it: 27
-BNN - Badische Neueste Nachrichten: 26
-Berliner Zeitung: 26
-hessenschau.de: 25
-Die Presse: 25
-Suedtirol News: 24
-KURIER: 23
-Stuttgarter Zeitung: 22
+onvista: 37
+taz.de: 36
+Handelsblatt: 36
+DW (Deutsch): 36
+Nordbayern.de: 34
+SWP: 32
+buten un binnen: 32
+hna.de: 31
+Stol.it: 31
+KURIER: 29
+Die Presse: 29
+BNN - Badische Neueste Nachrichten: 27
+Berliner Zeitung: 27
+Suedtirol News: 27
+hessenschau.de: 26
+Stuttgarter Zeitung: 24
+noz.de - Neue Osnabrücker Zeitung: 24
+TAG24: 23
+F.A.Z. - Frankfurter Allgemeine Zeitung: 22
 ka-news.de: 21
+General-Anzeiger: 21
  Cash: 21
-noz.de - Neue Osnabrücker Zeitung: 21
 EXPRESS: 21
-General-Anzeiger: 20
+Saarbrücker Zeitung: 20
 Kölner Stadt-Anzeiger: 20
-F.A.Z. - Frankfurter Allgemeine Zeitung: 20
-Saarbrücker Zeitung: 19
-TAG24: 19
+WDR Nachrichten: 19
 Stuttgarter Nachrichten: 18
-WDR Nachrichten: 18
+Augsburger Allgemeine: 17
+HNA.de: 17
+Neue Zürcher Zeitung: 16
+Telepolis: 15
+watson: 15
 inFranken.de: 15
-Augsburger Allgemeine: 15
-HNA.de: 15
-Neue Zürcher Zeitung: 15
+Euronews: 15
+fnp.de: 15
+Nordkurier: 14
 Passauer Neue Presse: 14
 derStandard.de: 14
 Der Westen: 14
-Euronews: 14
 tagesschau: 14
-Telepolis: 13
-watson: 13
-Nordkurier: 13
 Vatican News: 13
 Westdeutsche Zeitung: 13
 Neues Volksblatt: 13
+WESER-KURIER: 13
 EURACTIV Germany: 13
-fnp.de: 13
+Reuters Deutschland: 13
 idowa: 12
 wa.de: 12
 Business Insider Deutschland: 12
-Reuters Deutschland: 12
+Derwesten.de: 12
 WAZ News: 12
 Aachener Zeitung: 11
 Westdeutsche Allgemeine Zeitung: 11
-Derwesten.de: 11
+Mitteldeutsche Zeitung: 11
+inSüdthüringen.de: 11
+kreiszeitung.de: 11
+Heilbronner Stimme: 11
 Straubinger Tagblatt: 10
-Mitteldeutsche Zeitung: 10
-kreiszeitung.de: 10
-WESER-KURIER: 10
-Heilbronner Stimme: 10
+t3n Magazin: 10
+Oldenburger Onlinezeitung: 10
+finanzen.net: 10
 COMPUTER BILD: 10
-inSüdthüringen.de: 9
 Wiener Zeitung: 9
 heidelberg24.de: 9
 Salzburger Nachrichten: 9
-Oldenburger Onlinezeitung: 9
-finanzen.net: 9
 Tages-Anzeiger: 9
+top agrar online: 9
 domradio.de: 9
+ruhr24.de: 9
 Cicero Online: 8
+echo24.de: 8
+UNRIC: 8
+derStandard.at: 8
 Schwäbische: 8
-ruhr24.de: 8
 connect.de: 8
 Westfälischer Anzeiger: 7
-echo24.de: 7
 oe24.at: 7
-UNRIC: 7
-derStandard.at: 7
+Kleine Zeitung: 7
+Zeitungsverlag Waiblingen: 7
 WirtschaftsWoche: 7
 airliners.de: 7
+heise online: 7
 Oberösterreichisches Volksblatt: 7
 Netzpolitik.org: 7
 Presseportal.de: 7
-top agrar online: 7
+Abendzeitung: 7
 shz.de: 7
 owl24.de: 6
 Braunschweiger Zeitung: 6
+Frankenpost: 6
 Hamburger Morgenpost: 6
 Badische Zeitung: 6
+Lippische Landes-Zeitung: 6
 Deutsches Ärzteblatt: 6
-t3n Magazin: 6
-Kleine Zeitung: 6
-Zeitungsverlag Waiblingen: 6
 Nordwest-Zeitung: 6
-heise online: 6
-Abendzeitung: 6
+mannheim24.de: 6
 op-online.de: 6
+Hannoversche Allgemeine: 6
 muenchen.de - Das offizielle Stadtportal für München: 5
 SÜDKURIER Online: 5
-Lippische Landes-Zeitung: 5
 Neue Westfälische: 5
+futurezone.at: 5
+Deutschlandfunk Kultur: 5
 GrenzEcho.net: 5
-mannheim24.de: 5
 Hamburger Abendblatt: 5
 Merkurist.de: 5
-Hannoversche Allgemeine: 5
 SWR3: 4
 Mittelhessen: 4
 Börse Online: 4
 sol.de: 4
-Frankenpost: 4
 rbb-online.de: 4
 Antenne Bayern: 4
 Frankfurter Neue Presse: 4
-futurezone.at: 4
+Leipziger Volkszeitung: 4
+Apotheken Umschau: 4
 nachrichten.at: 4
+Capital - Wirtschaft ist Gesellschaft: 4
+NZZ - Neue Zürcher Zeitung: 4
 TAGESKARTE: 4
 fleischwirtschaft.de: 4
 energate messenger: 4
 Lübecker Nachrichten: 4
 TRAVELBOOK: 4
 DAS INVESTMENT.com: 4
+Deutschland Today: 4
 RAN: 4
 Meinerzhagener Zeitung: 4
 Westfalenpost: 4
 Panorama: 4
 CHIP Online: 4
 InfoDigital / INFOSAT: 4
+faz: 4
 Ostsee Zeitung: 3
+Lausitzer Rundschau: 3
 FIT FOR FUN: 3
 NRZ: 3
+Pharmazeutische Zeitung online: 3
 inSüdthüringen: 3
 hallo-muenchen.de: 3
 Sächsische Zeitung: 3
 kreisbote.de: 3
-Deutschlandfunk Kultur: 3
 Schweizer Radio und Fernsehen (SRF): 3
-Apotheken Umschau: 3
 VOL.AT : 3
 Tiroler Tageszeitung Online: 3
 Neue Presse Coburg: 3
 Hürriyet.de: 3
-Capital - Wirtschaft ist Gesellschaft: 3
+DAZ.online: 3
+Musikexpress: 3
+amerika21.de: 3
+Berchtesgadener Anzeiger: 3
 Sportbuzzer: 3
 Gießener Allgemeine: 3
-NZZ - Neue Zürcher Zeitung: 3
 schweizerbauer.ch: 3
 DVZ.de - Deutsche Verkehrs-Zeitung: 3
 k.at: 3
-Deutschland Today: 3
 Wochenblatt.de: 3
 ludwigshafen24.de: 3
 Mac & i: 3
 Wuppertaler-Rundschau.de: 3
-Leipziger Volkszeitung: 3
-faz: 3
 Oberhessische Zeitung: 2
 95.5 Charivari - Münchens Hitradio: 2
 Allgemeine Zeitung: 2
-Lausitzer Rundschau: 2
 World Socialist Web Site: 2
 Pforzheimer Zeitung: 2
 Leipziger Internet-Zeitung: 2
 hamburg.de: 2
 Viechtacher Anzeiger: 2
 njuuz: 2
-Pharmazeutische Zeitung online: 2
+svz.de: 2
+Onetz.de: 2
 Serienjunkies: 2
 Rolling Stone: 2
 Luxemburger Wort: 2
 filmstarts: 2
 Legal Tribune Online: 2
 Deutsche Welle: 2
-DAZ.online: 2
-amerika21.de: 2
+Traunsteiner Tagblatt: 2
+www.verlagshaus-jaumann.de: 2
 APOTHEKE ADHOC: 2
-Berchtesgadener Anzeiger: 2
+MSN Unterhaltung: 2
+Caschys Blog: 2
 DiePresse.com: 2
 cash.ch: 2
 manager magazin: 2
+SPOX.com: 2
 Liechtensteiner Vaterland: 2
 Österreichische Bauernzeitung: 2
 Tichys Einblick: 2
@@ -221,11 +229,13 @@ lifepr.de: 2
 5 Minuten: 2
 Volksstimme: 2
 Heilpraxisnet.de: 2
+Haufe - News & Fachwissen: 2
 extratipp.com: 2
 Märkische Allgemeine: 2
 Wolfsburger Allgemeine: 2
 WinFuture: 2
 inside digital: 2
+Netzpiloten: 2
 CHIP Online Deutschland: 2
 it-daily.net: 2
 news.de: 2
@@ -258,13 +268,9 @@ Das Wochenblatt aus Paraguay: 1
 futurezone.de: 1
 Wiesbadener Kurier: 1
 Mannschaft Magazin: 1
-Traunsteiner Tagblatt: 1
-www.verlagshaus-jaumann.de: 1
 TrekZone Network: 1
 Yahoo Nachrichten Deutschland: 1
 ZEIT ONLINE English: 1
-svz.de: 1
-Musikexpress: 1
 DWDL.de: 1
 Mindener Tageblatt: 1
 Ärzte Zeitung: 1
@@ -273,6 +279,10 @@ Formel1.de: 1
 finanzen.at: 1
 play3.de: 1
 elektro.at: 1
+handelszeitung.ch: 1
+Lauterbacher Anzeiger: 1
+wissen.de: 1
+Hitchecker.de: 1
 etailment.de: 1
 Metal Hammer: 1
 20 Minuten: 1
@@ -308,6 +318,7 @@ Addendum: 1
 Verbände Forum: 1
 Austrian Aviation Net: 1
 Fuldaer Zeitung: 1
+meinbezirk.at: 1
 hpd.de: 1
 FIFA.com: 1
 Kathpress: 1
@@ -316,7 +327,6 @@ unsertirol24: 1
 Krone.at: 1
 sport.de: 1
 Main-Spitze: 1
-SPOX.com: 1
 LAOLA1.at: 1
 Kreis-Anzeiger: 1
 kicker: 1
@@ -324,21 +334,19 @@ Bieler Tagblatt: 1
 swp.de: 1
 SPORT1: 1
 WP News: 1
-Haufe - News & Fachwissen: 1
 az-online.de: 1
 Kreisbote: 1
 nordbuzz.de: 1
 Göttinger Tageblatt: 1
+Soester Anzeiger: 1
 appgefahren.de: 1
 heise Security: 1
-Netzpiloten: 1
 Notebookcheck: 1
 zm online: 1
 SÃ¼ddeutsche Zeitung: 1
 OnlineMarketing.de: 1
 Android User: 1
 BLICK.CH: 1
-Caschys Blog: 1
 Schaumburger Nachrichten: 1
 Trierischer Volksfreund: 1
 wallstreet-online: 1
@@ -351,3 +359,4 @@ msl24.de: 1
 Main-Post: 1
 Express.de: 1
 rosenheim24.de: 1
+focus.de: 1

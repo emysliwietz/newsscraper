@@ -1,12 +1,12 @@
-fr.de: 86
-DER SPIEGEL: 41
+fr.de: 89
+DER SPIEGEL: 43
 t-online.de: 40
-merkur.de: 26
-Nau.ch: 19
-STERN.de: 16
-RND: 15
-BILD: 13
-ZEIT ONLINE: 10
+merkur.de: 27
+Nau.ch: 20
+STERN.de: 18
+RND: 16
+BILD: 14
+ZEIT ONLINE: 13
 WELT: 9
 Tagesspiegel: 8
 Berliner Morgenpost: 8
@@ -16,10 +16,10 @@ tz.de: 6
 WEB.DE News: 6
 Frankfurter Rundschau: 6
 RP ONLINE: 5
+FOCUS Online: 4
 Süddeutsche Zeitung: 4
 COMPUTER BILD: 4
  Cash: 3
-FOCUS Online: 3
 watson: 3
 F.A.Z. - Frankfurter Allgemeine Zeitung: 3
 Merkur.de: 2
@@ -61,3 +61,4 @@ KURIER: 1
 TVMovie: 1
 manager magazin: 1
 Westdeutsche Allgemeine Zeitung: 1
+SWP: 1

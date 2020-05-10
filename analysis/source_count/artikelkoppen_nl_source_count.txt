@@ -1,64 +1,64 @@
-AD.nl: 217
-NU.nl: 190
-Telegraaf.nl: 156
-NOS: 147
-RTL Nieuws: 72
-De Stentor: 57
-Parool.nl: 57
-Volkskrant: 47
-Omroep Brabant: 44
-De Gelderlander: 31
-BD.nl: 28
-Omroep Gelderland: 26
+AD.nl: 237
+NU.nl: 203
+Telegraaf.nl: 167
+NOS: 153
+RTL Nieuws: 80
+De Stentor: 61
+Parool.nl: 60
+Volkskrant: 50
+Omroep Brabant: 46
+De Gelderlander: 37
+Omroep Gelderland: 34
+BD.nl: 30
 NRC: 26
-Hartvannederland.nl: 23
+Hartvannederland.nl: 25
 Eindhovens Dagblad: 20
 ThePostOnline: 18
+Dagblad van het Noorden: 18
 Trouw: 17
-Dagblad van het Noorden: 16
+De Dagelijkse Standaard: 17
 De Limburger: 16
+AT5: 16
 Nieuws en sport uit Limburg: 15
 RTV Noord: 15
-De Dagelijkse Standaard: 15
-AT5: 14
-Omroep West: 13
-Het Laatste Nieuws: 13
-Zeelandnet Nieuws: 12
+Zeelandnet Nieuws: 14
+Omroep West: 14
+BN DeStem: 14
+Het Laatste Nieuws: 14
 Welingelichte Kringen: 12
+Metronieuws.nl: 11
 RTV Oost: 11
-BN DeStem: 11
-Metronieuws.nl: 10
+wnl.tv: 9
+RTV Rijnmond: 9
 Geenstijl.nl: 9
+NH Nieuws: 9
 112 Groningen: 9
-wnl.tv: 8
-RTV Rijnmond: 8
 Joop: 8
-NH Nieuws: 7
 RTV Drenthe: 6
 Omroep Zeeland: 6
 Crimesite: 6
+De Morgen: 6
+Politie: 6
 Reformatorisch Dagblad: 6
 NPO Radio 1: 5
-De Morgen: 5
-Politie: 5
+VRT NWS: 5
 De Telegraaf: 4
 BNR Nieuwsradio: 4
 LINDA.: 4
-VRT NWS: 4
+Tubantia: 4
+De Standaard: 4
 GelreNieuws: 3
 Nederlands Dagblad: 3
 De Kaap: 3
 RTL Boulevard: 3
 WNL: 3
+Noordhollands Dagblad: 3
 Het Financieele Dagblad: 3
 Alphens.nl: 3
-Tubantia: 3
-De Standaard: 3
 quotenet.nl: 3
 Het Nieuwsblad: 3
 De Utrechtse Internet Courant: 2
 ZwolleNu: 2
-Noordhollands Dagblad: 2
 Oog TV: 2
 HVZeeland.nl: 2
 Omroep Flevoland: 2
@@ -107,3 +107,5 @@ Alles over Katwijk: 1
 Metro België: 1
 Unity Nu: 1
 UMC Utrecht: 1
+Gazet van Antwerpen: 1
+BredaVandaag.nl: 1

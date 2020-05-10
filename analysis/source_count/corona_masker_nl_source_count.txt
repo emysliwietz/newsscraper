@@ -1,5 +1,5 @@
 VRT NWS: 22
-AD.nl: 17
+AD.nl: 20
 RTL Nieuws: 13
 NOS: 11
 De Gelderlander: 10
@@ -7,17 +7,17 @@ Het Nieuwsblad: 9
 NRC: 9
 Het Laatste Nieuws: 8
 Volkskrant: 7
+Parool.nl: 5
 Datanews: 5
 Trouw: 4
-Parool.nl: 4
 NU.nl: 4
 Dagblad van het Noorden: 3
 Omroep Brabant: 3
+Bright.nl: 3
 Eos Wetenschap: 2
 BN DeStem: 2
 Nieuws en sport uit Limburg: 2
 RTV Rijnmond: 2
-Bright.nl: 2
 Telegraaf.nl: 2
 De Tijd: 2
 Het Financieele Dagblad: 2
@@ -51,3 +51,4 @@ Consumentenbond: 1
 MAX Vandaag: 1
 Metronieuws.nl: 1
 Noordhollands Dagblad: 1
+Omroep West: 1

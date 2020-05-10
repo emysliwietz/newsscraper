@@ -1,27 +1,28 @@
-Süddeutsche Zeitung: 36
-Deutschlandfunk: 28
-tagesschau.de: 20
-WELT: 20
-FAZ - Frankfurter Allgemeine Zeitung: 19
+Süddeutsche Zeitung: 37
+Deutschlandfunk: 32
+tagesschau.de: 22
+WELT: 22
+FAZ - Frankfurter Allgemeine Zeitung: 21
 DER SPIEGEL: 19
+Tagesspiegel: 17
 ORF.at: 17
-Handelsblatt : 16
-Tagesspiegel: 15
-KURIER: 15
+Handelsblatt : 17
+KURIER: 17
+Die Presse: 15
 DW (Deutsch): 14
-ZEIT ONLINE: 12
+ZEIT ONLINE: 13
+RND: 12
 EURACTIV Germany: 11
-RND: 11
-Die Presse: 11
+Euronews: 11
 onvista: 10
  Cash: 10
-Euronews: 10
 derStandard.de: 10
 taz.de: 9
+Oldenburger Onlinezeitung: 9
 Nau.ch: 8
 n-tv NACHRICHTEN: 8
 DIE WELT: 8
-Oldenburger Onlinezeitung: 8
+top agrar online: 8
 airliners.de: 7
 Reuters Deutschland: 7
 Wiener Zeitung: 7
@@ -29,11 +30,10 @@ finanzen.net: 7
 FOCUS Online: 6
 RP ONLINE: 6
 Salzburger Nachrichten: 6
+Suedtirol News: 6
 Neue Zürcher Zeitung: 6
-top agrar online: 6
 merkur.de: 6
 t-online.de: 5
-Suedtirol News: 5
 WirtschaftsWoche: 5
 Saarbrücker Zeitung: 4
 STERN.de: 4
@@ -47,8 +47,10 @@ Netzpolitik.org: 4
 Stol.it: 4
 Stuttgarter Zeitung: 4
 Stuttgarter Nachrichten: 4
+t3n Magazin: 4
 Heilbronner Stimme: 3
 heise online: 3
+inSüdthüringen.de: 3
 schweizerbauer.ch: 3
 Oberösterreichisches Volksblatt: 3
 DVZ.de - Deutsche Verkehrs-Zeitung: 3
@@ -56,8 +58,10 @@ Neues Volksblatt: 3
 Badische Zeitung: 3
 Presseportal.de: 3
 Cicero Online: 3
+Capital - Wirtschaft ist Gesellschaft: 3
 derStandard.at: 3
 General-Anzeiger: 3
+F.A.Z. - Frankfurter Allgemeine Zeitung: 3
 Handelsblatt: 3
 Vatican News: 2
 Liechtensteiner Vaterland: 2
@@ -65,25 +69,22 @@ BILD: 2
 Westdeutsche Zeitung: 2
 COMPUTER BILD: 2
 Österreichische Bauernzeitung: 2
-inSüdthüringen.de: 2
 noz.de - Neue Osnabrücker Zeitung: 2
 Zeitungsverlag Waiblingen: 2
 k.at: 2
 Hürriyet.de: 2
-Capital - Wirtschaft ist Gesellschaft: 2
 MDR: 2
 Deutsches Rotes Kreuz e.V.: 2
 NZZ - Neue Zürcher Zeitung: 2
 TRAVELBOOK: 2
-F.A.Z. - Frankfurter Allgemeine Zeitung: 2
 DAS INVESTMENT.com: 2
 Aachener Zeitung: 2
 ZDFheute: 2
 BNN - Badische Neueste Nachrichten: 2
+Berchtesgadener Anzeiger: 2
 Schwarzwälder Bote: 2
 kreiszeitung.de: 2
 domradio.de: 2
-t3n Magazin: 2
 Bote der Urschweiz: 1
 TAGESKARTE: 1
 FinanzNachrichten.de: 1
@@ -123,7 +124,6 @@ Deutschland Today: 1
 Inforadio vom rbb: 1
 Berliner Morgenpost: 1
 HASEPOST: 1
-Berchtesgadener Anzeiger: 1
 Leonberger Kreiszeitung: 1
 stadtlandzeitung: 1
 finews.ch: 1
@@ -137,3 +137,6 @@ Austrian Aviation Net: 1
 Frankfurter Rundschau: 1
 manager magazin: 1
 Fuldaer Zeitung: 1
+Berliner Zeitung: 1
+fr.de: 1
+meinbezirk.at: 1

@@ -1,29 +1,29 @@
-CNN: 169
-The Guardian: 102
+CNN: 182
+The Guardian: 111
 Daily Mail: 53
-POLITICO: 42
+POLITICO: 46
 CNBC: 26
-The Atlantic: 22
-Metro.co.uk: 20
-Deadline: 19
+The Atlantic: 23
+Metro.co.uk: 22
+Deadline: 20
 ABC News: 16
 USA TODAY: 15
 Bloomberg: 14
 BBC News: 13
-Express.co.uk: 11
-Telegraph.co.uk: 11
+Express.co.uk: 12
+Telegraph.co.uk: 12
 Vanity Fair: 11
-Business Insider: 8
+Business Insider: 9
 The New York Times: 8
 Financial Times: 8
+The Washington Post: 8
 Mirror Online: 7
-The Washington Post: 7
+RTE.ie: 6
 Vox.com: 6
+NBCNews.com: 6
 Whitehouse.gov: 6
-RTE.ie: 5
 Forbes: 5
 The Sun: 5
-NBCNews.com: 5
 The Associated Press: 5
 The Independent: 4
 Economic Times: 4
@@ -37,31 +37,34 @@ WKMG News 6 & ClickOrlando: 4
 South China Morning Post: 3
 New York Post : 3
 The Telegraph: 3
+Reuters: 3
+The New Yorker: 3
 The Hill: 3
 NBC News: 3
 The Hindu: 3
 9News: 3
 Salt Lake Tribune: 3
 Quartz: 2
+Evening Standard: 2
 Livemint: 2
 ITV News: 2
 AZCentral: 2
-Reuters: 2
 National Review: 2
 The Irish Times: 2
 Mother Jones: 2
-The New Yorker: 2
 New Zealand Herald: 2
 The Age: 2
+Sky News: 2
 Newsweek: 2
 NJ.com: 2
 Financial Post: 2
+The Indian Express: 2
 Des Moines Register: 2
 CTV News: 2
 NDTV: 2
 Deccan Herald: 2
 The Boston Globe: 2
-Evening Standard: 1
+Yahoo Sports: 2
 DW (English): 1
 The Australian: 1
 The Texas Tribune: 1
@@ -108,7 +111,6 @@ The Dallas Morning News: 1
 Bulletin Mail: 1
 Washington Times: 1
 Stuff.co.nz: 1
-Sky News: 1
 The New Republic: 1
 Politico: 1
 NPR: 1
@@ -121,10 +123,16 @@ Times Now: 1
 CBS Philly: 1
 Sydney Morning Herald: 1
 NME: 1
-The Indian Express: 1
 Billboard: 1
 ThePrint: 1
 Times of India: 1
 WDIV ClickOnDetroit: 1
 The Times: 1
 New York Daily News: 1
+Brookings Institution: 1
+Tribune-Review: 1
+U.S. News & World Report: 1
+PennLive: 1
+Lowell Sun: 1
+KKTV 11 News: 1
+Philadelphia magazine: 1

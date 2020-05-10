@@ -1,18 +1,18 @@
-NU.nl: 32
-AD.nl: 25
-Telegraaf.nl: 25
-NOS: 20
-Het Laatste Nieuws: 17
+NU.nl: 35
+AD.nl: 27
+Telegraaf.nl: 27
+NOS: 22
+Het Laatste Nieuws: 18
 Dagblad van het Noorden: 15
 Nederlands Dagblad: 13
 RTL Nieuws: 12
+Parool.nl: 11
 NRC: 11
 Volkskrant: 10
 Leeuwarder Courant: 10
-Parool.nl: 10
 Welingelichte Kringen: 10
 Trouw: 9
-Noordhollands Dagblad: 7
+Noordhollands Dagblad: 8
 De Limburger: 7
 De Dagelijkse Standaard: 6
 VRT NWS: 4
@@ -34,6 +34,8 @@ RTL Z: 2
 De Utrechtse Internet Courant: 2
 De Stentor: 2
 Dutch IT-channel: 2
+Het Financieele Dagblad: 2
+NPO Radio 1: 2
 Reformatorisch Dagblad: 2
 Suriname Herald: 1
 Androidworld: 1
@@ -43,11 +45,9 @@ De Gelderlander: 1
 Skipr: 1
 VPNgids: 1
 Duurzaamnieuws.nl: 1
-Het Financieele Dagblad: 1
 NPO 3FM: 1
 Vakblad fondsenwerving: 1
 RTL Boulevard: 1
-NPO Radio 1: 1
 MarketingTribune: 1
 newsmonkey: 1
 CustomerFirst: 1
@@ -65,3 +65,6 @@ Elsevier Weekblad: 1
 Sittard-Geleen.nieuws.nl: 1
 DroidApp: 1
 Hrpraktijk: 1
+indebuurt: 1
+ZwolleNu: 1
+GPToday.net: 1

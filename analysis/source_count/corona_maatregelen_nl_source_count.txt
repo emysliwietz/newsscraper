@@ -1,8 +1,8 @@
-NOS: 52
-RTL Nieuws: 35
+NOS: 55
+RTL Nieuws: 39
 Hartvannederland.nl: 19
+Telegraaf.nl: 18
 NU.nl: 17
-Telegraaf.nl: 17
 VRT NWS: 16
 AD.nl: 13
 ANWB: 9
@@ -65,3 +65,6 @@ Eemskrant: 1
 RTV Focus Zwolle: 1
 Zorgkrant: 1
 Nieuws en sport uit Limburg: 1
+De Nieuwkoper: 1
+Joop: 1
+GPfans: 1

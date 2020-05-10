@@ -1,30 +1,30 @@
-BBC News: 68
-The Guardian: 41
+BBC News: 69
+The Guardian: 42
 Daily Mail: 11
 9News: 9
 The Washington Post: 9
 ABC News: 9
 The New York Times: 9
-The Sun: 7
+The Sun: 8
 CNN: 7
 BBC South East Wales: 7
+The Times: 5
+Mirror Online: 5
+Global News: 5
 Sky News: 4
-The Times: 4
 The Verge: 4
 The Next Web: 4
 CNET: 4
-Global News: 4
+Metro.co.uk: 4
 Inkstone: 4
 7NEWS.com.au: 3
 CNBC: 3
 Wired.co.uk: 3
-Metro.co.uk: 3
 Reuters: 3
 The Wall Street Journal: 3
 The Indian Express: 3
 NBC News: 2
 ComputerWeekly.com: 2
-Mirror Online: 2
 The West Australian: 2
 DW (English): 2
 Financial Times: 2
@@ -32,6 +32,7 @@ The Independent: 2
 MacRumors: 2
 SBS News: 2
 NL Times: 2
+Isle of Wight County Press: 2
 MIT Technology Review: 2
 The Straits Times: 1
 The Australian: 1
@@ -65,7 +66,6 @@ SmartCompany.com.au: 1
 Euronews: 1
 Aljazeera.com: 1
 On The Wight: 1
-Isle of Wight County Press: 1
 Sydney Morning Herald: 1
 Northamptonshire Telegraph: 1
 Northampton Chronicle and Echo: 1

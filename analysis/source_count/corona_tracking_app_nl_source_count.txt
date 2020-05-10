@@ -1,5 +1,5 @@
-ICT&health.nl: 17
-Telecompaper: 14
+ICT&health.nl: 18
+Telecompaper: 15
 Datanews: 11
 Security.nl: 9
 RTL Nieuws: 8
@@ -38,3 +38,5 @@ VRT NWS: 1
 AGF.nl: 1
 Mr. Online: 1
 EenVandaag: 1
+Ditjes en Datjes: 1
+RTV Noord: 1

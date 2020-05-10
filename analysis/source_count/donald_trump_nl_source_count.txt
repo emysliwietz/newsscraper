@@ -1,4 +1,4 @@
-AD.nl: 27
+AD.nl: 30
 VRT NWS: 19
 De Standaard: 12
 Volkskrant: 11
@@ -16,11 +16,11 @@ Gazet van Antwerpen: 3
 Nederlands Dagblad: 3
 Gids.tv: 3
 Bladna.nl: 2
+Welingelichte Kringen: 2
 De Dagelijkse Standaard: 2
 Want: 2
 Autoblog.nl: 2
 RTL Boulevard: 2
-Welingelichte Kringen: 1
 FilmTotaal: 1
 NOS: 1
 BNR Nieuwsradio: 1

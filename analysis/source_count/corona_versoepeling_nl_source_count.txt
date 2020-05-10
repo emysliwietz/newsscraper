@@ -8,8 +8,8 @@ Volkskrant: 7
 Parool.nl: 6
 NRC: 6
 Omroep Brabant: 6
+Trouw: 5
 Rijksoverheid.nl: 5
-Trouw: 4
 Leeuwarder Courant: 4
 NH Nieuws: 4
 DeOndernemer.nl: 4
@@ -61,3 +61,4 @@ OVPro.nl: 1
 oosterhout.nieuws.nl: 1
 TV Valkenburg: 1
 RTV Drenthe: 1
+Alkmaar Centraal: 1

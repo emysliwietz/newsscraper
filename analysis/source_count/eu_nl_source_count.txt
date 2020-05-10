@@ -1,30 +1,31 @@
+Telegraaf.nl: 19
 Trouw: 19
-Telegraaf.nl: 18
+Leeuwarder Courant: 16
 Volkskrant: 15
-Leeuwarder Courant: 15
+NRC: 13
 Boerderij: 13
-NRC: 12
 Het Financieele Dagblad: 11
 NOS: 10
 RTL Nieuws: 9
 NU.nl: 8
+Elsevier Weekblad: 8
 Knack.be: 8
+Parool.nl: 7
 Nederlands Dagblad: 7
 RTL Z: 7
 Nieuwe Oogst: 7
-Elsevier Weekblad: 7
-Parool.nl: 6
+VRT NWS: 5
 BNR Nieuwsradio: 5
 De Tijd: 5
 De Standaard: 5
 AD.nl: 4
-VRT NWS: 4
 Dagblad van het Noorden: 4
 Boerenbusiness.nl: 4
 Reformatorisch Dagblad: 4
 Accountant.nl: 3
 ICT&health.nl: 3
 wnl.tv: 3
+Noordhollands Dagblad: 3
 ThePostOnline: 2
 Friesch Dagblad: 2
 De Limburger: 2
@@ -32,7 +33,6 @@ Het Laatste Nieuws: 2
 SCEPTR: 2
 Melkvee: 2
 De Morgen: 2
-Noordhollands Dagblad: 2
 AGF.nl: 2
 Financieel management: 2
 SpanjeVandaag: 2
@@ -72,3 +72,4 @@ De Dagelijkse Standaard: 1
 Vilt: 1
 Geenstijl.nl: 1
 Techzine.be: 1
+joods.nl: 1

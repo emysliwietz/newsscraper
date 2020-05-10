@@ -1,36 +1,36 @@
-The New York Times: 54
-BBC News: 48
-The Guardian: 40
-Bloomberg: 40
-Reuters: 27
-Daily Mail: 23
-Al Jazeera English: 18
-Financial Times: 18
-ABC News: 17
+The New York Times: 57
+BBC News: 50
+Bloomberg: 43
+The Guardian: 42
+Reuters: 30
+Daily Mail: 25
+Financial Times: 21
+Al Jazeera English: 19
+ABC News: 18
+Euronews: 18
 The Local Italy: 16
 Anadolu Agency: 16
 Telegraph.co.uk: 15
 Reuters UK: 14
-Euronews: 13
 Forbes: 12
 Sky News: 11
 CNBC: 9
 DW (English): 8
 Express.co.uk: 8
 The Economist: 8
+TRT World: 7
 NPR: 7
 The Wall Street Journal: 6
+CNN: 6
 FRANCE 24 English: 6
 The Straits Times: 6
 Business Insider: 6
 The Sun: 6
 CNA: 6
-CNN: 5
 Aljazeera.com: 5
 The Loppy: 5
-TRT World: 4
+The Hindu: 4
 RFI: 3
-The Hindu: 3
 INSIDER: 3
 Anadolu Ajansı: 3
 The Daily Beast: 3
@@ -39,11 +39,13 @@ Xinhua: 3
 EURACTIV: 3
 Express: 3
 U.S. News & World Report: 3
+CBC.ca: 3
 Los Angeles Times: 3
 Mirror Online: 3
 The Independent: 3
 NBCNews.com: 3
 CNBCTV18: 3
+The Washington Post: 3
 Times of India: 3
 The-Latest News: 2
 VOA News: 2
@@ -68,9 +70,9 @@ Gulf News: 2
 ITV News: 2
 Sydney Morning Herald: 2
 News Info Park: 2
-The Washington Post: 2
 Minneapolis Star Tribune: 2
 CMC Markets: 2
+The Times: 2
 Euro Weekly News: 2
 Variety: 2
 Football Italia: 1
@@ -107,7 +109,6 @@ India Today: 1
 MarketWatch: 1
 AS South Africa: 1
 ING Think: 1
-CBC.ca: 1
 Trendinindia: 1
 The News International: 1
 New Statesman: 1
@@ -143,7 +144,6 @@ CGTN: 1
 Cooling Post: 1
 Mumbai Mirror: 1
 The Tribune India: 1
-The Times: 1
 WCTI12.com: 1
 The Week (UK): 1
 Happytrips: 1
@@ -160,3 +160,16 @@ VentureBeat: 1
 Local Berkshire: 1
 The Tablet: 1
 HeraldScotland: 1
+Slate: 1
+GZERO Media: 1
+Daily Sabah: 1
+Politicopathy: 1
+Top Live News: 1
+Cumberland Times-News: 1
+Medical Xpress: 1
+WNWO NBC 24: 1
+WHTC News: 1
+Newsophilia: 1
+USA TODAY: 1
+The Philadelphia Inquirer: 1
+Newsweek: 1

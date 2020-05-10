@@ -1,36 +1,37 @@
-Financial Times: 143
+Financial Times: 152
 BBC News: 67
-Metro.co.uk: 24
-The Guardian: 24
+Metro.co.uk: 26
+The Guardian: 25
+Al Jazeera English: 24
+CNN: 22
 Telegraph.co.uk: 21
-CNN: 20
-Al Jazeera English: 20
 The New York Times: 18
+BBC South East Wales: 14
+The Sun: 14
 The Washington Post: 14
-The Sun: 13
-BBC South East Wales: 12
-CNN International: 11
+ABC News: 12
+CNN International: 12
 Sky News: 11
 Daily Mail: 9
 The Berlin Spectator: 7
 CNBC: 7
 The Telegraph: 7
-ABC News: 7
 The Local Germany: 7
 NPR: 5
+Times of India: 4
 The Local Sweden: 3
 ITV News: 3
 AS.com Móvil: 3
 The Loppy: 3
+PoliticsHome.com: 3
 The Conversation UK: 2
 Wales Online: 2
 The News International: 2
 The Scottish Sun: 2
+DW (English): 2
 talkSPORT.com: 2
 Eindhoven News: 2
 Liverpool Echo: 2
-PoliticsHome.com: 2
-Times of India: 2
 EUobserver: 1
 GOV.UK: 1
 Imperial College London: 1
@@ -53,10 +54,10 @@ Wired.co.uk: 1
 Gulf News: 1
 World Socialist Web Site: 1
 THE CITY: 1
-DW (English): 1
 ReliefWeb: 1
 NewsEverything: 1
 Africanews English: 1
 Jakarta Post: 1
 MyLondon: 1
 The Times: 1
+Kent Online: 1
