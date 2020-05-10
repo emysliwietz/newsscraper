@@ -75,6 +75,9 @@ if not os.path.exists("analysis"):
 if not os.path.exists("analysis/source_count"):
     os.mkdir("analysis/source_count")
 
+if not os.path.exists("analysis/date_count"):
+    os.mkdir("analysis/date_count")
+
 
 def sort_lines(lines):
     lines_split = lines.split("\n")
@@ -117,6 +120,48 @@ def calculate_percentages(lines, total_headlines):
     return lines_for_file
 
 
+def get_sources_and_occurences(lines, sources, occurences):
+    for line in lines:
+        if line == '':
+            break
+
+        line_elements = line.split(' | ')
+        source_index = len(line_elements) - 2
+        source = line_elements[source_index]
+        if source not in sources:
+            sources.append(source)
+            occurences.append(1)
+        else:
+            index = sources.index(source)
+            occurences[index] += 1
+
+    return sources, occurences
+
+
+def perform_source_analysis(file, sources, occurences, total_headlines):
+    original_path = os.path.join("news", file)
+    with open(original_path, "r", encoding='utf-8') as f:
+        lines_in_file = f.read()
+
+    lines = lines_in_file.split("\n")
+    total_headlines += len(lines)
+    sources, occurences = get_sources_and_occurences(lines, sources, occurences)
+    return sources, occurences, total_headlines, lines
+
+
+def write_to_file(sources, occurences, filepath, write_mode, lines):
+    num_sources = len(sources) - 1
+    lines_to_sort = ""
+    for i in range(num_sources):
+        line = "{}: {}\n".format(sources[i], occurences[i])
+        lines_to_sort += line
+
+    lines_to_append = sort_lines(lines_to_sort)
+    lines_to_append = calculate_percentages(lines_to_append, len(lines) - 1)
+    with open(filepath, write_mode, encoding='utf-8') as f:
+        f.write(lines_to_append)
+
+
 def source_count_per_file():
     for file in files:
         filename = file.replace('.txt', '')
@@ -133,31 +178,8 @@ def source_count_per_file():
         sources = []
         occurences = []
         print("Total number of headlines: " + str(len(lines) - 1))
-        for line in lines:
-            if line == '':
-                break
-
-            line_elements = line.split(' | ')
-            source_index = len(line_elements) - 2
-            source = line_elements[source_index]
-            if source not in sources:
-                sources.append(source)
-                occurences.append(1)
-            else:
-                index = sources.index(source)
-                occurences[index] += 1
-
-        num_sources = len(sources) - 1
-        lines_to_sort = ""
-        lines_to_append = ""
-        for i in range(num_sources):
-            line = "{}: {}\n".format(sources[i], occurences[i])
-            lines_to_sort += line
-
-        lines_to_append = sort_lines(lines_to_sort)
-        lines_to_append = calculate_percentages(lines_to_append, len(lines) - 1)
-        with open(filepath, write_mode, encoding='utf-8') as f:
-            f.write(lines_to_append)
+        sources, occurences = get_sources_and_occurences(lines, sources, occurences)
+        write_to_file(sources, occurences, filepath, write_mode, lines)
 
         print("Finished analysing " + file)
 
@@ -172,38 +194,10 @@ def source_count_de():
 
     write_mode = "w"  # Append to file
     for file in files_de:
-        original_path = os.path.join("news", file)
-        with open(original_path, "r", encoding='utf-8') as f:
-            lines_in_file = f.read()
-
-        lines = lines_in_file.split("\n")
-        total_headlines += len(lines)
-        for line in lines:
-            if line == '':
-                break
-
-            line_elements = line.split(' | ')
-            source_index = len(line_elements) - 2
-            source = line_elements[source_index]
-            if source not in sources:
-                sources.append(source)
-                occurences.append(1)
-            else:
-                index = sources.index(source)
-                occurences[index] += 1
+        sources, occurences, total_headlines, lines = perform_source_analysis(file, sources, occurences, total_headlines)
 
     print("Total number of headlines: " + str(total_headlines - 1))
-    num_sources = len(sources) - 1
-    lines_to_append = ""
-    lines_to_sort = ""
-    for i in range(num_sources):
-        line = "{}: {}\n".format(sources[i], occurences[i])
-        lines_to_sort += line
-
-    lines_to_append = sort_lines(lines_to_sort)
-    lines_to_append = calculate_percentages(lines_to_append, total_headlines - 1)
-    with open(filepath, write_mode, encoding='utf-8') as f:
-        f.write(lines_to_append)
+    write_to_file(sources, occurences, filepath, write_mode, lines)
 
     print("Finished analysing German files")
 
@@ -218,38 +212,10 @@ def source_count_en():
 
     write_mode = "w"  # Append to file
     for file in files_en:
-        original_path = os.path.join("news", file)
-        with open(original_path, "r", encoding='utf-8') as f:
-            lines_in_file = f.read()
-
-        lines = lines_in_file.split("\n")
-        total_headlines += len(lines)
-        for line in lines:
-            if line == '':
-                break
-
-            line_elements = line.split(' | ')
-            source_index = len(line_elements) - 2
-            source = line_elements[source_index]
-            if source not in sources:
-                sources.append(source)
-                occurences.append(1)
-            else:
-                index = sources.index(source)
-                occurences[index] += 1
+        sources, occurences, total_headlines, lines = perform_source_analysis(file, sources, occurences, total_headlines)
 
     print("Total number of headlines: " + str(total_headlines - 1))
-    num_sources = len(sources) - 1
-    lines_to_append = ""
-    lines_to_sort = ""
-    for i in range(num_sources):
-        line = "{}: {}\n".format(sources[i], occurences[i])
-        lines_to_sort += line
-
-    lines_to_append = sort_lines(lines_to_sort)
-    lines_to_append = calculate_percentages(lines_to_append, total_headlines - 1)
-    with open(filepath, write_mode, encoding='utf-8') as f:
-        f.write(lines_to_append)
+    write_to_file(sources, occurences, filepath, write_mode, lines)
 
     print("Finished analysing English files")
 
@@ -264,38 +230,10 @@ def source_count_nl():
 
     write_mode = "w"  # Append to file
     for file in files_nl:
-        original_path = os.path.join("news", file)
-        with open(original_path, "r", encoding='utf-8') as f:
-            lines_in_file = f.read()
-
-        lines = lines_in_file.split("\n")
-        total_headlines += len(lines)
-        for line in lines:
-            if line == '':
-                break
-
-            line_elements = line.split(' | ')
-            source_index = len(line_elements) - 2
-            source = line_elements[source_index]
-            if source not in sources:
-                sources.append(source)
-                occurences.append(1)
-            else:
-                index = sources.index(source)
-                occurences[index] += 1
+        sources, occurences, total_headlines, lines = perform_source_analysis(file, sources, occurences, total_headlines)
 
     print("Total number of headlines: " + str(total_headlines - 1))
-    num_sources = len(sources) - 1
-    lines_to_append = ""
-    lines_to_sort = ""
-    for i in range(num_sources):
-        line = "{}: {}\n".format(sources[i], occurences[i])
-        lines_to_sort += line
-
-    lines_to_append = sort_lines(lines_to_sort)
-    lines_to_append = calculate_percentages(lines_to_append, total_headlines - 1)
-    with open(filepath, write_mode, encoding='utf-8') as f:
-        f.write(lines_to_append)
+    write_to_file(sources, occurences, filepath, write_mode, lines)
 
     print("Finished analysing Dutch files")
 
@@ -307,4 +245,40 @@ def source_count():
     source_count_nl()
 
 
+def date_count():
+    for file in files:
+        filename = file.replace('.txt', '')
+        filepath = os.path.join("analysis/date_count", filename + "_date_count.txt")
+        if os.path.exists(filepath):
+            os.remove(filepath)
+
+        write_mode = "w"  # Append to file
+        original_path = os.path.join("news", file)
+        with open(original_path, "r", encoding='utf-8') as f:
+            lines_in_file = f.read()
+
+        lines = lines_in_file.split("\n")
+        dates = []
+        occurences = []
+        for line in lines:
+            if line == '':
+                break
+
+            line_elements = line.split(' | ')
+            time_index = len(line_elements) - 1
+            time_elements = line_elements[time_index].split('T')
+            date = time_elements[0]
+            if date not in dates:
+                dates.append(date)
+                occurences.append(1)
+            else:
+                index = dates.index(date)
+                occurences[index] += 1
+
+        write_to_file(dates, occurences, filepath, write_mode, lines)
+
+        print("Finished analysing dates in " + file)
+
+
 source_count()
+date_count()
