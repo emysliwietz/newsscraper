@@ -129,6 +129,8 @@ def get_sources_and_occurences(lines, sources, occurences):
         source_index = len(line_elements) - 2
         source = line_elements[source_index]
         if source not in sources:
+            if ": " in source:
+                source = source.replace(": ", " - ")
             sources.append(source)
             occurences.append(1)
         else:
