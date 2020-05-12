@@ -366,6 +366,19 @@ def word_count():
             line_elements = line.split(' | ')
             words_used = line_elements[0].split(' ')
             for word in words_used:
+                if ":" in word:
+                    word.replace(':', '')
+                elif "," in word:
+                    word.replace(',', '')
+                elif "\"" in word:
+                    word.replace('\"', '')
+                elif "\'" in word:
+                    word.replace('\'', '')
+                elif "?" in word:
+                    word.replace('?', '')
+                elif "!" in word:
+                    word.replace('!', '')
+
                 if word not in words:
                     words.append(word)
                     occurences.append(1)
