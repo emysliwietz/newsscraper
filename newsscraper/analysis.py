@@ -143,15 +143,21 @@ def get_sources_and_occurences(lines, sources, occurences):
     return sources, occurences
 
 
-def perform_source_analysis(file, sources, occurences, total_headlines):
+def perform_source_analysis(file, sources, occurences, total_headlines, unrelated_lines):
     original_path = os.path.join("news", file)
     with open(original_path, "r", encoding='utf-8') as f:
         lines_in_file = f.read()
 
     lines = lines_in_file.split("\n")
+    if file == "who_en.txt":
+        for line in lines:
+            if not ("WHO" in line or "World Health Organization" in line):
+                unrelated_lines += 1
+                lines.remove(line)
+
     total_headlines += len(lines)
     sources, occurences = get_sources_and_occurences(lines, sources, occurences)
-    return sources, occurences, total_headlines, lines
+    return sources, occurences, total_headlines, lines, unrelated_lines
 
 
 def write_to_file(sources, occurences, filepath, write_mode, lines):
@@ -209,7 +215,7 @@ def source_count_de():
 
     write_mode = "w"  # Append to file
     for file in files_de:
-        sources, occurences, total_headlines, lines = perform_source_analysis(file, sources, occurences, total_headlines)
+        sources, occurences, total_headlines, lines, x = perform_source_analysis(file, sources, occurences, total_headlines, 0)
 
     print("Total number of headlines: " + str(total_headlines - 1))
     write_to_file(sources, occurences, filepath, write_mode, lines)
@@ -221,22 +227,17 @@ def source_count_en():
     sources = []
     occurences = []
     total_headlines = 0
+    unrelated_lines = 0
     filepath = os.path.join("analysis/source_count", "source_count_en.txt")
     if os.path.exists(filepath):
         os.remove(filepath)
 
     write_mode = "w"  # Append to file
     for file in files_en:
-        unrelated_lines = 0
-        if file == "who_en.txt":
-            for line in lines:
-                if not ("WHO" in line or "World Health Organization" in line):
-                    unrelated_lines += 1
-                    lines.remove(line)
-
-        sources, occurences, total_headlines, lines = perform_source_analysis(file, sources, occurences, total_headlines)
+        sources, occurences, total_headlines, lines, unrelated_lines = perform_source_analysis(file, sources, occurences, total_headlines, unrelated_lines)
 
     print("Total number of headlines: " + str(total_headlines - 1))
+    write_to_file(sources, occurences, filepath, write_mode, lines)
     with open(filepath, "a", encoding='utf-8') as f:
         f.write("Removed " + str(unrelated_lines) + " lines unrelated to the WHO in who_en.txt")
 
@@ -253,7 +254,7 @@ def source_count_nl():
 
     write_mode = "w"  # Append to file
     for file in files_nl:
-        sources, occurences, total_headlines, lines = perform_source_analysis(file, sources, occurences, total_headlines)
+        sources, occurences, total_headlines, lines, x = perform_source_analysis(file, sources, occurences, total_headlines, 0)
 
     print("Total number of headlines: " + str(total_headlines - 1))
     write_to_file(sources, occurences, filepath, write_mode, lines)
