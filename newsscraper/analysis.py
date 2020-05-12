@@ -173,6 +173,29 @@ def write_to_file(sources, occurences, filepath, write_mode, lines):
         f.write(lines_to_append)
 
 
+def write_to_file_words(words, occurences, filepath, write_mode, lines):
+    num_words = len(words) - 1
+    lines_to_sort = ""
+    for i in range(num_words):
+        line = "{}: {}\n".format(words[i], occurences[i])
+        lines_to_sort += line
+
+    lines_to_append = sort_lines(lines_to_sort)
+    total_words = 0
+    for line in lines:
+        if line == '':
+            break
+
+        line_elements = line.split(' | ')
+        for line_element in line_elements:
+            words_in_line = line_element.split(' ')
+            total_words += len(words_in_line)
+
+    lines_to_append = calculate_percentages(lines_to_append, total_words)
+    with open(filepath, write_mode, encoding='utf-8') as f:
+        f.write(lines_to_append)
+
+
 def source_count_per_file():
     for file in files:
         filename = file.replace('.txt', '')
@@ -350,7 +373,7 @@ def word_count():
                     index = words.index(word)
                     occurences[index] += 1
 
-        write_to_file(words, occurences, filepath, write_mode, lines)
+        write_to_file_words(words, occurences, filepath, write_mode, lines)
         if file == "who_en.txt":
             with open(filepath, "a", encoding='utf-8') as f:
                 f.write("Removed " + str(unrelated_lines) + " lines unrelated to the WHO")
