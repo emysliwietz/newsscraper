@@ -78,6 +78,9 @@ if not os.path.exists("analysis/source_count"):
 if not os.path.exists("analysis/date_count"):
     os.mkdir("analysis/date_count")
 
+if not os.path.exists("analysis/word_count"):
+    os.mkdir("analysis/word_count")
+
 
 def sort_lines(lines):
     lines_split = lines.split("\n")
@@ -282,5 +285,49 @@ def date_count():
         print("Finished analysing dates in " + file)
 
 
+def word_count():
+    for file in files:
+        filename = file.replace('.txt', '')
+        filepath = os.path.join("analysis/word_count", filename + "_word_count.txt")
+        if os.path.exists(filepath):
+            os.remove(filepath)
+
+        write_mode = "w"  # Append to file
+        original_path = os.path.join("news", file)
+        with open(original_path, "r", encoding='utf-8') as f:
+            lines_in_file = f.read()
+
+        lines = lines_in_file.split("\n")
+        words = []
+        occurences = []
+        unrelated_lines = 0
+        if file == "who_en.txt":
+            for line in lines:
+                if not ("WHO" in line or "World Health Organization" in line):
+                    unrelated_lines += 1
+                    lines.remove(line)
+
+        for line in lines:
+            if line == '':
+                break
+
+            line_elements = line.split(' | ')
+            words_used = line_elements[0].split(' ')
+            for word in words_used:
+                if word not in words:
+                    words.append(word)
+                    occurences.append(1)
+                else:
+                    index = words.index(word)
+                    occurences[index] += 1
+
+        write_to_file(words, occurences, filepath, write_mode, lines)
+        if file == "who_en.txt":
+            with open(filepath, "a", encoding='utf-8') as f:
+                f.write("Removed " + str(unrelated_lines) + " lines unrelated to the WHO")
+        print("Finished analysing words in " + file)
+
+
 source_count()
 date_count()
+word_count()
