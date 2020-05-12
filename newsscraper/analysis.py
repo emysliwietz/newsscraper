@@ -182,9 +182,19 @@ def source_count_per_file():
         lines = lines_in_file.split("\n")
         sources = []
         occurences = []
+        unrelated_lines = 0
+        if file == "who_en.txt":
+            for line in lines:
+                if not ("WHO" in line or "World Health Organization" in line):
+                    unrelated_lines += 1
+                    lines.remove(line)
+
         print("Total number of headlines: " + str(len(lines) - 1))
         sources, occurences = get_sources_and_occurences(lines, sources, occurences)
         write_to_file(sources, occurences, filepath, write_mode, lines)
+        if file == "who_en.txt":
+            with open(filepath, "a", encoding='utf-8') as f:
+                f.write("Removed " + str(unrelated_lines) + " lines unrelated to the WHO")
 
         print("Finished analysing " + file)
 
@@ -217,10 +227,18 @@ def source_count_en():
 
     write_mode = "w"  # Append to file
     for file in files_en:
+        unrelated_lines = 0
+        if file == "who_en.txt":
+            for line in lines:
+                if not ("WHO" in line or "World Health Organization" in line):
+                    unrelated_lines += 1
+                    lines.remove(line)
+
         sources, occurences, total_headlines, lines = perform_source_analysis(file, sources, occurences, total_headlines)
 
     print("Total number of headlines: " + str(total_headlines - 1))
-    write_to_file(sources, occurences, filepath, write_mode, lines)
+    with open(filepath, "a", encoding='utf-8') as f:
+        f.write("Removed " + str(unrelated_lines) + " lines unrelated to the WHO in who_en.txt")
 
     print("Finished analysing English files")
 
@@ -265,6 +283,13 @@ def date_count():
         lines = lines_in_file.split("\n")
         dates = []
         occurences = []
+        unrelated_lines = 0
+        if file == "who_en.txt":
+            for line in lines:
+                if not ("WHO" in line or "World Health Organization" in line):
+                    unrelated_lines += 1
+                    lines.remove(line)
+
         for line in lines:
             if line == '':
                 break
@@ -281,6 +306,9 @@ def date_count():
                 occurences[index] += 1
 
         write_to_file(dates, occurences, filepath, write_mode, lines)
+        if file == "who_en.txt":
+            with open(filepath, "a", encoding='utf-8') as f:
+                f.write("Removed " + str(unrelated_lines) + " lines unrelated to the WHO")
 
         print("Finished analysing dates in " + file)
 
@@ -325,6 +353,7 @@ def word_count():
         if file == "who_en.txt":
             with open(filepath, "a", encoding='utf-8') as f:
                 f.write("Removed " + str(unrelated_lines) + " lines unrelated to the WHO")
+
         print("Finished analysing words in " + file)
 
 
