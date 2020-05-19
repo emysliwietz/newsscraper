@@ -185,3 +185,41 @@ Corona-App: Treffen sich ganz viele Smartphones | ZEIT ONLINE | 2020-05-11T13:27
 Corona-Tracking in Android und iOS: Das müssen Sie wissen | connect.de | 2020-04-23T07:00:00Z
 Faktencheck: Nein, die deutsche Anti-Corona-App wird Ihre Freunde nicht ausspähen | DER SPIEGEL | 2020-05-11T19:50:09Z
 Rechtsgrundlage für Tracing-Apps - Warum wir ein Corona-Tracing-Gesetz brauchen | Netzpolitik.org | 2020-05-09T06:00:42Z
+Neuer Vorschlag sorgt für Aufsehen: Nutzer der Corona-App sollen früher in Restaurants & Kinos dürfen | CHIP Online Deutschland | 2020-05-12T05:19:57Z
+Corona-Tracing-Apps: Freiwilligkeit bedeutet nicht Freiwilligkeit | heise online | 2020-05-01T07:00:00Z
+Corona-App: Diese 3 Tracing-Ansätze prüft die Bundesregierung | t3n Magazin | 2020-04-25T07:00:00Z
+Datenschutzfreundliche Corona-Tracing-App | Elektronikpraxis | 2020-05-08T04:30:00Z
+Covid-19 - Bundesregierung empfiehlt App-Standard für anonymes Corona-Tracing | Netzpolitik.org | 2020-04-15T07:00:00Z
+Coronavirus: Schweizer App für Contact Tracing verzögert sich | heise online | 2020-05-08T15:37:00Z
+Corona-Apps: Welche Länder nutzen welche Anwendungen? | RND | 2020-05-11T11:33:00Z
+Corona-Tracing-App: Was heißt zentralisiert oder dezentral? | tagesschau.de | 2020-04-26T07:00:00Z
+Corona-App: "Apple hat eine zentrale Lösung blockiert" | Süddeutsche Zeitung | 2020-04-27T07:00:00Z
+Der nächste Datenskandal? Angst vor britischer Corona-App | Euronews | 2020-05-13T08:44:36Z
+In Basel werden Corona-Patienten per App betreut – ohne Tracking - Basel | Badische Zeitung | 2020-05-14T06:03:00Z
+Coronavirus-Pandemie : Briten testen Tracking-App auf Isle of Wight | Tagesspiegel | 2020-05-05T07:00:00Z
+Corona-Tracking: SAP und Deutsche Telekom veröffentlichen erste Details zur Tracing- und Warn-App | heise online | 2020-05-14T14:02:00Z
+Auf die Maske folgt die App | Wiener Zeitung | 2020-05-14T13:30:50Z
+So funktioniert die Corona-App: Warum Datenschützer sie kritisch sehen | Business Insider Deutschland | 2020-04-17T14:35:43Z
+Corona-Tracking: SAP und Deutsche Telekom veröffentlichen erste Details zur Tracing- und Warn-App | Mac & i | 2020-05-14T14:02:00Z
+Wirtschaftsweise: Tracing-App hilft nur bei hohen Nutzerzahlen gegen Corona | WELT | 2020-05-04T07:00:00Z
+Das Wichtigste zur Corona-Tracing-App | Beobachter | 2020-05-14T16:25:35Z
+Kampf gegen Pandemie: Daran hakt es bei der Corona-App | tagesschau.de | 2020-05-08T14:10:00Z
+Corona-Tracking: Apple und Google wollen nur eine App pro Land | Mac & i | 2020-05-05T07:00:00Z
+Richtungswechsel: Corona-Tracking-App nun doch dezentralisiert nach Weigerung durch Apple | Notebookcheck | 2020-04-27T07:00:00Z
+Indien zwingt Bürger zur Nutzung von Corona-App | RND | 2020-05-15T10:20:00Z
+Corona-Warn-App: Corona-Warn-App pünktlich zur nächsten Lockerung? Merkels Sprecher äußert sich | Politik | merkur.de | 2020-05-15T12:06:09Z
+Indien zwingt Bürger zu Corona-App, die meisten haben kein Smartphone | KURIER | 2020-05-15T09:28:16Z
+iOS und Android: Corona-Tracking-Schnittstelle als Beta | heise online | 2020-04-30T07:00:00Z
+Corona-App von SAP und Telekom ab Juni: So soll sie funktionieren | Region | heidelberg24.de | 2020-05-16T11:10:21Z
+Tracking für die Freiheit - Per App aus der Corona-Krise | SWR | 2020-05-01T07:00:00Z
+Corona-Apps - Europaweite Standards geplant | Deutschlandfunk | 2020-04-17T07:00:00Z
+Tracing gegen Steuererstattung? Politik und Wirtschaft wollen Corona-Apps attraktiver machen | t3n Magazin | 2020-05-01T07:00:00Z
+Kampf gegen Pandemie: Daran hakt es bei der Corona-App | tagesschau.de | 2020-05-08T07:00:00Z
+Corona-Warn-App pünktlich zur nächsten Lockerung? Neue Studie zeigt: es eilt | Politik | merkur.de | 2020-05-17T11:58:43Z
+Karlsruher Forscher haben eigene Vorschläge für Corona-Tracking-App | BNN - Badische Neueste Nachrichten | 2020-05-09T07:00:00Z
+Kommentar: Gesundheits- und Datenschutz sind gleichwichtig im Kampf gegen Corona | Handelsblatt | 2020-05-17T16:45:05Z
+Digitale Pandemie-Bekämpfung: Darum hat es Indiens Anti-Corona-App trotz Nutzungspflicht schwer | DER SPIEGEL | 2020-05-15T10:52:24Z
+In Kürze online: Deutsche Corona-App startet in Liechtenstein | ZDFheute | 2020-05-17T16:46:48Z
+Corona-Warnung per Handy: Deutsche App soll in Liechtenstein starten | ZDFheute | 2020-05-17T16:46:48Z
+Coronavirus - Die Schwierigkeiten mit der Tracing-App | Deutschlandfunk | 2020-05-17T18:16:08Z
+Deutsche Corona-Warn-App kommt: So heißt sie, das kann sie | CHIP Online Deutschland | 2020-05-16T07:00:00Z
