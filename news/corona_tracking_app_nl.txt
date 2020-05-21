@@ -174,3 +174,7 @@ VK test tracking-app voor coronapatiënten | Executive People | 2020-05-07T07:00
 Corona tracking-app: proof-of-concept in de maak | ICT&health.nl | 2020-05-07T07:00:00Z
 LIVE Liveblog corona: Google-personeel werkt nog het hele jaar thuis - Infodemie blijft probleem | Datanews | 2020-05-15T22:36:57Z
 Centraal dashboard moet grip op corona vergroten | ICT&health.nl | 2020-05-18T07:37:08Z
+Apple en Google geven Nederland toegang tot bluetooth-tracking voor corona-app | Bright.nl | 2020-05-20T16:59:50Z
+Digitale armband als alternatief voor corona-app | Het Financieele Dagblad | 2020-05-11T07:00:00Z
+Apple en Google geven Nederland toegang tot bluetooth-tracking voor corona-app | Bright.nl | 2020-05-20T17:00:00Z
+iOS 13.5 met ondersteuning voor Corona-apps en meer uit | One More Thing | 2020-05-20T17:36:00Z
